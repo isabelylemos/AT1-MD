@@ -1,0 +1,1881 @@
+﻿id_cliente;nome;cidade;uf;idade;renda_mensal;tempo_cliente_meses;compras_12m;ticket_medio;dias_desde_ultima_compra;categoria_cliente
+C00493;Lucas Silva Barbosa;São Paulo;SP;33;5209.35;85;27;364.7;61;Ouro
+C01730;Letícia Ribeiro Moreira;São Paulo;SP;48;7177.95;61;9;498.68;114;Prata
+C00004;Patrícia Fernandes Nascimento;São Paulo;SP;38;5125.96;74;15;320.24;76;Prata
+C00461;Mariana Carvalho Martins;Recife;PE;23;2500.16;15;4;332.27;109;Bronze
+C00642;Aline Pereira Lima;Brasília;DF;61;9191.42;18;15;226.45;9;Prata
+C00185;Leandro Barbosa Melo;São Paulo;SP;39;5117.36;60;24;428.33;26;Prata
+C01308;Bianca Fernandes Melo;Campinas;SP;48;3661.4;24;10;592.56;51;Bronze
+C00547;Natália Lima Costa; Belo Horizonte;MG;26;3023.86;80;18;87.3;79;Prata
+C00827;Beatriz Cardoso Santos;Curitiba;PR;55;4995.35;8;15;392.14;52;Bronze
+C00529;Caio Almeida Araújo;Porto Alegre;RS;47;2660.95;21;14;141.06;5;Bronze
+C01328;Débora Melo Araújo;Registro;SP;39;14771.84;114;7;575.22;48;Ouro
+C00835;Eduarda Barbosa Araújo;São Paulo;SP;28;3115.5;103;24;307.18;7;Ouro
+C00582;Vinícius Rodrigues Nascimento;São Paulo;SP;46;4615.98;47;6;678.48;29;Prata
+C00583;Mateus Correia Rodrigues;Rio de Janeiro;RJ;34;2512.28;93;13;369.75;76;Prata
+C00221;Letícia Correia Rodrigues;belo horizonte ;MG;49;2505.09;107;6;309.56;47;Prata
+C01163;Sabrina Gomes Silva;Florianópolis;SC;53;6783.31;72;13;476.49;52;Prata
+C01410;Rafael Costa Martins;Campinas;SP;56;8769.2;53;14;664.55;18;Prata
+C01351;Aline Nascimento Cardoso;Curitiba;PR;23;1200;103;23;203.56;2;Prata
+C00745;Helena Carvalho Barbosa;Registro;SP;35;4284.0;105;19;349.42;63;Ouro
+C00666;Lucas Rocha Rodrigues;Porto Alegre;RS;;9123.8;110;19;145.88;59;Ouro
+C01096;Mateus Almeida Fernandes;São Paulo;SP;32;1605.97;59;23;118.92;54;Prata
+C01658;Letícia Barbosa Silva; Porto Alegre;RS;50;3323.07;52;25;418.89;0;Prata
+C01161;Helena Costa Fernandes;Salvador;BA;45;12435.78;14;6;723.08;11;Prata
+C01207;Bianca Melo Ribeiro;Belo Horizonte;MG;41;6496.48;26;14;383.7;24;Prata
+C00548;Camila Gomes Correia;Fortaleza;CE;24;3362.84;108;24;336.13;82;Ouro
+C00602;Sabrina Correia Melo;São Paulo;SP;18;2560.25;95;16;185.15;164;Prata
+C00822;Natália Rocha Mendes;Registro;SP;71;5101.38;57;14;;38;Prata
+C00911;Ana Mendes Silva;Brasília;DF;18;12098.49;110;28;417.6;78;Ouro
+C00692;Eduarda Ribeiro Carvalho;São Paulo;SP;58;48837.62;116;15;282.25;9;Prata
+C00823;Camila Costa Rodrigues;São Paulo;SP;18;3034.81;59;10;474.71;55;Prata
+C01618;Caio Rocha Correia;Londrina;PR;40;14943.22;109;25;589.21;31;Diamante
+C00268;Mateus Araújo Ribeiro;Santos;SP;45;5217.92;83;24;401.25;83;Ouro
+C00578;João Moreira Mendes;Fortaleza;CE;18;3257.42;12;23;437.55;36;Prata
+C00049;Aline Gomes Ribeiro;Florianópolis;SC;51;3479.46;77;18;6435.52;7;Prata
+C00549;Fernanda Melo Gomes;São Paulo;SP;45;4888.91;79;27;338.83;28;Ouro
+C00653;Camila Moreira Almeida;Curitiba;PR;39;2257.88;77;12;319.47;44;Prata
+C00102;Gustavo Moreira Melo;São Paulo;SP;18;3074.54;13;20;334.51;62;Prata
+C00127;Gabriel Gomes Correia;São Paulo;SP;40;8504.93;114;15;301.8;1;Ouro
+C00375;Thiago Almeida Martins;Porto Alegre;RS;45;4666.76;64;9;533.28;87;Prata
+C00312;Bianca Ribeiro Correia;São Paulo;SP;23;3670.23;10;9;302.09;25;Bronze
+C01229;Felipe Lima Melo;Santos;SP;49;5274.07;104;11;564.91;56;Prata
+C01554;Diego Ribeiro Mendes;Campinas;SP;25;4163.4;14;14;320.93;34;Bronze
+C01501;Thiago Cardoso Almeida;Florianópolis;SC;37;2744.46;80;10;327.6;83;Prata
+C00012;Gabriel Mendes Pereira;Salvador;BA;38;4526.53;87;15;613.65;66;Prata
+C01131;Rafael Costa Costa;Belo Horizonte;MG;24;3700.93;48;21;396.79;57;Prata
+C00893;Daniel Costa Carvalho;Campinas;SP;31;4256.39;37;19;579.37;0;Prata
+C01067;João Silva Melo;Curitiba;PR;68;2690.28;115;15;516.73;51;Prata
+C01670;Renata Araújo Barbosa;Curitiba;PR;41;7545.77;29;17;388.01;21;Prata
+C00204;Leandro Ribeiro Fernandes;Florianópolis;SC;18;2999.81;117;25;492.62;43;Ouro
+C00053;Sabrina Melo Costa;Florianópolis;SC;47;2423.36;113;32;414.95;41;Ouro
+C00055;Mônica Martins Pereira;Salvador;BA;35;2491.09;54;13;234.55;176;Prata
+C01513;Caio Almeida Oliveira;Florianópolis;SC;20;2853.73;102;12;533.76;30;Prata
+C00319;Renata Lima Martins;Campinas;SP;44;5183.51;26;12;271.53;7;Bronze
+C00500;Patrícia Correia Ribeiro;Campinas;SP;21;1740.94;109;9;327.57;17;Prata
+C00972;Daniel Martins Nascimento;Porto Alegre;RS;44;3780.79;108;19;451.27;38;Ouro
+C00011;Daniel Cardoso Carvalho;São Paulo;SP;36;5404.81;27;0;561.25;5;Bronze
+C01400;Natália Ribeiro Teixeira;Salvador;BA;54;10219.68;97;20;456.53;91;Ouro
+C00949;Felipe Oliveira Barbosa;Curitiba;PR;32;1866.38;82;11;377.24;43;
+C00943;Larissa Costa Costa;Londrina;PR;45;6796.16;114;28;388.18;10;Ouro
+C01756;Juliana Teixeira Souza;São Paulo;SP;56;6599.5;55;20;670.87;32;Ouro
+C00623;Marcos Santos Carvalho;Goiânia;GO;51;8541.01;65;3;569.49;1;Prata
+C00934;Felipe Gomes Fernandes;Rio de Janeiro;RJ;43;1403.49;11;14;357.04;45;Bronze
+C00705;Fernanda Gomes Martins;São Paulo;SP;30;2661.03;102;18;190.75;51;Prata
+C00654;Beatriz Correia Melo;São Paulo;SP;35;1686.05;17;17;294.03;12;Bronze
+C00180;Mariana Lima Rocha;Porto Alegre;RS;53;4543.07;114;11;274.24;43;Prata
+C00071;Bruno Barbosa Martins;Londrina;PR;45;1799.47;104;25;268.04;8;Prata
+C01398;Igor Melo Costa;Londrina;PR;56;2305.63;29;9;275.85;72;Bronze
+C00335;Bianca Rodrigues Barbosa;Registro;SP;45;2604.88;106;20;425.32;29;Prata
+C01227;Vinícius Pereira Barbosa;Rio de Janeiro;RJ;37;4645.96;20;7;396.38;28;Bronze
+C00006;Vinícius Pereira Lima;Rio de Janeiro;RJ;48;4361.6;31;5;250.88;0;Bronze
+C00337;Ana Melo Fernandes;Rio de Janeiro;RJ;;5286.55;51;11;533.77;49;Prata
+C00687;Gustavo Silva Martins;Londrina;PR;34;4349.66;112;7;583.0;41;Prata
+C01331;Letícia Araújo Carvalho;Campinas;SP;48;2514.42;10;3;387.91;11;Bronze
+C01055;Lucas Souza Souza;Campinas;SP;41;2498.86;20;19;235.72;26;Bronze
+C00389;Isabela Moreira Barbosa;Rio de Janeiro;RJ;38;5680.84;91;16;456.28;24;Prata
+C01383;João Oliveira Pereira;Salvador;BA;32;7802.6;83;18;572.9;125;Ouro
+C01667;Mateus Nascimento Rocha;São Paulo;SP;39;2896.68;48;11;300.41;0;Bronze
+C00239;Mariana Santos Moreira;Campinas;SP;50;2322.01;96;18;416.26;1;Prata
+C00702;Igor Almeida Barbosa;Fortaleza;CE;39;6363.94;106;18;285.63;12;Ouro
+C00828;Bruno Oliveira Moreira;São Paulo;SP;45;3089.26;109;20;257.12;13;Prata
+C01687;Sabrina Melo Araújo;Campinas;SP;40;4235.26;118;16;156.11;217;Prata
+C00168;Vanessa Silva Mendes;Porto Alegre;RS;34;2867.42;106;24;271.22;41;Ouro
+C01376;Eduarda Costa Lima;Goiânia;GO;48;9267.16;68;18;586.82;29;Ouro
+C01177;Caio Nascimento Fernandes;Registro;SP;25;3558.87;5;16;369.4;146;Bronze
+C00090;Vinícius Nascimento Ribeiro;São Paulo;SP;33;1579.56;61;23;323.51;134;Prata
+C01558;Débora Santos Rocha;São Paulo;SP;53;5188.59;46;11;416.95;8;Prata
+C01594;Eduarda Mendes Fernandes;Rio de Janeiro;RJ;39;1521.73;119;19;516.11;27;Ouro
+C01266;Eduarda Almeida Rodrigues;São Paulo;SP;34;2193.43;101;10;384.57;22;Prata
+C00553;Ana Pereira Ribeiro;Goiânia;GO;39;3657.2;45;2;423.77;16;Bronze
+C00874;Isabela Oliveira Nascimento;Porto Alegre;RS;32;4051.25;20;16;238.9;16;Bronze
+C00812;Mônica Carvalho Oliveira;Rio de Janeiro;RJ;39;7980.21;42;7;368.45;5;Prata
+C00590;Beatriz Martins Melo;Londrina;PR;51;4355.58;80;12;376.03;7;Prata
+C01248;Gabriel Lima Teixeira;Londrina;PR;33;3752.36;91;16;334.99;52;Prata
+C00140;Renata Martins Correia;Florianópolis;SC;43;6583.36;13;3;388.79;12;Bronze
+C00339;Mariana Rocha Barbosa;Belo Horizonte;MG;62;5024.71;17;12;305.32;9;Bronze
+C01350;Sabrina Mendes Almeida;Salvador;BA;45;4204.74;101;12;359.59;39;Prata
+C00447;Isabela Fernandes Almeida;Porto Alegre;RS;47;4201.68;77;21;523.4;132;Prata
+C01179;Mariana Santos Souza;Rio de Janeiro;RJ;42;6042.1;113;10;377.19;12;Prata
+C01517;João Cardoso Teixeira;São Paulo;SP;42;4523.22;64;16;399.16;309;Prata
+C00559;Vanessa Carvalho Fernandes;Campinas;SP;33;4999.14;106;15;231.13;19;Prata
+C01297;Marcos Araújo Souza;Santos;SP;18;2291.92;44;15;309.68;14;Prata
+C01101;Gustavo Nascimento Araújo;Santos;SP;61;8128.13;98;14;542.93;17;Ouro
+C00031;Helena Pereira Gomes;SÃO PAULO;SP;26;4203.77;8;9;447.74;49;Bronze
+C00798;Gustavo Rocha Souza;São Paulo;SP;60;24000;21;5;902.84;64;Ouro
+C00614;Carlos Gomes Rocha;Fortaleza;CE;36;3885.26;61;18;292.97;23;Prata
+C00616;Aline Correia Rodrigues;Santos;SP;61;8552.85;80;4;809.43;10;Prata
+C01549;Camila Oliveira Cardoso;Recife;PE;48;1734.16;45;14;262.61;3;Bronze
+C01065;Daniel Nascimento Nascimento;Belo Horizonte;MG;31;6387.59;100;10;527.78;5;Prata
+C01360;João Lima Martins;Florianópolis;SC;53;2127.77;17;10;319.51;29;Bronze
+C00637;Patrícia Souza Moreira;Curitiba;PR;29;9078.36;79;14;487.61;127;Ouro
+C00387;Renata Souza Silva;RIO DE JANEIRO;RJ;50;9307.66;98;21;462.48;8;Ouro
+C01575;Camila Rodrigues Pereira;São Paulo;SP;41;4625.63;21;12;221.22;15;Bronze
+C00677;Camila Santos Rocha;Goiânia;GO;33;3684.58;55;20;247.53;1;Prata
+C01577;Juliana Souza Lima;Rio de Janeiro;RJ;45;3197.97;91;10;419.77;129;Prata
+C01075;Rafael Almeida Lima;Curitiba;PR;40;4885.24;56;7;240.07;4;Bronze
+C01476;Juliana Oliveira Santos;Salvador;BA;32;3482.98;83;18;348.99;14;Prata
+C00998;Bruno Moreira Souza;São Paulo;SP;23;3983.6;79;5;470.94;63;Prata
+C00731;Mônica Moreira Fernandes;Florianópolis;SC;63;8721.38;17;9;447.23;34;Prata
+C00954;Rafael Mendes Almeida;São Paulo;SP;44;3419.33;52;14;423.99;2;Prata
+C00515;Bianca Martins Barbosa;Rio de Janeiro;RJ;48;4615.5;113;10;345.22;8;Prata
+C01780;Isabela Rodrigues Fernandes;São Paulo;SP;27;1360.13;104;20;325.45;30;Prata
+C01490;João Fernandes Rodrigues;Goiânia;GO;54;2459.89;51;7;278.27;59;Bronze
+C01088;Patrícia Souza Mendes;São Paulo;SP;25;3961.08;61;10;207.99;32;Prata
+C01016;Fernanda Rodrigues Rocha;Registro;SP;43;3771.24;61;14;284.13;10;Prata
+C00843;Leandro Gomes Silva;Florianópolis;SC;51;2739.52;90;28;224.16;26;Ouro
+C00249;Bianca Martins Oliveira;Londrina;PR;39;1552.63;103;12;259.07;44;Prata
+C01784;Lucas Mendes Martins;Recife;PE;31;4258.88;32;23;355.57;13;Prata
+C00940;Leandro Ribeiro Barbosa;Rio de Janeiro;RJ;40;1200;44;2;254.41;172;Bronze
+C00917;Caio Lima Silva;São Paulo;SP;25;1497.57;70;8;302.13;3;Bronze
+C01263;Thiago Mendes Lima;Campinas;SP;44;1577.6;56;10;272.9;3;Bronze
+C01068;Eduarda Cardoso Souza;Rio de Janeiro;RJ;29;1735.62;54;11;287.72;9;Bronze
+C01498;Gabriel Nascimento Souza;Rio de Janeiro;RJ;43;1200;76;19;226.7;32;Prata
+C00308;Rafael Nascimento Mendes;CURITIBA;PR;18;14226.6;33;22;490.34;57;Ouro
+C00332;Diego Almeida Martins;Belo Horizonte;MG;31;2891.37;65;13;499.15;1;Prata
+C01749;Fernanda Rocha Teixeira;São Paulo;SP;44;2754.68;27;16;347.64;89;Bronze
+C00046;Caio Carvalho Moreira;Rio de Janeiro;RJ;41;4285.52;51;8;253.42;32;Bronze
+C00594;Marcos Costa Teixeira;Porto Alegre;RS;51;3707.23;31;15;264.37;13;Bronze
+C00502;Felipe Costa Santos;Rio de Janeiro;RJ;47;4242.92;36;22;346.63;81;Prata
+C00495;Ana Santos Cardoso;Salvador;BA;46;3659.88;90;13;228.28;79;Prata
+C00669;Sabrina Mendes Araújo;Londrina;PR;42;6719.0;14;14;499.35;103;Prata
+C00711;Vinícius Nascimento Araújo;Registro;SP;34;4004.87;29;17;5534.91;21;Prata
+C01391;Mônica Nascimento Santos;São Paulo;SP;34;7930.49;92;13;422.04;11;Ouro
+C00155;Carlos Barbosa Rodrigues;Belo Horizonte;MG;28;1865.16;78;14;255.9;66;Prata
+C00124;Juliana Cardoso Souza;Recife;PE;47;7661.96;57;15;478.24;73;Prata
+C01690;Leandro Rodrigues Lima;Belo Horizonte;MG;35;2589.11;120;24;550.64;39;Ouro
+C00735;Diego Santos Barbosa;Salvador;BA;49;2285.76;25;15;303.53;57;Bronze
+C00710;Fernanda Mendes Gomes;Salvador;BA;36;7525.54;95;17;476.88;2;Ouro
+C01312;Lucas Moreira Cardoso;Goiânia;GO;45;3094.98;2;16;103.67;0;Bronze
+C00346;Mariana Silva Fernandes;Goiânia;GO;34;3000.11;66;17;352.38;29;Prata
+C00852;Lucas Mendes Carvalho;Campinas;SP;55;4383.14;16;11;273.85;28;Bronze
+C01616;Mateus Souza Nascimento;Recife;PE;37;2872.55;43;16;314.23;63;Prata
+C00301;Patrícia Cardoso Rocha;Belo Horizonte;MG;32;5157.03;54;11;;56;Prata
+C01521;Mariana Barbosa Moreira;Rio de Janeiro;RJ;18;4108.85;28;14;258.32;62;Bronze
+C01146;Rafael Oliveira Carvalho;Recife;PE;35;5366.01;58;23;220.66;26;Prata
+C00764;Larissa Araújo Almeida;São Paulo;SP;54;;71;9;222.43;43;Bronze
+C00660;Bruno Rodrigues Teixeira;Porto Alegre;RS;31;6442.68;93;10;530.81;54;Prata
+C01162;Mateus Correia Silva;Belo Horizonte;MG;46;2164.95;8;7;210.94;2;Bronze
+C00576;Helena Rodrigues Nascimento;Recife;PE;38;3442.2;86;14;289.21;14;Prata
+C01753;André Cardoso Rodrigues;Campinas;SP;44;3220.25;104;25;473.7;24;Ouro
+C00570;Renan Moreira Carvalho;São Paulo;SP;47;4178.74;118;16;350.4;78;Ouro
+C00528;Rodrigo Cardoso Rodrigues;Goiânia;GO;31;2226.99;114;13;315.67;49;Prata
+C00597;Camila Carvalho Araújo;Registro;SP;58;4656.8;15;14;445.06;0;Prata
+C01581;Lucas Nascimento Silva;Recife;PE;19;8333.63;20;15;349.28;6;Prata
+C01010;Débora Teixeira Correia;Londrina;PR;34;5483.03;22;12;398.14;24;Prata
+C01056;Vanessa Cardoso Cardoso;Santos;SP;44;3451.33;4;18;154.98;21;Bronze
+C00393;Lucas Martins Nascimento;São Paulo;SP;38;4646.13;20;15;316.64;35;Prata
+C00227;Vinícius Carvalho Ribeiro;São Paulo;SP;42;4295.28;52;9;253.5;40;Bronze
+C01365;Vinícius Santos Araújo;São Paulo;SP;30;2710.94;49;15;375.22;3;Prata
+C00612;Felipe Oliveira Oliveira;Campinas;SP;35;3506.07;49;9;451.46;16;Prata
+C01326;Caio Barbosa Rocha;Rio de Janeiro;RJ;30;3488.42;75;7;443.31;7;Prata
+C01030;Bruno Santos Almeida;Rio de Janeiro;RJ;35;5396.83;62;12;469.11;1;Prata
+C01416;Helena Ribeiro Oliveira;São Paulo;SP;37;2450.39;77;18;408.91;11;Prata
+C00131;Rodrigo Gomes Pereira;Rio de Janeiro;RJ;39;2387.22;66;26;424.81;43;Prata
+C00272;Larissa Souza Teixeira;Rio de Janeiro;RJ;26;4496.87;32;11;321.51;7;Bronze
+C00615;Eduarda Moreira Nascimento;Belo Horizonte;MG;43;6787.57;71;8;453.62;52;Prata
+C01361;Renan Rodrigues Rodrigues;Recife;PE;25;6920.89;65;9;483.12;34;Prata
+C00697;Mariana Rocha Rocha;Brasília;DF;28;8585.75;6;22;507.76;188;Prata
+C01506;Felipe Fernandes Oliveira;São Paulo;SP;39;6107.51;3;8;291.15;35;Bronze
+C00226;Felipe Costa Barbosa;Fortaleza;CE;45;2213.7;54;7;401.86;1;Bronze
+C00058;Renata Oliveira Melo;Registro;SP;35;2622.98;116;23;273.23;47;Ouro
+C00532;Mariana Silva Gomes;Rio de Janeiro;RJ;43;5041.58;90;0;583.3;26;Prata
+C01698;Gabriel Carvalho Correia;Rio de Janeiro;RJ;58;3665.68;52;21;339.58;31;Prata
+C01562;Beatriz Barbosa Pereira;São Paulo;SP;64;1471.85;119;18;365.62;2;Prata
+C00434;Gustavo Cardoso Correia;Santos;SP;37;6819.5;14;20;376.29;14;Prata
+C00648;Gabriel Correia Nascimento;Porto Alegre;RS;61;5425.91;100;8;261.41;51;Prata
+C01137;Rodrigo Melo Barbosa;São Paulo;SP;44;5760.83;9;14;336.02;37;Bronze
+C00706;Rafael Araújo Cardoso;Porto Alegre;RS;32;1748.17;48;11;539.46;25;Prata
+C00910;Patrícia Correia Melo;Recife;PE;41;7936.93;107;23;347.21;4;Ouro
+C01209;Igor Lima Moreira;São Paulo;SP;35;3386.91;89;18;476.9;71;Prata
+C01203;Lucas Barbosa Silva;São Paulo;SP;18;8050.44;86;26;537.58;1;Ouro
+C00880;Renan Martins Rocha;Porto Alegre;RS;33;10127.75;34;15;741.29;39;Prata
+C01294;Caio Santos Oliveira;Rio de Janeiro;RJ;40;6877.93;120;20;447.38;14;Ouro
+C01104;Daniel Fernandes Oliveira;Santos;SP;44;5996.49;117;25;507.24;63;Ouro
+C00074;Diego Nascimento Souza;Campinas;SP;32;5026.49;47;2;619.45;7;Bronze
+C01403;Diego Nascimento Ribeiro;Salvador;BA;18;10317.55;78;15;465.28;11;Ouro
+C01198;Leandro Ribeiro Barbosa;Belo Horizonte;MG;54;1694.59;24;9;365.99;5;Bronze
+C00478;Daniel Almeida Martins;São Paulo;SP;61;1798.94;90;16;362.97;15;Prata
+C01354;Bruno Pereira Mendes;São Paulo;SP;37;2895.12;52;11;203.22;5;Bronze
+C00816;Gabriel Santos Oliveira;Porto Alegre;RS;57;3274.39;31;7;169.72;8;Bronze
+C00112;Larissa Melo Souza;Recife;PE;33;2307.14;61;8;334.96;255;Bronze
+C01713;Leandro Pereira Lima;Salvador;BA;35;3714.15;84;14;422.74;7;Prata
+C00069;Marcos Mendes Pereira;Curitiba;PR;37;2394.83;85;10;408.56;16;Prata
+C00531;Gabriel Lima Carvalho;RIO DE JANEIRO;RJ;18;1662.39;62;12;182.34;21;Bronze
+C00385;Gabriel Correia Barbosa;Fortaleza;CE;24;5302.08;102;26;569.95;7;Ouro
+C00605;Gabriel Araújo Melo;Curitiba;PR;21;5149.81;82;11;336.96;78;Prata
+C01689;Gabriel Rocha Araújo;Campinas;SP;29;3901.29;75;12;316.94;18;Prata
+C00242;Bianca Cardoso Lima;São Paulo;SP;31;5072.35;45;0;266.12;0;Bronze
+C00709;Igor Nascimento Lima;São Paulo;SP;18;1219.49;31;14;;36;Bronze
+C00617;Daniel Lima Barbosa;Porto Alegre;RS;18;7420.42;22;19;344.36;89;Prata
+C00253;Débora Lima Rocha;Londrina;PR;38;2615.03;30;12;214.66;10;Bronze
+C01385;Bruno Nascimento Almeida;Londrina;PR;54;2621.87;31;4;340.9;54;Bronze
+C01058;Igor Rocha Correia;Brasília;DF;55;6406.85;27;6;370.88;24;Bronze
+C00657;Camila Cardoso Araújo;Curitiba;PR;32;6531.4;101;8;426.28;11;Prata
+C00574;Helena Gomes Carvalho;São Paulo;SP;56;7234.2;111;16;371.23;5;Ouro
+C00996;Letícia Cardoso Lima;Recife;PE;42;2748.77;69;16;176.5;108;Prata
+C01584;Mônica Rodrigues Correia;Rio de Janeiro;RJ;31;3199.42;87;21;443.22;47;Prata
+C00149;Letícia Santos Araújo;São Paulo;SP;42;4273.75;36;20;251.22;3;Prata
+C01626;Gabriel Araújo Correia;Curitiba;PR;43;4789.85;37;9;422.44;13;Bronze
+C01226;Sabrina Lima Moreira;Rio de Janeiro;RJ;32;1810.69;102;23;291.31;6;Prata
+C01219;Juliana Cardoso Moreira;Belo Horizonte;MG;32;4331.82;67;13;568.6;14;Prata
+C00848;Isabela Pereira Martins;Porto Alegre;RS;32;5207.5;72;7;519.49;385;Prata
+C00017;Gustavo Pereira Correia;Fortaleza;CE;29;2095.49;36;10;282.65;6;Bronze
+C00704;Mariana Carvalho Santos;Fortaleza;CE;20;7156.42;35;15;330.49;25;Prata
+C01348;Rafael Lima Costa;Rio de Janeiro;RJ;57;5122.8;22;13;386.56;74;Prata
+C00323;Patrícia Cardoso Moreira;Fortaleza;CE;24;2998.6;56;0;538.78;15;Bronze
+C01255;André Teixeira Oliveira;Campinas;SP;42;11271.19;36;11;572.26;9;Prata
+C00125;Marcos Rodrigues Nascimento;São Paulo;SP;35;;76;10;363.39;40;Prata
+C01424;Lucas Gomes Costa;Belo Horizonte;MG;18;5582.02;28;17;562.38;60;Prata
+C00696;Vinícius Rodrigues Souza;Recife;PE;49;5127.13;70;27;306.02;9;Ouro
+C01766;Vinícius Rodrigues Mendes;Recife;PE;48;9187.68;12;13;459.12;41;Prata
+C00779;Isabela Mendes Carvalho;Goiânia;GO;38;5311.69;85;14;465.04;86;Prata
+C00530;Sabrina Cardoso Souza;Curitiba;PR;48;54532.95;95;20;226.17;16;Prata
+C01563;Rodrigo Almeida Oliveira;Rio de Janeiro;RJ;21;2444.25;30;1;433.55;3;Bronze
+C00879;Rafael Pereira Carvalho;Curitiba;PR;55;1550.7;67;14;481.06;26;Prata
+C00114;Bruno Correia Barbosa;Curitiba;PR;44;6236.75;35;8;370.94;3;Prata
+C01455;Beatriz Correia Araújo;Registro;SP;18;5229.36;110;17;328.8;21;Ouro
+C00694;Eduarda Teixeira Ribeiro;São Paulo;SP;18;7195.13;61;16;409.34;107;Prata
+C00402;Rodrigo Souza Araújo;Salvador;BA;37;4743.69;106;6;568.88;39;Prata
+C00033;Lucas Costa Barbosa;Londrina;PR;48;11387.41;76;6;617.58;112;Prata
+C01719;Caio Nascimento Silva;Florianópolis;SC;64;2393.34;75;18;292.38;12;Prata
+C00890;Mariana Gomes Fernandes;Campinas;SP;18;3055.03;3;15;116.39;254;Bronze
+C00781;Letícia Carvalho Pereira;Fortaleza;CE;18;8478.48;11;6;378.62;43;Bronze
+C00291;Aline Ribeiro Teixeira;Belo Horizonte;MG;22;3038.21;14;21;358.35;58;Prata
+C00109;Helena Nascimento Cardoso;rio de janeiro;RJ;35;2288.89;93;10;336.76;7;Prata
+C00384;Igor Moreira Moreira;Registro;SP;32;3723.88;11;9;459.39;22;Bronze
+C00899;Caio Martins Pereira;Campinas;SP;18;3512.25;117;23;504.85;44;Ouro
+C01674;Daniel Pereira Oliveira;São Paulo;SP;30;4532.55;68;21;422.8;119;Prata
+C01393;Carlos Nascimento Santos;Rio de Janeiro;RJ;32;6056.39;84;17;469.43;49;Prata
+C00288;Leandro Carvalho Martins;Salvador;BA;55;10643.77;86;17;419.99;51;Ouro
+C00172;Marcos Ribeiro Souza;Porto Alegre;RS;30;11350.17;111;15;364.66;45;Ouro
+C01330;Larissa Gomes Rodrigues;SÃO PAULO;SP;40;2424.84;39;9;246.14;16;Bronze
+C01796;Renata Pereira Mendes;Salvador;BA;36;10758.39;64;25;658.54;43;Ouro
+C00738;Bruno Mendes Nascimento;Santos;SP;32;3360.33;2;12;317.78;15;Bronze
+C00318;Vinícius Rodrigues Silva;Recife;PE;26;3492.21;10;13;234.15;69;Bronze
+C01422;Beatriz Nascimento Melo;São Paulo;SP;38;3587.56;32;10;641.0;50;Prata
+C00970;Carlos Nascimento Carvalho; Porto Alegre;RS;21;2878.61;42;1;130.22;75;Bronze
+C01212;Leandro Melo Barbosa; São Paulo ;SP;28;3283.98;46;16;326.05;206;Prata
+C01098;Aline Silva Nascimento;Goiânia;GO;65;8844.3;32;10;429.6;25;Prata
+C00658;Beatriz Barbosa Cardoso;Rio de Janeiro;RJ;91;3778.02;56;13;226.96;81;Prata
+C01292;Débora Lima Silva;São Paulo;SP;33;8946.4;62;12;539.25;77;Prata
+C00932;Marcos Barbosa Rodrigues;Rio de Janeiro;RJ;46;4365.64;64;14;605.36;83;Prata
+C00675;Camila Araújo Gomes;Campinas;SP;42;3745.45;27;11;412.4;27;Bronze
+C00931;Carlos Cardoso Lima;São Paulo;SP;54;9694.05;43;15;200.43;20;Prata
+C00914;João Oliveira Ribeiro;São Paulo;SP;63;2375.51;115;13;239.78;38;Prata
+C00805;Renata Silva Mendes;Belo Horizonte;MG;50;6537.91;98;24;452.36;34;Ouro
+C00101;Juliana Rodrigues Lima;Fortaleza;CE;51;8119.41;33;16;566.51;64;Prata
+C01799;Natália Almeida Santos;sao paulo;SP;55;10458.73;96;16;710.58;61;Ouro
+C01172;Renata Nascimento Almeida;Salvador;BA;70;2214.76;42;25;373.62;45;Prata
+C01671;João Costa Silva;Registro;SP;57;7196.73;76;13;465.7;33;Prata
+C00360;Igor Carvalho Melo;São Paulo;SP;22;3034.74;27;17;230.72;16;Bronze
+C01523;Caio Barbosa Fernandes;Campinas;SP;46;3787.45;97;25;387.65;105;Ouro
+C00421;Vanessa Martins Moreira;São Paulo;SP;36;7745.05;12;15;237.91;2;Prata
+C00566;Bruno Teixeira Araújo;Recife;PE;56;4125.01;107;15;321.82;53;Prata
+C01459;João Carvalho Barbosa;São Paulo;SP;48;4503.4;26;15;202.83;9;Bronze
+C00317;Fernanda Araújo Araújo;Campinas;SP;44;13232.1;67;15;587.08;23;Ouro
+C01622;Isabela Pereira Silva;Salvador;BA;56;3455.42;66;13;315.52;61;Prata
+C01190;Gustavo Nascimento Teixeira;Santos;SP;27;3856.08;108;18;388.52;38;Prata
+C00873;Bruno Rodrigues Barbosa;BELO HORIZONTE;MG;45;3264.79;61;2;189.87;95;Bronze
+C01167;Bianca Lima Gomes;São Paulo;SP;18;2962.73;56;17;;66;Prata
+C01522;Carlos Almeida Cardoso;Rio de Janeiro;RJ;29;;98;16;486.83;9;Ouro
+C01061;João Rocha Silva;Goiânia;GO;37;3616.13;116;22;215.14;20;Ouro
+C00154;Mônica Gomes Gomes;Brasília;DF;41;3546.62;110;15;298.1;99;Prata
+C00892;Gustavo Cardoso Fernandes;São Paulo;SP;56;1266.17;75;11;451.0;17;Prata
+C00739;PATRÍCIA GOMES SILVA;REGISTRO;SP;55;2240.59;79;12;118.88;3;Prata
+C01236;Débora Correia Fernandes;São Paulo;SP;34;7491.14;111;26;640.35;3;Ouro
+C00200;Thiago Martins Rocha;Belo Horizonte;MG;28;1338.06;120;18;294.54;2;Prata
+C00909;Fernanda Lima Silva;Rio de Janeiro;RJ;31;3912.21;61;16;425.14;6;Prata
+C01525;Rodrigo Silva Costa;Rio de Janeiro;RJ;31;4641.2;56;26;260.25;220;Prata
+C01467;Vanessa Santos Moreira;Rio de Janeiro;RJ;41;10250.11;116;25;626.95;16;Ouro
+C00340;Isabela Melo Araújo; Belo Horizonte;MG;35;9741.59;35;17;547.16;69;Prata
+C00919;André Teixeira Cardoso;Campinas;SP;54;4077.52;79;12;444.72;31;Prata
+C00303;Lucas Costa Correia;Campinas;SP;35;8480.27;76;15;378.85;128;Prata
+C00546;Bianca Lima Moreira;Goiânia;GO;37;6699.78;120;11;414.51;59;Ouro
+C01245;Helena Nascimento Pereira;Recife;PE;36;4755.18;23;18;403.87;25;Prata
+C00641;Gabriel Mendes Barbosa;São Paulo;SP;41;5701.49;117;22;559.13;18;Ouro
+C01062;Ana Carvalho Teixeira;Salvador;BA;20;5500.45;113;8;185.46;42;Prata
+C01057;Natália Martins Nascimento;Porto Alegre;RS;44;2605.82;5;11;45;101;Bronze
+C00329;Natália Barbosa Lima;Campinas;SP;51;1822.27;69;16;445.0;59;Prata
+C00558;Renata Silva Santos;Registro;SP;58;5394.98;54;11;199.43;1;Prata
+C00800;Daniel Ribeiro Mendes;Porto Alegre;RS;32;6313.44;76;19;517.23;0;Ouro
+C01507;Juliana Araújo Melo;São Paulo;SP;26;3325.91;22;8;446.02;26;Bronze
+C01661;Camila Melo Oliveira;São Paulo;SP;33;10823.28;78;14;542.79;13;Ouro
+C00265;Thiago Almeida Oliveira;Belo Horizonte;MG;33;3263.92;58;13;201.41;31;Prata
+C01560;Letícia Ribeiro Oliveira;Belo Horizonte;MG;36;4816.19;99;12;348.33;24;Prata
+C00126;Carlos Mendes Nascimento;Rio de Janeiro;RJ;47;4649.73;116;21;427.88;47;Ouro
+C01233;Juliana Nascimento Barbosa;São Paulo;SP;50;7718.77;77;17;321.15;25;Prata
+C00655;Helena Carvalho Moreira;Campinas;SP;33;3901.15;119;8;352.06;35;Prata
+C00889;Patrícia Melo Carvalho;Campinas;SP;53;5013.0;66;16;236.92;9;Prata
+C01722;Fernanda Araújo Santos;São Paulo;SP;28;4902.27;117;22;296.8;2;Ouro
+C00116;Beatriz Fernandes Gomes;São Paulo;SP;38;6530.81;59;13;365.18;90;Prata
+C01602;Vinícius Moreira Correia;Rio de Janeiro;RJ;18;6761.44;119;24;467.4;73;Ouro
+C01720;Patrícia Carvalho Almeida;Campinas;SP;21;2145.01;108;18;419.58;7;Prata
+C00797;Ana Nascimento Moreira; Belo Horizonte;MG;53;4584.89;100;21;312.67;7;Ouro
+C01335;Thiago Moreira Lima;Salvador;BA;32;3306.43;4;10;215.63;50;Bronze
+C00447;ISABELA FERNANDES ALMEIDA;PORTO ALEGRE;RS;47;4201.68;77;21;523.4;132;Prata
+C00628;Bruno Carvalho Silva;Rio de Janeiro;RJ;47;4991.74;119;22;341.96;39;Ouro
+C01007;Carlos Almeida Rodrigues;Florianópolis;SC;37;10748.72;96;10;444.63;9;Ouro
+C00721;Thiago Lima Pereira;Recife;PE;48;4744.27;78;13;304.49;94;Prata
+C00287;Mariana Correia Lima;Curitiba;PR;53;3274.91;104;14;261.78;24;Prata
+C00946;Vanessa Ribeiro Costa;Rio de Janeiro;RJ;20;5047.48;96;15;331.84;1;Prata
+C01530;Camila Fernandes Moreira;porto alegre ;RS;39;2972.82;107;19;144.35;127;Prata
+C00347;Rodrigo Pereira Costa;Santos;SP;27;3940.11;30;6;345.61;260;Bronze
+C01519;Natália Silva Moreira;Curitiba;PR;21;5869.83;85;11;429.66;13;Prata
+C00880;Renan Martins Rocha;Porto Alegre;RS;33;10127.75;34;15;741.29;39;Prata
+C01257;Gabriel Moreira Mendes;São Paulo;SP;32;4935.91;9;17;437.42;194;Prata
+C00369;Débora Costa Martins;Campinas;SP;53;4433.23;115;21;359.28;25;Ouro
+C00747;Beatriz Correia Moreira;rio de janeiro;RJ;30;3635.52;27;2;371.3;162;Bronze
+C01537;Camila Carvalho Araújo;Londrina;PR;18;7816.72;64;7;;30;Prata
+C00156;Beatriz Cardoso Melo;Belo Horizonte;MG;25;36112.92;86;21;417.76;39;Prata
+C01152;Mariana Rodrigues Cardoso;Campinas;SP;56;6934.51;85;18;660.81;60;Ouro
+C01404;Diego Nascimento Araújo;Salvador;BA;34;1636.45;20;4;431.65;23;Bronze
+C01701;Sabrina Silva Rodrigues;São Paulo;SP;28;8774.84;43;18;502.36;77;Prata
+C00407;Lucas Souza Mendes;São Paulo;SP;35;6304.24;102;18;444.31;38;Ouro
+C01171;Diego Rodrigues Melo;Belo Horizonte;MG;41;9098.23;69;9;592.48;18;Prata
+C01178;Mônica Silva Costa;Santos;SP;30;1941.59;14;18;341.71;56;Bronze
+C00475;Vinícius Barbosa Martins;Fortaleza;CE;;3158.85;96;20;390.83;86;Prata
+C01253;André Lima Lima;Porto Alegre;RS;58;3110.67;22;16;336.02;7;Bronze
+C00020;Beatriz Lima Barbosa;Campinas;SP;35;1457.08;82;16;351.98;27;Prata
+C00475;Vinícius Barbosa Martins;Fortaleza;CE;;3158.85;96;20;390.83;86;Prata
+C00079;Mateus Barbosa Rocha;Rio de Janeiro;RJ;36;11934.26;42;15;490.71;18;Ouro
+C01705;Renata Teixeira Lima;São Paulo;SP;37;6416.18;46;11;310.45;3;Prata
+C00165;Carlos Barbosa Mendes;Curitiba;PR;;2217.31;114;28;396.92;3;Ouro
+C00068;Bianca Rocha Santos;Belo Horizonte;MG;45;4284.87;110;17;630.76;30;Ouro
+C00273;Marcos Araújo Barbosa;São Paulo;SP;44;4896.48;7;8;385.13;87;Bronze
+C00810;Gustavo Teixeira Fernandes;Londrina;PR;51;5097.39;110;24;377.91;29;Ouro
+C00806;Vanessa Cardoso Pereira;Campinas;SP;49;24000;63;16;1003.26;63;Diamante
+C01083;Patrícia Souza Teixeira;Recife;PE;41;5772.68;55;19;269.27;14;Prata
+C01676;Daniel Lima Pereira; Rio de Janeiro ;RJ;37;4695.32;73;18;347.38;51;Prata
+C00005;Mariana Rocha Rocha;Porto Alegre;RS;31;7645.69;87;17;567.81;56;Ouro
+C00290;Igor Moreira Correia;São Paulo;SP;29;7716.38;18;12;396.04;2;Prata
+C01308;Bianca Fernandes Melo;Campinas;SP;48;3661.4;24;10;592.56;51;Bronze
+C00115;Mateus Santos Pereira; São Paulo ;SP;50;12699.89;55;9;641.08;0;Ouro
+C00456;Sabrina Melo Silva;Campinas;SP;31;12073.81;52;17;509.12;23;Ouro
+C00057;Letícia Fernandes Barbosa;Goiânia;GO;39;7041.49;21;15;301.1;56;Prata
+C01038;Marcos Ribeiro Mendes;Curitiba;PR;49;7588.15;44;15;399.24;39;Prata
+C00096;André Correia Carvalho;Santos;SP;40;7849.57;119;15;336.52;62;Ouro
+C01279;Lucas Araújo Silva;Salvador;BA;26;1958.21;39;15;581.12;0;Prata
+C01744;Vanessa Ribeiro Moreira;Porto Alegre;RS;61;1474.64;100;19;448.18;5;Prata
+C01021;Patrícia Nascimento Correia;Salvador;BA;40;4876.6;110;19;430.27;39;Ouro
+C01702;Beatriz Pereira Fernandes;Salvador;BA;45;3578.23;67;17;343.99;122;Prata
+C00374;Mateus Cardoso Santos;Santos;SP;54;4428.67;120;6;550.83;87;Prata
+C00237;Marcos Carvalho Carvalho;Brasília;DF;18;6507.49;64;14;545.51;51;Prata
+C00463;Débora Nascimento Moreira;Florianópolis;SC;29;3512.21;48;18;369.71;27;Prata
+C01102;Camila Rodrigues Almeida;Curitiba;PR;38;10949.12;64;17;590.59;5;Ouro
+C01060;Bianca Silva Moreira;Florianópolis;SC;28;4939.89;38;12;263.62;20;Prata
+C01708;Fernanda Oliveira Carvalho;Curitiba;PR;43;4864.98;39;12;254.36;11;Prata
+C00286;Renata Barbosa Correia;Recife;PE;64;2725.03;105;22;364.53;39;Ouro
+C00983;Eduarda Araújo Carvalho;Rio de Janeiro;RJ;21;3286.38;11;21;636.84;10;Prata
+C00413;Vanessa Cardoso Silva;Santos;SP;58;3876.73;108;18;380.41;28;Prata
+C01124;Thiago Souza Martins;Curitiba;PR;18;5674.56;58;20;351.34;31;Prata
+C00003;Bianca Martins Barbosa;Salvador;BA;31;7342.09;52;28;546.15;20;Ouro
+C01076;Larissa Lima Ribeiro;Curitiba;PR;39;8039.25;30;15;359.33;14;Prata
+C01333;Gabriel Gomes Martins;FLORIANÓPOLIS;SC;48;4505.48;61;13;394.75;132;Prata
+C01767;Vanessa Lima Gomes;Curitiba;PR;29;5621.69;42;5;389.52;2;Bronze
+C01156;Natália Souza Costa;Curitiba;PR;39;7811.5;116;26;247.94;132;Ouro
+C00247;Caio Rodrigues Melo;Curitiba;PR;49;6315.04;107;6;444.03;95;Prata
+C00927;Eduarda Costa Rodrigues;Fortaleza;CE;41;1662.36;59;8;242.96;4;Bronze
+C00458;Ana Costa Gomes;Porto Alegre;RS;49;10036.43;82;14;440.36;60;Ouro
+C00752;Leandro Carvalho Araújo;Rio de Janeiro;RJ;43;7639.0;103;24;454.92;45;Ouro
+C00422;Thiago Martins Cardoso;Porto Alegre;RS;37;4768.77;70;12;299.65;21;Prata
+C01642;Renan Mendes Silva;Curitiba;PR;35;2851.6;39;17;323.93;8;Prata
+C00955;Felipe Teixeira Costa;São Paulo;SP;61;3492.66;25;13;;39;Bronze
+C01106;Gustavo Mendes Nascimento;Florianópolis;SC;47;4757.56;115;14;357.88;57;Prata
+C01471;Débora Cardoso Nascimento;Porto Alegre;RS;39;1508.67;116;16;299.22;28;Prata
+C01242;Renan Pereira Barbosa;Campinas;SP;30;1827.82;8;0;312.47;3;Bronze
+C01342;Mateus Melo Moreira;Florianópolis;SC;47;3541.7;95;10;146.67;14;Prata
+C01459;João Carvalho Barbosa;São Paulo;SP;48;4503.4;26;15;202.83;9;Bronze
+C01648;Bianca Lima Almeida;CURITIBA;PR;40;3618.78;21;13;501.36;37;Bronze
+C01430;Letícia Gomes Martins;Belo Horizonte;MG;55;;38;17;460.77;8;Prata
+C00293;Leandro Souza Rocha;São Paulo;SP;22;81956.81;41;12;348.49;17;Prata
+C01047;Letícia Melo Barbosa;Londrina;PR;26;9509.1;72;26;392.32;37;Ouro
+C00376;Diego Correia Moreira;São Paulo;SP;29;3344.48;102;17;503.58;78;Prata
+C00150;Leandro Oliveira Gomes;Salvador;BA;36;2765.63;26;22;410.15;40;Prata
+C00787;Felipe Ribeiro Teixeira;Salvador;BA;50;4276.99;61;21;372.29;104;Prata
+C01782;Letícia Teixeira Mendes;Rio de Janeiro;RJ;41;5230.97;90;24;383.61;101;Ouro
+C01798;Gustavo Oliveira Melo;Registro;SP;45;3789.16;53;20;579.44;12;Prata
+C01090;Lucas Almeida Pereira;São Paulo;SP;42;6227.38;68;11;316.31;49;Prata
+C00324;Felipe Gomes Nascimento;Rio de Janeiro;RJ;50;6353.22;118;5;551.73;5;Prata
+C01583;Caio Costa Melo;Curitiba;PR;40;6243.24;103;8;253.24;59;Prata
+C01363;Helena Carvalho Mendes;Salvador;BA;18;2769.09;119;16;445.7;33;Prata
+C00769;Vinícius Mendes Correia;Santos;SP;;4777.98;37;20;419.44;18;Prata
+C00926;João Mendes Martins;Londrina;PR;18;4013.33;119;24;329.28;10;Ouro
+C01187;Natália Barbosa Rocha;Salvador;BA;51;9223.65;118;13;583.38;92;Ouro
+C01089;Leandro Correia Barbosa;Rio de Janeiro;RJ;18;3327.28;27;21;278.79;60;Prata
+C00188;Vanessa Rodrigues Lima;São Paulo;SP;45;4798.6;28;3;486.77;3;Bronze
+C00480;Diego Oliveira Ribeiro;Belo Horizonte;MG;26;5148.33;85;18;242.34;20;Prata
+C00246;Sabrina Costa Barbosa;Campinas;SP;18;6614.18;104;22;521.34;0;Ouro
+C00394;Sabrina Santos Souza;Santos;SP;25;10144.03;28;11;451.61;28;Prata
+C00001;Natália Lima Nascimento;Rio de Janeiro;RJ;18;7226.45;120;5;375.41;31;Prata
+C00411;Rafael Souza Fernandes;Rio de Janeiro;RJ;;1256.23;29;15;342.64;51;Bronze
+C00888;Beatriz Ribeiro Barbosa;Brasília;DF;26;2128.73;7;2;571.5;34;Bronze
+C01565;João Correia Nascimento;porto alegre ;RS;26;3751.54;23;15;273.14;21;Bronze
+C01045;Ana Fernandes Correia;Brasília;DF;30;5961.76;114;6;502.75;10;Prata
+C00947;Gustavo Almeida Rocha;Salvador;BA;18;3306.33;64;10;440.18;13;Prata
+C00650;Lucas Rocha Santos;Rio de Janeiro;RJ;55;7386.3;58;14;432.3;100;Prata
+C00964;Diego Martins Nascimento;Campinas;SP;38;4021.64;40;14;616.13;33;Prata
+C01166;Felipe Rocha Nascimento;Rio de Janeiro;RJ;23;8101.85;94;18;474.92;33;Ouro
+C00719;Ana Almeida Mendes;Campinas;SP;45;3542.87;26;2;454.01;53;Bronze
+C01628;Bruno Rocha Araújo;São Paulo;SP;56;1860.66;19;8;361.41;4;Bronze
+C01005;Sabrina Teixeira Fernandes;Salvador;BA;56;1289.18;12;10;462.3;9;Bronze
+C00766;Renata Martins Souza;Fortaleza;CE;59;3180.14;73;20;280.65;27;Prata
+C01327;Gustavo Moreira Rodrigues;Curitiba;PR;65;4408.41;8;14;510.14;9;Bronze
+C00569;Thiago Almeida Santos;São Paulo;SP;58;8672.5;60;18;628.14;5;Ouro
+C01201;André Lima Barbosa;Porto Alegre;RS;45;4378.74;103;15;523.27;11;Prata
+C00938;Caio Rocha Araújo;Porto Alegre;RS;35;2667.07;49;19;352.1;48;Prata
+C01647;Marcos Cardoso Souza;rio de janeiro;RJ;26;6825.77;86;13;549.3;62;Prata
+C00540;Helena Rodrigues Oliveira;Rio de Janeiro;RJ;29;9273.19;82;10;483.51;73;Prata
+C00305;Lucas Mendes Gomes;Fortaleza;CE;57;3073.92;44;6;435.68;22;Bronze
+C01617;CAMILA MOREIRA ALMEIDA;CURITIBA;PR;44;4169.59;120;18;305.71;215;Ouro
+C01191;Carlos Melo Moreira;São Paulo;SP;25;4193.29;58;19;350.26;2;Prata
+C01322;Lucas Pereira Correia;Recife;PE;48;5965.3;114;12;330.9;9;Prata
+C00431;Vinícius Moreira Correia;São Paulo;SP;40;8210.73;77;10;480.04;118;Prata
+C01113;Larissa Lima Araújo;Rio de Janeiro;RJ;42;4019.96;43;10;325.51;155;Bronze
+C01306;Letícia Gomes Santos;Londrina;PR;43;12678.12;67;10;273.7;29;Prata
+C00391;Lucas Barbosa Correia;Fortaleza;CE;32;1795.31;92;13;281.61;14;Prata
+C00929;Gabriel Rodrigues Oliveira;Fortaleza;CE;33;2181.98;11;11;397.85;13;Bronze
+C00300;Beatriz Santos Pereira;Porto Alegre;RS;41;8715.84;32;6;625.99;69;Prata
+C01695;Fernanda Nascimento Lima;Goiânia;GO;75;6784.41;35;13;122.96;23;Prata
+C01454;Daniel Nascimento Pereira;Fortaleza;CE;42;2877.32;17;13;276.81;177;Bronze
+C01538;Felipe Martins Oliveira;Salvador;BA;59;6798.68;46;22;401.58;19;Prata
+C01752;Rodrigo Ribeiro Pereira;Salvador;BA;36;9370.73;99;30;490.48;2;Ouro
+C01474;Camila Martins Melo;Campinas;SP;28;3639.51;53;18;261.26;62;Prata
+C00367;Sabrina Carvalho Souza;Recife;PE;44;4454.25;96;20;437.14;28;Ouro
+C01100;André Lima Carvalho;Rio de Janeiro;RJ;21;2669.42;97;23;300.15;8;Prata
+C00034;Vinícius Santos Teixeira;Campinas;SP;49;4478.14;95;20;281.9;82;Prata
+C00326;LETÍCIA MARTINS LIMA;CURITIBA;PR;22;4066.04;89;17;645.23;39;Prata
+C00804;Vanessa Mendes Pereira;Florianópolis;SC;46;5735.22;101;20;483.19;69;Ouro
+C00897;Renan Gomes Fernandes;Salvador;BA;18;9534.54;79;13;216.84;30;Prata
+C01122;Igor Oliveira Santos;Rio de Janeiro;RJ;41;8637.66;15;6;489.09;10;Prata
+C01578;Gabriel Ribeiro Gomes;Santos;SP;55;4603.93;5;12;471.01;23;Bronze
+C00372;Rafael Pereira Cardoso;Florianópolis;SC;41;4514.96;15;10;694.25;201;Bronze
+C00316;Natália Santos Costa;Fortaleza;CE;28;4596.31;60;20;414.14;26;Prata
+C01426;Gabriel Melo Araújo;Florianópolis;SC;59;7872.56;85;14;494.26;91;Ouro
+C01069;André Barbosa Gomes;Recife;PE;18;3225.11;119;20;498.89;6;Ouro
+C01585;Gabriel Lima Santos;Florianópolis;SC;45;9789.03;115;17;577.61;17;Ouro
+C00971;Helena Souza Melo;Recife;PE;27;4363.86;102;10;342.96;27;Prata
+C00881;Mariana Mendes Fernandes;sao paulo;SP;18;6287.74;72;5;428.77;34;Prata
+C01751;João Cardoso Lima;São Paulo;SP;38;4380.3;13;0;254.22;25;Bronze
+C00595;Renata Santos Rodrigues;Brasília;DF;49;3754.36;68;26;266.42;25;Prata
+C01704;Mateus Souza Souza;Salvador;BA;53;4410.86;58;22;371.21;53;Prata
+C00868;Daniel Nascimento Silva;Salvador;BA;33;1896.68;94;20;315.22;24;Prata
+C00679;Carlos Lima Moreira;São Paulo;SP;41;7851.5;4;8;520.48;27;Bronze
+C00448;Thiago Souza Almeida;Campinas;SP;20;3985.54;11;11;354.79;12;Bronze
+C00278;Bruno Costa Carvalho;Belo Horizonte;MG;30;6047.77;65;16;325.95;39;Prata
+C01287;Bruno Oliveira Carvalho;Porto Alegre;RS;27;4206.22;63;23;441.32;4;Prata
+C01510;Felipe Silva Lima;São Paulo;SP;36;5994.26;64;12;439.26;20;Prata
+C00202;Fernanda Almeida Nascimento;Salvador;BA;45;12725.98;33;14;521.44;29;Prata
+C01485;Mariana Correia Melo;Porto Alegre;RS;58;4570.79;84;22;281.34;82;Prata
+C01420;Felipe Costa Nascimento;Belo Horizonte;MG;56;5673.4;51;12;439.91;14;Prata
+C01299;Carlos Silva Mendes;Sao Paulo;SP;71;8880.8;21;16;433.07;14;Prata
+C01151;Diego Almeida Rodrigues;São Paulo;SP;41;88324.2;76;20;335.54;13;Prata
+C00306;Fernanda Almeida Silva;Sao Paulo;SP;41;4405.33;65;19;2531.96;28;Prata
+C01679;Rafael Santos Teixeira;Campinas;SP;18;2953.31;109;13;448.16;9;Prata
+C00945;Larissa Melo Mendes;Salvador;BA;18;3884.27;32;11;483.34;17;Prata
+C00978;Mateus Souza Barbosa;Fortaleza;CE;29;3870.4;64;20;333.54;36;Prata
+C01159;Bianca Martins Martins;Salvador;BA;41;3540.58;80;17;485.94;9;Prata
+C00103;Mariana Lima Melo;São Paulo;SP;31;5300.77;45;8;319.41;25;Prata
+C00484;Letícia Araújo Costa;São Paulo;SP;37;4910.6;83;10;242.54;11;Prata
+C00462;Gustavo Costa Teixeira;São Paulo;SP;51;2066.8;32;16;210.21;1;Bronze
+C01018;Juliana Lima Pereira;Florianópolis;SC;50;4213.7;82;16;519.32;31;Prata
+C01039;Aline Ribeiro Fernandes;São Paulo;SP;64;11252.37;78;12;368.74;0;Ouro
+C01524;Diego Lima Teixeira;Belo Horizonte;MG;61;4247.23;27;24;363.69;41;Prata
+C00060;Ana Costa Rocha;São Paulo;SP;23;6154.71;34;24;362.41;8;Prata
+C01483;Sabrina Nascimento Fernandes;Campinas;SP;36;6152.75;25;18;567.24;64;Prata
+C00277;Daniel Oliveira Carvalho;Rio de Janeiro;RJ;52;6003.5;33;4;436.51;186;Bronze
+C01317;Isabela Lima Carvalho;Rio de Janeiro;RJ;61;8121.08;119;31;573.56;89;Ouro
+C00653;Camila Moreira Almeida;Curitiba;PR;39;2257.88;77;12;319.47;44;Prata
+C01336;Gabriel Teixeira Cardoso;Salvador;BA;47;2073.1;108;11;394.9;44;Prata
+C00482;Mateus Silva Silva;Curitiba;PR;28;3960.23;39;17;506.97;44;Prata
+C01078;Gabriel Pereira Souza;Belo Horizonte;MG;32;3085.87;41;15;492.55;295;Prata
+C01238;Larissa Melo Pereira;Londrina;PR;38;7407.07;72;19;660.28;44;Ouro
+C00455;Caio Gomes Lima;Santos;SP;49;14779.03;118;13;499.37;20;Ouro
+C01355;Renata Gomes Barbosa;São Paulo;SP;21;3057.07;17;10;263.94;7;Bronze
+C00551;Rodrigo Pereira Lima;São Paulo;SP;40;3185.24;77;14;360.58;33;Prata
+C00175;André Correia Costa;São Paulo;SP;57;5936.48;4;7;434.88;3;Bronze
+C00883;Mateus Pereira Pereira;Campinas;SP;22;2288.01;38;26;376.29;11;Prata
+C01550;Mônica Gomes Teixeira;Rio de Janeiro;RJ;45;3861.17;114;12;304.27;20;Prata
+C00588;Aline Pereira Almeida;São Paulo;SP;38;3251.37;97;12;235.47;60;Prata
+C00851;Patrícia Nascimento Mendes;Campinas;SP;32;3494.71;46;10;328.95;22;Bronze
+C00496;Bianca Santos Pereira;Campinas;SP;38;2949.46;22;11;349.11;37;
+C01118;Renata Cardoso Almeida;Londrina;PR;49;4233.11;28;7;244.42;42;Bronze
+C01316;Carlos Almeida Mendes;Rio de Janeiro;RJ;19;3012.5;49;17;509.41;19;Prata
+C00076;Renan Rodrigues Ribeiro;Rio de Janeiro;RJ;32;4182.72;102;19;278.32;0;Prata
+C00438;Patrícia Fernandes Carvalho;Brasília;DF;32;4836.03;84;16;529.89;16;Prata
+C00395;André Rocha Moreira;Belo Horizonte;MG;18;5064.53;53;20;426.34;69;Prata
+C00352;Rafael Oliveira Almeida;Rio de Janeiro;RJ;38;6333.6;106;18;440.49;51;Ouro
+C00406;João Gomes Araújo;Salvador;BA;55;3904.64;77;22;464.82;111;Prata
+C00030;Letícia Gomes Pereira;Rio de Janeiro;RJ;37;4461.18;113;22;484.28;18;Ouro
+C00535;JULIANA RODRIGUES ARAÚJO;CAMPINAS;SP;49;3467.39;27;10;197.67;9;Bronze
+C01516;Isabela Ribeiro Costa;Recife;PE;38;6922.93;116;14;409.28;126;Ouro
+C00748;Larissa Barbosa Gomes;Fortaleza;CE;18;3176.88;53;15;227.85;126;Prata
+C00465;Vinícius Carvalho Gomes;Rio de Janeiro;RJ;34;5755.19;94;25;301.55;7;Ouro
+C01614;Débora Barbosa Oliveira;São Paulo;SP;31;5026.81;43;11;255.19;21;Prata
+C00349;Vanessa Carvalho Lima;Belo Horizonte;MG;51;6854.03;112;20;389.51;57;Ouro
+C00148;Vanessa Nascimento Rocha;Florianópolis;SC;;2171.48;89;26;355.39;28;Prata
+C00468;Ana Teixeira Cardoso;RIO DE JANEIRO;RJ;25;2936.41;115;14;338.36;10;Prata
+C00563;Juliana Costa Ribeiro;São Paulo;SP;34;6868.69;7;15;286.78;11;Prata
+C01786;Felipe Nascimento Silva;São Paulo;SP;25;56813.91;36;8;419.07;17;Bronze
+C00664;Fernanda Rodrigues Oliveira;São Paulo;SP;45;3082.39;120;25;721.51;39;Ouro
+C00799;Camila Martins Barbosa;Porto Alegre;RS;42;3160.31;97;21;425.37;30;Prata
+C00137;Letícia Silva Teixeira;Goiânia;GO;40;5345.69;85;19;289.23;39;Prata
+C01726;Thiago Cardoso Rodrigues;Florianópolis;SC;60;3338.83;100;12;459.9;13;Prata
+C00533;Leandro Moreira Barbosa;Santos;SP;44;1647.06;98;27;190.06;10;Prata
+C00869;Mônica Santos Lima;Registro;SP;25;4851.16;8;12;532.96;2;Bronze
+C00182;Isabela Rodrigues Teixeira;Porto Alegre;RS;29;5350.02;91;12;347.97;0;Prata
+C00969;André Correia Fernandes;Curitiba;PR;53;7032.02;81;13;498.82;38;Prata
+C00123;Natália Nascimento Nascimento;Belo Horizonte;MG;28;4502.22;96;7;571.56;60;Prata
+C01164;Renata Martins Barbosa;São Paulo;SP;32;6501.9;103;13;301.05;0;Prata
+C00832;Fernanda Rocha Costa;Campinas;SP;29;2695.73;25;18;489.03;37;Prata
+C00098;Patrícia Cardoso Ribeiro;Campinas;SP;26;1281.99;56;18;588.53;196;Prata
+C01414;Letícia Cardoso Correia;São Paulo;SP;41;3536.15;88;17;277.7;0;Prata
+C00667;Lucas Almeida Melo;São Paulo;SP;32;4530.72;13;10;336.12;41;Bronze
+C01606;Daniel Mendes Almeida;Porto Alegre;RS;29;8418.37;53;7;486.87;18;Prata
+C00410;Renata Fernandes Mendes;Curitiba;PR;42;6923.97;32;5;532.37;57;Prata
+C00757;Lucas Moreira Costa;Florianópolis;SC;33;1474.72;40;15;327.79;0;Bronze
+C01600;Daniel Gomes Melo;São Paulo;SP;42;5116.64;25;17;354.14;175;Prata
+C00013;Renan Gomes Gomes; Curitiba;PR;50;3885.59;101;19;419.44;18;Prata
+C00420;Mateus Fernandes Carvalho;São Paulo;SP;32;10760.64;96;34;611.96;22;Diamante
+C01371;Camila Rodrigues Carvalho;São Paulo;SP;74;4884.73;10;15;293.05;50;Bronze
+C01145;Helena Carvalho Nascimento;Rio de Janeiro;RJ;43;5933.03;115;4;543.02;8;Prata
+C01447;Sabrina Souza Rodrigues;Salvador;BA;60;3723.06;30;15;351.65;30;Prata
+C00512;Mariana Pereira Oliveira;Rio de Janeiro;RJ;35;5666.37;51;14;397.01;151;Prata
+C00672;Mariana Nascimento Barbosa;Rio de Janeiro;RJ;44;1671.08;118;15;492.45;38;Prata
+C00304;André Santos Rodrigues;Rio de Janeiro;RJ;27;6541.48;16;1;270.29;13;Bronze
+C01769;Camila Souza Mendes;São Paulo;SP;37;10572.34;40;14;462.56;36;Prata
+C00763;Bruno Fernandes Cardoso;Fortaleza;CE;39;66736.02;79;13;394.35;89;Prata
+C01064;Fernanda Pereira Barbosa;Rio de Janeiro;RJ;21;4842.51;20;8;459.63;25;Bronze
+C00661;Larissa Pereira Gomes;Brasília;DF;37;3248.63;102;17;391.12;0;Prata
+C01677;Beatriz Melo Rodrigues;São Paulo;SP;23;4203.96;94;20;306.87;57;Prata
+C00248;Rafael Barbosa Correia;Curitiba;PR;64;6902.45;10;16;498.64;46;Prata
+C00275;Marcos Barbosa Souza; Curitiba;PR;44;4626.38;77;2;453.7;33;Prata
+C01133;Juliana Oliveira Silva;Porto Alegre;RS;26;2546.79;116;27;269.42;51;Ouro
+C00146;Mateus Fernandes Silva;São Paulo;SP;39;2264.52;30;6;162.54;71;Bronze
+C01736;João Moreira Martins;Campinas;SP;40;4690.55;99;21;538.17;12;Ouro
+C00857;Letícia Araújo Souza;Salvador;BA;43;2881.68;11;12;45;2;Bronze
+C01624;Renan Carvalho Moreira;Florianópolis;SC;53;7186.38;27;7;459.64;92;Prata
+C00585;ANA ARAÚJO TEIXEIRA;RIO DE JANEIRO;RJ;33;5932.44;16;10;449.78;29;Bronze
+C01635;Caio Rodrigues Ribeiro;Salvador;BA;34;5168.42;54;20;438.95;107;Prata
+C00796;Mônica Ribeiro Costa;Londrina;PR;21;1865.63;25;25;300.05;79;Prata
+C00698;Felipe Silva Araújo;Belo Horizonte;MG;34;2325.67;65;9;302.8;30;Bronze
+C01265;Fernanda Teixeira Souza;São Paulo;SP;42;5018.82;105;15;205.1;93;Prata
+C00315;Vinícius Ribeiro Nascimento;Porto Alegre;RS;52;5018.57;8;14;325.23;48;Bronze
+C00327;Isabela Barbosa Cardoso;belo horizonte ;MG;49;7795.68;21;8;637.3;107;Prata
+C01776;Thiago Mendes Ribeiro;Brasília;DF;34;6832.26;14;15;577.84;45;Prata
+C00856;Renata Cardoso Silva;Curitiba;PR;38;2959.51;51;10;449.87;73;Prata
+C01092;Isabela Fernandes Melo;Porto Alegre;RS;21;2622.42;111;15;475.51;1;Prata
+C00243;Leandro Rocha Barbosa;sao paulo;SP;31;1865.78;86;12;377.49;40;Prata
+C00603;Mariana Silva Fernandes;Santos;SP;52;4790.54;27;14;246.95;36;Bronze
+C00162;João Teixeira Teixeira;São Paulo;SP;42;2003.28;106;10;343.31;46;Prata
+C00608;Ana Santos Araújo;São Paulo;SP;36;2595.29;80;12;329.68;37;Prata
+C00782;Isabela Cardoso Rodrigues;Londrina;PR;36;3046.97;79;18;487.26;26;Prata
+C00728;Caio Souza Rodrigues;Porto Alegre;RS;45;2747.89;13;17;172.93;10;Bronze
+C01009;Natália Mendes Pereira;Registro;SP;46;9993.84;106;12;637.66;30;Ouro
+C01657;Débora Araújo Mendes;Belo Horizonte;MG;46;4279.05;102;21;334.02;80;Ouro
+C00681;Bruno Teixeira Oliveira;São Paulo;SP;45;3863.69;90;21;483.21;9;Ouro
+C01464;Carlos Barbosa Pereira;sao paulo;SP;49;5476.15;98;11;422.32;138;Prata
+C01492;Natália Mendes Moreira;Registro;SP;35;2001.11;104;13;430.79;228;Prata
+C00250;Rafael Souza Almeida;Recife;PE;30;4114.98;103;10;382.45;84;Prata
+C01022;Beatriz Correia Fernandes;Curitiba;PR;73;3391.15;55;19;304.5;129;Prata
+C01734;Isabela Fernandes Souza;Porto Alegre;RS;31;2877.33;62;9;476.05;78;Prata
+C00939;Mariana Teixeira Oliveira;Rio de Janeiro;RJ;41;5093.26;63;25;290.88;1;Prata
+C01405;Beatriz Cardoso Teixeira;Recife;PE;55;7314.93;108;15;350.29;2;Ouro
+C00179;Mariana Gomes Araújo;Londrina;PR;74;2852.14;48;8;346.29;59;Bronze
+C00912;João Costa Pereira;Curitiba;PR;31;7361.86;76;27;419.01;0;Ouro
+C01714;Mônica Rodrigues Gomes;Recife;PE;43;3208.67;105;20;371.79;76;Prata
+C00725;Fernanda Almeida Cardoso;Fortaleza;CE;43;2608.54;40;5;276.49;7;Bronze
+C01254;Fernanda Lima Teixeira;Curitiba;PR;21;1909.37;53;4;353.44;1;Bronze
+C00085;Débora Moreira Nascimento;Salvador;BA;25;3804.85;20;17;350.7;118;Prata
+C00746;Mônica Lima Almeida;Rio de Janeiro;RJ;67;5792.67;93;21;515.61;35;Ouro
+C01206;Renan Melo Correia;Curitiba;PR;63;7888.14;97;8;363.55;23;Prata
+C01762;Fernanda Cardoso Mendes;Recife;PE;18;5278.96;21;13;517.43;1;Prata
+C00072;Bianca Cardoso Lima;Fortaleza;CE;20;4095.41;44;1;426.89;2;Bronze
+C01727;Renata Melo Araújo;São Paulo;SP;67;10003.08;41;2;615.71;4;Prata
+C00601;Marcos Oliveira Lima;São Paulo;SP;23;7084.66;50;15;447.25;1;Prata
+C01231;Marcos Melo Oliveira;Londrina;PR;29;3157.38;34;16;433.18;85;Prata
+C01241;Igor Rocha Teixeira;Campinas;SP;51;2096.39;72;12;394.9;179;Prata
+C00844;Leandro Araújo Silva;Rio de Janeiro;RJ;51;2875.39;80;20;383.94;2;Prata
+C00063;Beatriz Oliveira Oliveira;Campinas;SP;37;4553.16;119;13;437.32;79;Prata
+C00785;Renan Rocha Barbosa;Campinas;SP;18;2304.74;97;12;442.55;19;Prata
+C00995;Rodrigo Ribeiro Souza; São Paulo ;SP;18;4368.23;53;5;449.49;29;Bronze
+C01535;Renan Souza Moreira;Recife;PE;18;4959.35;9;14;444.96;57;Bronze
+C00908;Rodrigo Rocha Souza;Salvador;BA;44;12881.51;67;14;623.99;21;Ouro
+C01309;Sabrina Rocha Silva;Londrina;PR;38;3251.49;43;15;223.02;47;Prata
+C00935;Caio Pereira Barbosa;Registro;SP;25;9630.46;5;3;398.9;41;Bronze
+C00665;Letícia Carvalho Pereira;Rio de Janeiro;RJ;29;3940.38;84;17;384.29;59;Prata
+C01652;PATRÍCIA LIMA MOREIRA;SÃO PAULO;SP;21;7638.69;94;16;479.89;18;Ouro
+C00958;Diego Moreira Almeida;Recife;PE;44;1711.12;73;15;270.03;105;Prata
+C00922;Débora Araújo Mendes;Fortaleza;CE;39;3568.31;57;25;272.02;2;Prata
+C00517;Mônica Melo Melo;Santos;SP;63;7626.87;98;13;289.76;19;Prata
+C00451;Marcos Souza Gomes;Porto Alegre;RS;55;1200;51;14;257.86;25;Bronze
+C00042;Natália Araújo Teixeira;Campinas;SP;35;1914.56;103;17;424.86;20;Prata
+C00736;Rodrigo Teixeira Gomes;Fortaleza;CE;42;5298.82;11;6;504.65;11;Bronze
+C00560;Eduarda Pereira Melo;SÃO PAULO;SP;63;6775.49;84;11;410.38;8;Prata
+C01791;Thiago Rodrigues Ribeiro;Belo Horizonte;MG;33;4193.12;41;12;237.56;78;Bronze
+C01261;Mariana Ribeiro Souza;Recife;PE;33;7603.16;41;15;489.57;71;Prata
+C00550;Leandro Costa Ribeiro;Recife;PE;57;2073.2;51;20;230.01;67;Prata
+C00674;Felipe Silva Souza;belo horizonte ;MG;28;57920.11;105;21;181.83;1;Ouro
+C00994;Bruno Cardoso Martins;Goiânia;GO;31;4028.78;51;15;430.56;33;Prata
+C01228;Helena Rocha Costa;Londrina;PR;20;4462.03;42;20;342.0;29;Prata
+C00851;PATRÍCIA NASCIMENTO MENDES;CAMPINAS;SP;32;3494.71;46;10;328.95;22;Bronze
+C01662;Ana Silva Costa;Rio de Janeiro;RJ;69;3444.63;68;13;305.88;71;Prata
+C01503;Vinícius Teixeira Moreira;Salvador;BA;27;1526.4;75;10;323.1;47;Prata
+C01070;Sabrina Pereira Teixeira;São Paulo;SP;44;3489.24;10;13;542.51;10;Bronze
+C01683;Gustavo Souza Pereira;Salvador;BA;46;2759.14;47;11;178.05;14;Bronze
+C00557;Gustavo Gomes Silva;Rio de Janeiro;RJ;26;1529.08;38;16;181.61;114;Bronze
+C00543;Mariana Teixeira Pereira;Belo Horizonte;MG;47;2046.62;31;14;242.81;7;Bronze
+C01176;André Souza Fernandes;Santos;SP;28;4202.63;87;29;509.16;2;Ouro
+C01645;Mateus Martins Pereira;Curitiba;PR;50;2224.31;40;24;130.26;3;Prata
+C01142;Beatriz Barbosa Barbosa;São Paulo;SP;36;11021.92;55;13;582.53;131;Ouro
+C00760;Thiago Moreira Barbosa;Belo Horizonte;MG;40;2385.51;120;24;242.67;68;Ouro
+C01777;Renan Melo Teixeira;São Paulo;SP;22;10257.57;5;17;543.72;0;Prata
+C00876;Mariana Ribeiro Lima;Curitiba;PR;35;6782.98;93;17;488.69;80;Ouro
+C01000;Beatriz Teixeira Costa;Belo Horizonte;MG;43;1200;93;15;212.47;45;Prata
+C01419;Renan Moreira Costa;Rio de Janeiro;RJ;38;2707.74;103;21;385.25;15;Prata
+C01396;Marcos Pereira Rodrigues;Recife;PE;40;3475.0;14;16;486.55;26;Prata
+C01114;Ana Rocha Melo;São Paulo;SP;22;2802.89;45;8;387.09;2;Bronze
+C01205;Daniel Teixeira Ribeiro;Rio de Janeiro;RJ;21;6456.32;89;20;452.49;29;Ouro
+C00599;Isabela Araújo Santos;São Paulo;SP;30;3098.64;97;13;319.76;56;Prata
+C00088;Camila Martins Melo;Santos;SP;29;3788.88;74;10;569.1;50;Prata
+C01712;Rafael Mendes Nascimento;São Paulo;SP;50;10747.16;61;22;580.94;10;Ouro
+C00651;Lucas Nascimento Moreira;Rio de Janeiro;RJ;26;3572.01;91;20;222.19;16;Prata
+C01377;Eduarda Moreira Santos;Rio de Janeiro;RJ;38;3087.64;106;21;240.22;16;Prata
+C00948;Helena Santos Lima;Curitiba;PR;28;2150.43;47;14;341.65;85;Prata
+C01685;Letícia Rodrigues Moreira;Campinas;SP;18;7075.14;20;23;404.7;1;Prata
+C01678;Débora Ribeiro Santos;Santos;SP;19;2715.88;56;5;282.94;65;Bronze
+C01217;Bruno Nascimento Costa;Registro;SP;31;8523.2;74;15;366.95;61;Prata
+C00454;Thiago Teixeira Barbosa;Porto Alegre;RS;52;1603.32;18;7;4246.77;11;Bronze
+C01597;Larissa Oliveira Costa;Florianópolis;SC;24;3033.98;56;2;307.23;4;Bronze
+C01270;Isabela Ribeiro Mendes;Fortaleza;CE;36;4103.24;98;23;341.33;99;Ouro
+C00479;Débora Araújo Souza;Florianópolis;SC;35;3841.68;77;26;354.89;102;Ouro
+C00001;Natália Lima Nascimento;Rio de Janeiro;RJ;18;7226.45;120;5;375.41;31;Prata
+C00678;Leandro Gomes Melo;Recife;PE;33;10605.56;53;20;536.24;53;Ouro
+C01580;Isabela Moreira Moreira;Santos;SP;49;2709.94;10;17;420.21;27;Bronze
+C00803;Fernanda Martins Costa;Goiânia;GO;42;7299.78;111;27;366.84;44;Ouro
+C01750;Vinícius Melo Gomes;Londrina;PR;40;4614.38;57;8;376.14;1;Prata
+C00067;Daniel Lima Fernandes;Campinas;SP;30;8974.44;5;3;526.69;1;Bronze
+C00907;Letícia Correia Teixeira;Santos;SP;38;4980.68;93;9;402.65;52;Prata
+C00392;Renata Mendes Cardoso;Rio de Janeiro;RJ;44;11853.56;63;20;517.57;34;Ouro
+C00208;Daniel Moreira Gomes;Florianópolis;SC;34;2033.16;83;19;456.85;15;Prata
+C00217;João Rodrigues Nascimento;Fortaleza;CE;44;4531.36;54;17;426.9;19;Prata
+C00233;Felipe Lima Costa;Florianópolis;SC;63;5972.28;68;11;468.28;33;Prata
+C00652;Aline Correia Carvalho;Belo Horizonte;MG;25;;93;18;303.09;177;Prata
+C01480;Diego Barbosa Almeida;São Paulo;SP;23;3903.17;75;20;275.7;41;Prata
+C01399;Gabriel Ribeiro Fernandes;Registro;SP;33;;19;14;541.52;8;Prata
+C01660;Daniel Correia Araújo;Fortaleza;CE;55;6502.19;116;9;427.74;45;Prata
+C01083;PATRÍCIA SOUZA TEIXEIRA;RECIFE;PE;41;5772.68;55;19;269.27;14;Prata
+C01014;Mariana Mendes Santos;Rio de Janeiro;RJ;58;2374.66;74;18;161.7;21;Prata
+C01656;Mônica Lima Martins;Santos;SP;52;3884.94;66;14;519.11;56;Prata
+C00359;Rodrigo Nascimento Martins;Curitiba;PR;43;4083.14;31;8;201.03;24;Bronze
+C01204;Daniel Nascimento Silva;Campinas;SP;37;7648.04;117;20;;54;Ouro
+C00281;Ana Rocha Oliveira;Santos;SP;49;3331.19;6;15;139.55;69;Bronze
+C01272;André Rocha Costa;florianopolis;SC;41;1620.97;36;7;305.17;1;Bronze
+C00276;Bianca Araújo Martins;Registro;SP;49;11124.16;78;14;547.61;127;Ouro
+C00562;Larissa Gomes Correia;São Paulo;SP;37;3879.98;74;10;370.23;52;Prata
+C00210;Rodrigo Oliveira Moreira;Rio de Janeiro;RJ;49;5442.6;84;17;402.91;92;Prata
+C01710;Diego Teixeira Martins;São Paulo;SP;29;4747.36;88;28;431.59;83;Ouro
+C00999;Bruno Costa Silva;São Paulo;SP;46;6396.51;108;21;360.34;23;Ouro
+C01409;Daniel Teixeira Carvalho;Recife;PE;27;4721.22;31;20;270.76;54;Prata
+C00093;Beatriz Oliveira Cardoso;Campinas;SP;36;3570.45;94;22;319.67;22;Prata
+C00008;Patrícia Nascimento Mendes;Belo Horizonte;MG;54;2604.16;78;4;467.72;21;Prata
+C01706;Larissa Melo Fernandes;Florianópolis;SC;43;3496.87;55;17;;6;Prata
+C01193;Camila Costa Fernandes;Belo Horizonte;MG;39;2432.23;90;17;256.62;36;Prata
+C01663;GUSTAVO COSTA CARVALHO;PORTO ALEGRE;RS;18;5974.77;23;18;215.63;26;Prata
+C01303;Sabrina Carvalho Gomes;Curitiba;PR;45;4555.13;55;20;416.41;74;Prata
+C01320;Bruno Melo Gomes;Santos;SP;26;9736.0;25;11;422.13;81;Prata
+C01793;Eduarda Gomes Mendes;Belo Horizonte;MG;56;2821.57;111;17;181.14;22;Prata
+C01044;Fernanda Teixeira Almeida;Belo Horizonte;MG;53;1510.94;52;16;363.36;0;Prata
+C01451;Mônica Ribeiro Cardoso;São Paulo;SP;37;6247.77;81;18;494.95;84;Ouro
+C00005;Mariana Rocha Rocha;Porto Alegre;RS;31;7645.69;87;17;567.81;56;Ouro
+C00127;Gabriel Gomes Correia;São Paulo;SP;40;8504.93;114;15;301.8;1;Ouro
+C00522;Bruno Martins Almeida;Brasília;DF;27;3664.34;120;22;359.82;20;Ouro
+C01215;Bruno Barbosa Nascimento;São Paulo;SP;45;2862.04;63;14;354.27;37;Prata
+C00094;Juliana Oliveira Oliveira;Porto Alegre;RS;46;5267.68;80;21;508.94;17;Ouro
+C00896;Ana Rocha Lima;Rio de Janeiro;RJ;39;5908.04;21;11;490.99;46;Prata
+C00491;Eduarda Ribeiro Pereira;Goiânia;GO;40;5998.39;72;1;440.1;115;Prata
+C00302;Marcos Melo Correia;Santos;SP;22;3833.17;57;14;316.61;46;Prata
+C00397;Igor Carvalho Lima;Salvador;BA;18;6194.14;12;8;402.29;42;Bronze
+C00915;Mateus Barbosa Moreira;São Paulo;SP;39;5474.6;8;16;573.38;38;Prata
+C00645;Lucas Cardoso Souza;Registro;SP;27;2827.49;114;15;344.86;128;
+C01486;Leandro Almeida Moreira;SÃO PAULO;SP;37;9091.58;97;12;418.84;29;Ouro
+C00295;Bianca Mendes Almeida;Florianópolis;SC;59;4015.93;7;10;316.8;32;Bronze
+C01641;Carlos Rodrigues Rodrigues;Goiânia;GO;42;6145.62;117;19;558.27;27;Ouro
+C01649;Ana Martins Souza;São Paulo;SP;52;1764.63;83;17;312.87;83;Prata
+C00552;Carlos Gomes Cardoso;Salvador;BA;53;2761.89;82;16;363.5;20;Prata
+C00358;João Fernandes Melo;Campinas;SP;50;2515.49;54;11;252.02;7;Bronze
+C01601;Vinícius Martins Souza;São Paulo;SP;27;3606.02;112;17;472.12;39;Ouro
+C01652;Patrícia Lima Moreira;São Paulo;SP;21;7638.69;94;16;479.89;18;Ouro
+C01682;Ana Cardoso Costa; Curitiba;PR;35;6008.87;60;12;591.48;29;Prata
+C00297;Diego Almeida Teixeira;Londrina;PR;60;4375.79;72;23;380.06;48;Prata
+C01134;Helena Almeida Correia;Curitiba;PR;31;4610.02;46;18;318.31;1;Prata
+C01213;Igor Santos Barbosa;Porto Alegre;RS;21;2521.0;2;10;199.53;9;Bronze
+C01168;Bruno Ribeiro Costa;São Paulo;SP;22;3420.92;21;20;387.38;24;Prata
+C00128;Ana Gomes Carvalho;Goiânia;GO;40;4309.83;52;16;544.1;34;Prata
+C00794;Renan Pereira Correia;Goiânia;GO;55;8943.17;7;20;380.02;63;Prata
+C00802;Rafael Costa Barbosa;Campinas;SP;31;2935.7;16;16;358.2;141;Bronze
+C00875;Felipe Almeida Fernandes;Rio de Janeiro;RJ;20;1690.91;6;10;306.14;16;Bronze
+C01665;Gabriel Fernandes Almeida;porto alegre ;RS;30;3666.88;23;20;495.75;230;Prata
+C00223;André Ribeiro Rocha;São Paulo;SP;31;3350.81;41;11;317.74;42;Bronze
+C00147;Isabela Almeida Silva;Recife;PE;58;4222.8;120;6;253.32;56;Prata
+C00176;Helena Melo Barbosa;São Paulo;SP;43;2529.3;113;26;493.74;0;Ouro
+C00906;Daniel Teixeira Correia;Goiânia;GO;55;5838.4;42;26;587.62;12;Ouro
+C01158;Igor Cardoso Moreira;Curitiba;PR;35;2823.54;50;11;93.33;88;Bronze
+C01532;Renata Souza Lima;Goiânia;GO;33;3225.18;27;24;269.24;39;Prata
+C01453;CAMILA OLIVEIRA GOMES;CAMPINAS;SP;30;6836.27;66;5;598.61;3;Prata
+C01502;Juliana Araújo Fernandes;São Paulo;SP;28;4230.96;92;14;276.63;85;Prata
+C01392;Patrícia Melo Moreira;Belo Horizonte;MG;41;8623.96;72;20;554.16;44;Ouro
+C00814;Gabriel Barbosa Ribeiro;São Paulo;SP;36;5734.81;39;1;606.24;36;Bronze
+C00279;Vinícius Moreira Ribeiro;Curitiba;PR;18;3671.34;14;5;518.13;20;Bronze
+C00891;Felipe Almeida Mendes;Londrina;PR;78;10761.8;52;20;345.25;5;Ouro
+C00668;Renata Martins Almeida;Salvador;BA;24;4081.21;72;15;335.34;47;Prata
+C01345;Mônica Mendes Rodrigues;São Paulo;SP;46;4542.2;11;7;327.87;41;Bronze
+C01515;Daniel Mendes Correia;Santos;SP;35;2652.22;28;13;305.13;31;Bronze
+C00110;PATRÍCIA MOREIRA CORREIA;FLORIANÓPOLIS;SC;25;1757.89;10;13;305.71;14;Bronze
+C01208;Bruno Moreira Barbosa;São Paulo;SP;35;4180.03;112;4;500.41;41;Prata
+C01183;Gustavo Lima Silva;Fortaleza;CE;34;6866.5;111;14;342.2;47;Ouro
+C01126;Rodrigo Costa Martins;São Paulo;SP;37;5884.78;61;22;467.18;1;Prata
+C01366;Lucas Almeida Barbosa;Goiânia;GO;25;5023.77;8;15;276.55;62;Bronze
+C01157;Caio Souza Rocha;Curitiba;PR;43;5876.61;38;0;354.32;25;Bronze
+C01091;Bruno Fernandes Araújo;Florianópolis;SC;33;9641.86;43;20;498.81;5;Ouro
+C01773;Isabela Melo Lima;Recife;PE;20;2618.67;2;15;;4;Bronze
+C00596;Mônica Nascimento Carvalho;Rio de Janeiro;RJ;19;2481.85;109;23;272.28;72;Ouro
+C01423;Carlos Rodrigues Correia;Santos;SP;24;6184.13;91;17;429.85;37;Ouro
+C00138;Natália Lima Santos;Santos;SP;44;8245.69;54;12;533.65;47;
+C00733;Leandro Carvalho Teixeira;São Paulo;SP;26;4049.85;9;10;465.75;1;Bronze
+C01547;Diego Cardoso Pereira;Londrina;PR;53;5035.08;2;4;774.91;2;Bronze
+C01619;Gustavo Souza Lima;Campinas;SP;70;5576.49;90;16;434.96;95;Prata
+C00459;Camila Oliveira Mendes;São Paulo;SP;21;2351.77;50;30;149.94;13;Prata
+C00465;Vinícius Carvalho Gomes;Rio de Janeiro;RJ;34;5755.19;94;25;301.55;7;Ouro
+C00336;Carlos Almeida Costa;São Paulo;SP;27;7237.06;13;21;264.79;52;Prata
+C01441;Natália Nascimento Melo;Recife;PE;32;2135.86;84;21;532.15;0;Prata
+C00985;Renata Araújo Almeida;Londrina;PR;22;2192.19;94;13;179.98;39;Prata
+C01418;Aline Fernandes Almeida;Goiânia;GO;61;8828.79;54;8;277.63;5;Prata
+C01154;Mariana Araújo Moreira;São Paulo;SP;34;1999.62;39;14;300.67;13;Bronze
+C00490;Mariana Ribeiro Mendes;Fortaleza;CE;47;5816.36;108;6;228.69;25;Prata
+C00830;Bianca Moreira Rocha;São Paulo;SP;50;2106.54;15;9;285.5;36;Bronze
+C01119;Patrícia Lima Oliveira;Recife;PE;45;7126.24;114;19;358.21;88;Ouro
+C01794;Beatriz Teixeira Lima;Porto Alegre;RS;31;4386.83;80;12;392.2;40;Prata
+C00715;Rafael Barbosa Araújo;Londrina;PR;49;5285.45;41;10;439.38;5;Prata
+C00635;Mateus Fernandes Costa;Brasília;DF;49;3544.94;47;19;516.0;41;Prata
+C01651;Natália Silva Silva;São Paulo;SP;36;2080.72;120;17;202.9;32;Prata
+C01108;Débora Mendes Melo;São Paulo;SP;29;;2;12;466.48;44;Bronze
+C01533;Vinícius Costa Teixeira;Curitiba;PR;46;2968.77;15;9;278.64;26;Bronze
+C00701;Caio Ribeiro Silva;Salvador;BA;46;4675.52;34;18;135.5;14;Prata
+C00083;Lucas Silva Rodrigues;Fortaleza;CE;40;2535.74;86;33;112.73;74;Ouro
+C00836;Camila Pereira Lima;São Paulo;SP;39;2897.51;53;11;363.06;40;Prata
+C01627;BRUNO CORREIA MOREIRA;FORTALEZA;CE;38;12130.44;18;18;592.47;92;Prata
+C00069;Marcos Mendes Pereira;Curitiba;PR;37;2394.83;85;10;408.56;16;Prata
+C00064;Vanessa Cardoso Teixeira;Londrina;PR;49;3620.02;85;23;247.23;5;Prata
+C00884;Caio Barbosa Ribeiro;São Paulo;SP;41;4772.38;5;12;443.62;36;Bronze
+C00343;Rafael Moreira Moreira;Rio de Janeiro;RJ;18;2339.73;103;23;493.5;5;Ouro
+C00267;Igor Gomes Carvalho;Santos;SP;36;4733.9;98;7;374.3;24;Prata
+C00587;Thiago Moreira Cardoso;Salvador;BA;45;5431.6;13;15;392.93;11;
+C01352;Rafael Fernandes Correia;Rio de Janeiro;RJ;18;7483.96;75;26;;21;Ouro
+C01180;Leandro Ribeiro Correia;Curitiba;PR;55;6945.98;70;9;259.6;10;Prata
+C00860;Helena Santos Mendes;Recife;PE;29;2832.92;95;16;391.54;83;Prata
+C01717;Helena Pereira Martins;Salvador;BA;26;2224.31;117;12;495.95;19;Prata
+C01017;Bianca Rodrigues Gomes;Recife;PE;34;9139.46;36;13;398.29;48;Prata
+C00923;Igor Barbosa Nascimento;Curitiba;PR;30;3223.35;47;8;507.84;4;Bronze
+C01291;Leandro Correia Almeida;Florianópolis;SC;38;2116.4;83;23;498.72;125;Prata
+C00441;Gustavo Ribeiro Gomes;Rio de Janeiro;RJ;46;5654.85;12;16;436.76;55;Prata
+C01681;Daniel Santos Oliveira;Florianópolis;SC;27;3452.12;14;19;113.8;25;Bronze
+C01541;Gustavo Ribeiro Fernandes;Curitiba;PR;39;3699.49;15;11;303.88;8;Bronze
+C00054;Aline Oliveira Carvalho;Brasília;DF;40;2639.21;78;26;249.69;29;Prata
+C00100;Gustavo Rocha Teixeira;Rio de Janeiro;RJ;36;5218.49;81;14;401.85;28;Prata
+C01489;Patrícia Martins Lima;Curitiba;PR;54;3170.97;28;15;392.11;48;Prata
+C00105;Leandro Rocha Mendes;São Paulo;SP;36;6786.47;89;13;336.59;20;Prata
+C01500;Diego Lima Rodrigues;Rio de Janeiro;RJ;51;4589.8;80;6;150.67;10;Prata
+C01379;Fernanda Gomes Silva;São Paulo;SP;32;4804.42;51;22;446.88;22;Prata
+C00673;Mariana Rocha Almeida;Londrina;PR;29;3706.42;116;18;321.3;7;Ouro
+C01321;Diego Pereira Santos;São Paulo;SP;22;4914.95;63;21;158.55;52;Prata
+C00688;Marcos Nascimento Araújo;Porto Alegre;RS;28;4847.93;64;16;383.37;19;Prata
+C01589;Gustavo Silva Almeida;Salvador;BA;26;5597.8;45;26;347.05;285;Prata
+C00521;João Carvalho Oliveira;Londrina;PR;18;6868.38;76;17;430.83;67;Prata
+C00930;André Barbosa Ribeiro;Belo Horizonte;MG;41;5576.97;3;5;451.77;68;Bronze
+C01310;Bianca Lima Rocha;Florianópolis;SC;18;2733.51;9;11;487.99;9;Bronze
+C00381;Lucas Correia Rodrigues;São Paulo;SP;33;3453.55;95;12;470.57;7;Prata
+C00238;Gabriel Rocha Souza;Santos;SP;36;7533.65;85;6;306.19;11;Prata
+C01511;Mariana Teixeira Rodrigues;São Paulo;SP;46;4000.37;39;13;399.12;11;Prata
+C01605;Fernanda Araújo Almeida;Campinas;SP;23;2482.36;10;7;425.13;41;Bronze
+C00966;Bruno Martins Pereira;Curitiba;PR;21;2239.82;8;9;509.37;24;Bronze
+C01362;Bianca Martins Costa;Belo Horizonte;MG;39;4179.36;58;3;369.89;13;Bronze
+C00195;Eduarda Fernandes Almeida;Goiânia;GO;50;7655.22;19;20;512.91;37;Prata
+C00252;Thiago Lima Correia;Fortaleza;CE;23;2334.45;99;12;325.75;119;Prata
+C01149;Fernanda Gomes Melo;São Paulo;SP;56;4261.76;52;9;350.27;12;Prata
+C00831;Vinícius Souza Cardoso;Santos;SP;40;2052.12;35;12;468.52;3;Bronze
+C00621;Camila Carvalho Teixeira;Recife;PE;36;5890.61;13;7;188.16;1;Bronze
+C00331;Carlos Teixeira Cardoso;Rio de Janeiro;RJ;57;6383.62;112;13;318.14;23;Prata
+C00039;Mariana Moreira Correia;Rio de Janeiro;RJ;21;3218.66;5;14;431.51;77;Bronze
+C01775;Felipe Cardoso Araújo;Registro;SP;39;2102.11;39;8;206.76;7;Bronze
+C01302;Débora Ribeiro Oliveira;Goiânia;GO;28;10800.91;9;12;537.34;13;Prata
+C01256;André Costa Rodrigues;Belo Horizonte;MG;32;3521.59;12;5;319.61;13;Bronze
+C00837;Leandro Carvalho Pereira;São Paulo;SP;37;4926.64;5;18;399.05;97;Prata
+C00991;Sabrina Souza Pereira;São Paulo;SP;41;2554.62;94;7;287.65;13;Prata
+C01275;Juliana Oliveira Martins;Fortaleza;CE;28;1968.91;35;12;178.34;158;Bronze
+C00143;Marcos Ribeiro Moreira;São Paulo;SP;58;4840.1;21;16;390.95;194;Prata
+C00084;Leandro Barbosa Rodrigues;São Paulo;SP;48;2614.19;48;11;361.08;0;Bronze
+C00173;Renata Rocha Santos;Porto Alegre;RS;40;2600.79;8;8;207.4;13;Bronze
+C01358;Juliana Pereira Araújo;Belo Horizonte;MG;32;2331.37;3;3;431.78;45;Bronze
+C00404;Patrícia Silva Martins;São Paulo;SP;22;4109.78;65;19;497.31;4;Prata
+C01121;Carlos Araújo Cardoso;Registro;SP;35;3534.84;116;9;300.89;27;Prata
+C00222;Caio Correia Rocha;Registro;SP;33;1316.45;22;17;436.9;93;Bronze
+C00472;Carlos Silva Melo;Recife;PE;35;2195.16;65;17;465.36;22;Prata
+C01001;Marcos Martins Fernandes;Salvador;BA;36;3913.45;90;16;340.79;77;Prata
+C00624;Larissa Oliveira Almeida;Belo Horizonte;MG;53;2801.73;112;22;479.01;16;Ouro
+C00440;Leandro Martins Teixeira;Recife;PE;39;4019.51;68;16;379.23;5;Prata
+C01746;Caio Fernandes Melo;Rio de Janeiro;RJ;28;3779.28;77;17;533.52;68;Prata
+C01269;João Pereira Cardoso;Santos;SP;60;6015.24;97;10;392.7;133;Prata
+C00218;Larissa Moreira Mendes;São Paulo;SP;49;3462.51;99;17;155.9;8;Prata
+C01664;Renata Fernandes Oliveira;São Paulo;SP;18;12477.58;75;16;636.37;16;Ouro
+C01439;Bruno Araújo Gomes;São Paulo;SP;30;3619.23;112;9;390.77;10;Prata
+C00292;Fernanda Cardoso Teixeira;Londrina;PR;41;4920.09;28;9;542.7;31;Prata
+C00363;Caio Cardoso Martins;Rio de Janeiro;RJ;56;4737.55;86;10;388.35;52;Prata
+C00070;Sabrina Pereira Rodrigues;Belo Horizonte;MG;50;2481.98;62;21;239.18;43;Prata
+C01465;Aline Gomes Rocha;Curitiba;PR;19;2983.46;66;14;274.8;16;Prata
+C00362;Isabela Lima Oliveira;Porto Alegre;RS;42;4343.24;12;13;412.87;80;Bronze
+C01672;Bruno Mendes Carvalho;Santos;SP;39;6496.44;85;18;443.27;2;Ouro
+C00520;Igor Almeida Silva;São Paulo;SP;37;4078.81;19;2;176.22;13;Bronze
+C01654;Felipe Ribeiro Barbosa;Curitiba;PR;65;4130.92;6;9;344.01;11;Bronze
+C00095;Juliana Mendes Teixeira;Curitiba;PR;29;4344.47;32;13;341.98;4;Prata
+C01382;Larissa Teixeira Souza;Santos;SP;34;9361.27;120;17;622.81;26;Ouro
+C01494;Gabriel Araújo Almeida;Campinas;SP;19;11418.78;64;12;530.26;30;Ouro
+C00328;Fernanda Mendes Martins;Rio de Janeiro;RJ;49;9796.88;72;17;314.67;6;Ouro
+C01153;Ana Araújo Araújo;Salvador;BA;18;3632.12;33;13;177.65;11;Bronze
+C01196;Débora Nascimento Lima;Londrina;PR;33;3881.55;112;16;399.09;6;Prata
+C00212;Juliana Moreira Moreira;São Paulo;SP;45;2703.76;36;24;285.11;0;
+C00670;Gabriel Fernandes Souza;Registro;SP;38;6889.67;65;14;358.67;69;Prata
+C01591;Rodrigo Teixeira Souza;Londrina;PR;18;11058.56;43;11;322.73;60;Prata
+C01247;Letícia Correia Ribeiro;Porto Alegre;RS;23;2813.06;19;10;460.97;28;Bronze
+C01415;Thiago Santos Costa;Campinas;SP;41;1200;36;13;297.52;16;Bronze
+C01314;Carlos Moreira Barbosa;Campinas;SP;47;7345.97;61;20;472.86;0;Prata
+C00299;Mateus Pereira Fernandes;Curitiba;PR;33;3175.13;88;20;322.79;8;Prata
+C00255;Camila Gomes Fernandes;Santos;SP;63;4109.11;27;9;545.94;37;Bronze
+C01539;Diego Nascimento Correia;Belo Horizonte;MG;27;9369.21;36;14;499.44;24;Prata
+C01402;Leandro Almeida Teixeira;CURITIBA;PR;44;4055.14;9;4;450.0;83;Bronze
+C00024;Vanessa Cardoso Rodrigues;Recife;PE;39;4543.09;68;11;246.91;9;Prata
+C01082;Juliana Gomes Correia;São Paulo;SP;34;2694.01;119;27;270.21;1;Ouro
+C00514;Sabrina Almeida Melo;Porto Alegre;RS;30;4253.07;8;8;482.2;10;Bronze
+C00099;Felipe Cardoso Teixeira;São Paulo;SP;50;7450.72;99;23;406.59;105;Ouro
+C01768;Bruno Mendes Almeida;São Paulo;SP;44;1775.24;44;10;165.26;43;Bronze
+C00344;João Mendes Gomes;Recife;PE;67;3628.59;56;0;124.58;115;Bronze
+C01611;Sabrina Rocha Rodrigues;Registro;SP;27;2184.84;76;15;374.2;27;Prata
+C00225;Bruno Nascimento Mendes;Brasília;DF;33;4270.54;81;21;166.53;23;Prata
+C01617;Camila Moreira Almeida;Curitiba;PR;44;4169.59;120;18;305.71;215;Ouro
+C00686;Leandro Lima Costa;Campinas;SP;49;14445.51;23;18;550.3;24;Ouro
+C00795;Larissa Barbosa Barbosa;Londrina;PR;30;5860.62;18;7;346.4;7;Bronze
+C00213;Renata Lima Barbosa;Santos;SP;;4037.15;28;15;478.32;10;Prata
+C00028;Daniel Rocha Ribeiro;Rio de Janeiro;RJ;32;;6;16;405.85;29;Bronze
+C00294;Renan Oliveira Moreira;Florianópolis;SC;26;4392.47;23;23;424.21;49;Prata
+C01103;Aline Correia Oliveira;Belo Horizonte;MG;52;1644.97;51;11;316.34;29;Bronze
+C01011;Eduarda Teixeira Santos;Porto Alegre;RS;29;3979.89;46;2;342.08;34;Bronze
+C01239;Natália Santos Silva; Curitiba;PR;33;6351.38;120;12;406.38;3;Ouro
+C00730;Natália Pereira Ribeiro;Registro;SP;26;5189.33;7;21;423.52;4;Prata
+C00181;Mariana Correia Almeida;São Paulo;SP;46;7672.29;50;17;455.16;30;Prata
+C01510;Felipe Silva Lima;São Paulo;SP;36;5994.26;64;12;439.26;20;Prata
+C01508;PATRÍCIA LIMA MENDES;SALVADOR;BA;37;39248.23;109;12;645.44;44;Ouro
+C01271;Isabela Santos Moreira;Rio de Janeiro;RJ;44;4004.09;29;17;416.06;34;Prata
+C01425;Marcos Gomes Araújo;Rio de Janeiro;RJ;31;2316.11;17;17;282.21;23;Bronze
+C00382;Marcos Gomes Souza;Campinas;SP;69;5277.12;95;5;220.2;30;Prata
+C00705;Fernanda Gomes Martins;São Paulo;SP;30;2661.03;102;18;190.75;51;Prata
+C01003;Vinícius Melo Santos;Rio de Janeiro;RJ;43;8213.14;77;10;418.42;66;Prata
+C00620;João Nascimento Oliveira;Londrina;PR;53;2264.36;28;23;57.77;3;Prata
+C01181;Fernanda Almeida Santos;São Paulo;SP;35;2859.47;92;20;333.42;25;Prata
+C00187;Débora Souza Barbosa;Rio de Janeiro;RJ;22;2389.41;92;15;133.48;96;Prata
+C00584;Felipe Carvalho Teixeira;Salvador;BA;51;72994.36;34;6;249.72;8;Bronze
+C01707;André Moreira Pereira;Londrina;PR;64;1525.49;40;7;358.28;73;Bronze
+C01543;Carlos Silva Costa;São Paulo;SP;25;5068.97;53;17;323.62;8;Prata
+C00215;Vinícius Cardoso Gomes;Santos;SP;37;8320.93;95;13;255.42;69;Prata
+C00016;Letícia Pereira Rocha;São Paulo;SP;36;2998.11;19;23;299.32;10;Prata
+C01637;Diego Araújo Ribeiro;Registro;SP;46;13449.1;24;18;607.08;27;Ouro
+C00862;Ana Costa Teixeira;Goiânia;GO;46;4183.56;33;15;530.15;105;Prata
+C00986;Thiago Oliveira Araújo;São Paulo;SP;61;4360.46;29;16;311.83;48;Prata
+C00097;Bruno Ribeiro Martins;Curitiba;PR;35;9315.75;99;9;643.26;15;Ouro
+C00789;Rodrigo Souza Melo;Curitiba;PR;66;5302.78;115;19;470.28;33;Ouro
+C00231;Eduarda Carvalho Santos;Florianópolis;SC;64;7021.69;24;16;354.36;27;Prata
+C01463;Mônica Oliveira Cardoso;Rio de Janeiro;RJ;48;1733.64;28;12;411.13;21;Bronze
+C00611;Ana Souza Silva;Salvador;BA;33;3214.07;112;17;240.61;17;Prata
+C00507;Fernanda Souza Silva;São Paulo;SP;41;2131.51;25;21;266.45;21;Prata
+C00263;Igor Moreira Barbosa;Belo Horizonte;MG;45;8550.77;85;24;512.94;55;Ouro
+C01357;Beatriz Santos Santos;Curitiba;PR;56;4721.24;59;12;326.25;199;Prata
+C01709;Patrícia Rodrigues Rodrigues;São Paulo;SP;47;4448.81;80;26;355.68;85;Ouro
+C00480;Diego Oliveira Ribeiro;Belo Horizonte;MG;26;5148.33;85;18;242.34;20;Prata
+C00755;Sabrina Araújo Lima;Recife;PE;37;10590.97;71;13;298.22;24;Prata
+C01372;Lucas Cardoso Lima;Campinas;SP;56;5267.83;86;3;393.12;26;Prata
+C00572;Fernanda Almeida Gomes; Florianopolis ;SC;44;3418.13;51;2;433.9;8;Bronze
+C01446;Ana Gomes Teixeira;Florianópolis;SC;29;3959.35;81;10;333.54;17;Prata
+C00523;Mariana Oliveira Araújo;Fortaleza;CE;40;3757.45;44;15;435.97;89;Prata
+C00577;Vinícius Fernandes Cardoso;Londrina;PR;61;3995.64;17;5;461.93;49;Bronze
+C00108;Juliana Oliveira Mendes;São Paulo;SP;56;6589.53;83;15;448.77;81;Prata
+C01290;Sabrina Mendes Barbosa;Curitiba;PR;26;4558.58;119;20;487.58;92;Ouro
+C00524;Rafael Almeida Cardoso;São Paulo;SP;43;3715.86;92;23;487.29;35;Ouro
+C01072;Vinícius Teixeira Fernandes;Curitiba;PR;39;11998.09;21;6;665.13;72;Prata
+C00378;Caio Oliveira Correia;Campinas;SP;39;1609.16;25;7;343.47;46;Bronze
+C00486;João Lima Silva;São Paulo;SP;45;4378.78;104;17;269.8;13;Prata
+C01368;Rafael Barbosa Lima;São Paulo;SP;33;3539.45;20;3;435.32;3;Bronze
+C01173;Igor Mendes Barbosa;Londrina;PR;50;2470.42;28;26;282.1;0;Prata
+C01375;Isabela Costa Araújo;Curitiba;PR;21;11838.49;94;6;424.79;5;Ouro
+C00048;Diego Melo Mendes;Salvador;BA;18;5564.86;75;10;498.12;34;Prata
+C01278;Renan Rodrigues Barbosa;Fortaleza;CE;24;6091.86;53;10;246.07;111;Prata
+C00469;Mariana Oliveira Cardoso;São Paulo;SP;47;3647.78;29;12;509.54;26;Prata
+C01367;Isabela Gomes Pereira;Londrina;PR;31;2821.96;56;18;335.49;64;Prata
+C00619;Aline Cardoso Gomes;São Paulo;SP;45;5039.77;5;24;567.99;96;Prata
+C00313;Isabela Cardoso Rocha;Fortaleza;CE;38;6110.65;98;10;578.5;14;Prata
+C01250;Rafael Santos Melo;São Paulo;SP;70;3338.52;54;13;480.2;22;Prata
+C00118;Caio Silva Ribeiro;Belo Horizonte;MG;18;1527.53;1;9;235.67;24;Bronze
+C00201;Daniel Costa Teixeira;Brasília;DF;22;8300.3;95;26;309.02;27;Ouro
+C01389;Caio Oliveira Teixeira;Fortaleza;CE;33;3303.08;109;26;553.29;85;Ouro
+C01081;Beatriz Barbosa Barbosa;Fortaleza;CE;45;3084.05;34;8;366.85;68;Bronze
+C00386;Caio Rodrigues Almeida;São Paulo;SP;45;1512.6;109;21;380.92;12;Prata
+C01477;Rafael Silva Pereira;Curitiba;PR;28;3552.26;107;19;313.52;75;Prata
+C00626;Vanessa Gomes Ribeiro;Rio de Janeiro;RJ;37;7995.32;24;14;488.99;12;Prata
+C00744;Vanessa Araújo Nascimento;Salvador;BA;31;3237.29;32;16;292.62;8;Prata
+C00712;Débora Mendes Correia;São Paulo;SP;57;1868.91;67;10;249.95;12;Bronze
+C00845;Rafael Santos Santos;Florianópolis;SC;36;6216.09;114;12;394.27;46;Ouro
+C01779;Isabela Cardoso Gomes;Curitiba;PR;31;6892.45;110;17;338.03;16;Ouro
+C00739;Patrícia Gomes Silva;Registro;SP;55;2240.59;79;12;118.88;3;Prata
+C00870;Carlos Teixeira Oliveira;São Paulo;SP;34;4658.86;51;3;347.52;110;Bronze
+C01469;Gustavo Carvalho Fernandes;Fortaleza;CE;30;8394.61;119;31;446.75;129;Ouro
+C00298;Letícia Rodrigues Teixeira;São Paulo;SP;21;2013.87;113;34;331.62;19;Ouro
+C00716;Patrícia Lima Gomes;São Paulo;SP;31;6487.18;3;7;530.94;87;Bronze
+C00414;Bruno Fernandes Barbosa;Rio de Janeiro;RJ;32;6479.98;79;14;195.28;7;Prata
+C01711;Daniel Correia Rodrigues;Salvador;BA;49;1338.43;25;9;146.64;30;Bronze
+C00476;Fernanda Teixeira Rocha;RIO DE JANEIRO;RJ;61;2955.35;85;9;291.81;25;Prata
+C01381;Lucas Mendes Rocha;Santos;SP;25;7397.06;51;25;355.75;11;Ouro
+C00467;Ana Oliveira Rocha;Salvador;BA;37;7165.42;2;10;588.74;11;Prata
+C01445;Helena Nascimento Carvalho;Salvador;BA;31;9010.26;4;13;391.29;7;Prata
+C00261;Gabriel Nascimento Mendes;São Paulo;SP;30;4717.92;37;14;115.48;29;Bronze
+C01285;Bianca Gomes Santos;Porto Alegre;RS;39;4541.59;5;4;190.52;6;Bronze
+C01234;Bianca Nascimento Teixeira;Londrina;PR;29;10700.36;69;11;353.18;130;Prata
+C00062;Patrícia Martins Lima;Rio de Janeiro;RJ;47;;26;14;580.17;71;Prata
+C01117;Bruno Gomes Pereira;Rio de Janeiro;RJ;24;2593.64;59;20;425.24;191;Prata
+C01388;Gustavo Lima Rocha; São Paulo ;SP;36;16787.61;7;5;796.63;11;Prata
+C01169;Vinícius Fernandes Rodrigues;Rio de Janeiro;RJ;23;5075.55;108;18;557.93;75;Ouro
+C00659;Camila Silva Almeida;Registro;SP;18;2415.16;108;27;238.6;7;Ouro
+C01129;André Oliveira Rodrigues;Curitiba;PR;33;7075.98;107;14;354.76;20;Ouro
+C01527;Thiago Moreira Teixeira;São Paulo;SP;34;17436.86;52;18;645.92;134;Ouro
+C00065;Juliana Silva Melo;Porto Alegre;RS;23;5960.52;31;7;603.85;28;Prata
+C00153;Felipe Santos Martins;Recife;PE;45;10361.07;101;14;548.34;14;Ouro
+C01644;Camila Araújo Almeida;Salvador;BA;59;3260.16;50;21;274.15;74;Prata
+C00434;GUSTAVO CARDOSO CORREIA;SANTOS;SP;37;6819.5;14;20;376.29;14;Prata
+C01551;Vanessa Carvalho Nascimento;Porto Alegre;RS;44;4597.52;10;17;535.44;90;Prata
+C01036;Aline Rodrigues Correia;Campinas;SP;38;6479.2;25;16;6048.8;127;Prata
+C01571;Mateus Mendes Araújo;porto alegre ;RS;42;2662.79;21;16;395.18;43;Bronze
+C00194;Thiago Teixeira Teixeira;Curitiba;PR;26;5123.43;1;8;307.63;25;Bronze
+C01457;João Pereira Costa;São Paulo;SP;40;1920.53;61;10;252.19;23;Bronze
+C01127;Camila Almeida Lima;Recife;PE;18;3746.38;31;18;376.62;10;Prata
+C00878;Lucas Carvalho Melo;Campinas;SP;70;4829.2;99;14;405.66;38;Prata
+C00439;Mônica Martins Araújo;Campinas;SP;28;5824.36;57;12;372.23;3;Prata
+C00762;Letícia Oliveira Rocha;Campinas;SP;55;3028.46;100;23;483.31;27;Ouro
+C01141;Caio Carvalho Araújo;Curitiba;PR;92;3348.65;26;15;311.32;15;Bronze
+C01625;Rodrigo Teixeira Melo;São Paulo;SP;48;;35;16;325.77;5;Prata
+C00902;Renan Mendes Cardoso;Registro;SP;40;5431.09;20;13;379.42;82;Prata
+C00466;Letícia Lima Melo;São Paulo;SP;64;7240.48;91;0;478.84;3;Prata
+C01696;Juliana Martins Melo;Rio de Janeiro;RJ;45;2560.74;8;0;74.29;11;Bronze
+C01639;Eduarda Martins Martins;São Paulo;SP;21;11428.66;28;8;472.9;3;Prata
+C01080;Aline Pereira Correia;São Paulo;SP;50;2414.65;20;15;395.85;196;Bronze
+C01295;Bianca Gomes Costa;Florianópolis;SC;37;5017.57;40;18;423.2;9;Prata
+C00037;Larissa Oliveira Silva;Recife;PE;40;2824.03;114;25;545.77;140;Ouro
+C00264;Eduarda Rocha Lima;São Paulo;SP;55;6143.34;101;19;147.7;9;Ouro
+C01545;Mônica Araújo Nascimento;Londrina;PR;67;6835.02;108;19;283.67;15;Ouro
+C00326;Letícia Martins Lima;Curitiba;PR;22;4066.04;89;17;645.23;39;Prata
+C00918;Vanessa Moreira Almeida;São Paulo;SP;18;4948.39;12;13;567.22;9;Prata
+C00199;João Fernandes Martins;Curitiba;PR;49;10620.27;109;18;512.17;26;Ouro
+C00895;Helena Costa Almeida;Santos;SP;70;1510.41;71;18;220.96;11;Prata
+C00018;Larissa Cardoso Teixeira;Rio de Janeiro;RJ;28;6681.36;51;13;343.98;8;Prata
+C01540;Felipe Fernandes Souza;Porto Alegre;RS;38;1860.5;97;22;399.47;34;Prata
+C01624;Renan Carvalho Moreira;Florianópolis;SC;53;7186.38;27;7;459.64;92;Prata
+C00190;Isabela Ribeiro Araújo;São Paulo;SP;48;1200;14;18;274.98;8;Bronze
+C00151;Larissa Martins Carvalho;Londrina;PR;25;12272.98;83;21;544.24;46;Ouro
+C00691;Juliana Oliveira Oliveira;Santos;SP;32;8742.99;82;19;762.89;81;Ouro
+C01421;Felipe Barbosa Rocha;Salvador;BA;59;3374.1;101;19;318.89;28;Prata
+C00767;Mônica Moreira Teixeira;Goiânia;GO;18;2165.51;24;7;223.1;43;Bronze
+C00846;Patrícia Rodrigues Moreira;São Paulo;SP;42;5421.67;26;16;469.91;21;Prata
+C01286;Aline Carvalho Ribeiro;Salvador;BA;49;2009.16;97;4;230.12;20;Bronze
+C00575;Helena Moreira Fernandes;Fortaleza;CE;27;4552.23;90;10;340.34;35;Prata
+C00432;Thiago Araújo Melo;CURITIBA;PR;52;3110.17;6;6;268.88;43;Bronze
+C00807;Mateus Martins Pereira;Recife;PE;61;13606.81;81;20;587.77;10;Ouro
+C01356;Vanessa Araújo Costa;Goiânia;GO;32;5670.87;96;12;663.96;8;Prata
+C00727;Letícia Souza Oliveira;Porto Alegre;RS;54;3546.76;13;8;416.18;26;Bronze
+C00916;Thiago Moreira Souza;Santos;SP;49;8403.47;64;18;457.77;96;Ouro
+C01008;Mônica Rodrigues Melo;Belo Horizonte;MG;58;3151.41;40;7;326.81;101;Bronze
+C00232;Renan Teixeira Barbosa;São Paulo;SP;45;4406.23;10;16;368.79;42;Bronze
+C01015;Fernanda Lima Rocha;Rio de Janeiro;RJ;41;2508.15;114;26;302.04;70;Ouro
+C00984;Patrícia Nascimento Moreira;Rio de Janeiro;RJ;41;1972.87;34;14;212.33;27;Bronze
+C00356;Felipe Rodrigues Carvalho;Curitiba;PR;38;3446.49;28;13;288.3;62;Bronze
+C00979;Lucas Souza Pereira;Fortaleza;CE;18;5312.86;65;19;354.35;103;Prata
+C01633;Rodrigo Moreira Costa;Campinas;SP;31;62346.41;53;21;309.85;26;Prata
+C00504;Patrícia Araújo Moreira;Belo Horizonte;MG;18;3891.59;120;14;239.42;53;Prata
+C00409;Felipe Lima Lima;São Paulo;SP;57;2322.53;72;18;235.39;19;Prata
+C00905;Gabriel Barbosa Araújo;Santos;SP;42;3413.61;36;12;232.0;0;Bronze
+C00403;Thiago Rocha Lima;Santos;SP;21;2607.53;31;17;379.17;59;Prata
+C01185;Felipe Araújo Silva;Londrina;PR;35;3068.45;59;21;262.83;28;Prata
+C00693;Renata Rodrigues Moreira;Goiânia;GO;40;3138.96;105;10;456.62;18;Prata
+C00110;Patrícia Moreira Correia;Florianópolis;SC;25;1757.89;10;13;305.71;14;Bronze
+C00483;Mateus Nascimento Lima;Registro;SP;23;9019.9;112;12;524.32;51;Ouro
+C01136;Mateus Silva Ribeiro;Curitiba;PR;60;1305.23;23;22;123.48;24;Bronze
+C01188;Felipe Gomes Almeida;São Paulo;SP;42;2200.14;89;9;304.39;4;Prata
+C00251;Isabela Correia Rodrigues;Fortaleza;CE;37;4891.4;39;27;362.22;68;Prata
+C01174;Helena Pereira Barbosa;Santos;SP;41;2860.58;104;26;225.03;43;Ouro
+C00494;Vanessa Costa Nascimento;Porto Alegre;RS;51;9812.21;77;16;312.25;9;Ouro
+C00408;André Carvalho Santos;São Paulo;SP;49;2453.09;36;19;275.18;63;Prata
+C00863;Lucas Rodrigues Barbosa;Campinas;SP;60;8129.09;13;13;386.85;57;Prata
+C00144;João Moreira Martins;São Paulo;SP;62;6291.76;19;12;592.14;43;Prata
+C01721;Mateus Almeida Lima;Campinas;SP;25;8202.38;15;13;481.93;20;Prata
+C00829;Sabrina Martins Costa;Santos;SP;47;6193.91;71;17;476.22;10;Prata
+C00379;André Rodrigues Rocha;sao paulo;SP;61;4778.25;19;18;229.6;61;Prata
+C00197;Gabriel Santos Fernandes;Rio de Janeiro;RJ;43;1920.29;82;8;604.53;31;Prata
+C00142;Daniel Costa Silva;Recife;PE;34;5612.59;78;23;348.13;28;Ouro
+C00183;Gustavo Carvalho Carvalho;São Paulo;SP;72;1548.02;80;20;;11;Prata
+C01604;Rodrigo Costa Nascimento;Registro;SP;41;3365.34;64;16;139.82;54;Prata
+C00622;Isabela Ribeiro Almeida;Salvador;BA;40;6139.78;114;22;316.12;17;Ouro
+C01570;Larissa Pereira Costa;Belo Horizonte;MG;47;2294.04;15;10;356.54;49;Bronze
+C01123;Isabela Fernandes Ribeiro;Fortaleza;CE;24;7655.67;101;27;430.85;5;Ouro
+C00740;Igor Oliveira Pereira;Curitiba;PR;51;6191.79;15;22;439.26;23;Prata
+C01663;Gustavo Costa Carvalho;Porto Alegre;RS;18;5974.77;23;18;215.63;26;Prata
+C00937;Natália Teixeira Martins;Campinas;SP;49;1823.87;23;10;169.44;33;Bronze
+C00258;Natália Carvalho Almeida;Belo Horizonte;MG;38;2351.97;79;20;151.91;20;Prata
+C01493;Igor Pereira Costa;Porto Alegre;RS;37;9003.56;31;14;552.35;58;Prata
+C00941;Carlos Costa Moreira;Rio de Janeiro;RJ;35;3615.85;111;17;191.11;73;Prata
+C01202;Mateus Martins Cardoso;Santos;SP;29;2305.18;4;12;267.0;47;Bronze
+C00205;Gustavo Moreira Nascimento;São Paulo;SP;42;16151.07;53;30;581.21;10;Ouro
+C00649;Fernanda Melo Teixeira;Fortaleza;CE;32;2198.04;6;5;340.54;101;Bronze
+C00586;Natália Rodrigues Lima;Porto Alegre;RS;41;7268.11;33;9;644.05;7;Prata
+C01632;Bruno Melo Oliveira;São Paulo;SP;20;;15;9;343.52;53;Bronze
+C01723;Ana Santos Teixeira;Rio de Janeiro;RJ;30;8651.8;4;21;479.23;22;Prata
+C00627;Lucas Carvalho Carvalho;Fortaleza;CE;31;6504.9;1;11;421.18;104;Bronze
+C00592;João Souza Santos;Rio de Janeiro;RJ;55;1381.47;110;21;307.26;0;Prata
+C01035;Fernanda Oliveira Moreira;Rio de Janeiro;RJ;32;2371.97;13;11;565.0;14;Bronze
+C01339;Caio Souza Rodrigues;Porto Alegre;RS;36;3735.19;60;21;428.33;9;Prata
+C01440;Natália Rodrigues Barbosa;FLORIANÓPOLIS;SC;49;3532.15;100;14;370.6;11;Prata
+C01627;Bruno Correia Moreira;Fortaleza;CE;38;12130.44;18;18;592.47;92;Prata
+C00556;Aline Fernandes Martins;São Paulo;SP;22;5854.66;10;16;514.27;2;Prata
+C00166;Igor Martins Ribeiro;Belo Horizonte;MG;45;1958.01;99;18;390.93;45;Prata
+C00685;João Carvalho Souza;Belo Horizonte;MG;18;3220.15;30;16;417.28;46;Prata
+C00786;Leandro Silva Lima;Belo Horizonte;MG;55;3987.41;69;18;438.03;45;Prata
+C00526;Fernanda Nascimento Nascimento;Curitiba;PR;43;5531.99;69;28;499.21;29;Ouro
+C01112;Mônica Rocha Silva;Belo Horizonte;MG;30;2896.26;13;23;166.93;103;Prata
+C00847;Renan Cardoso Barbosa;Goiânia;GO;39;4331.65;86;17;87.59;30;Prata
+C01417;Carlos Teixeira Silva;Porto Alegre;RS;33;2347.54;25;15;415.81;1;Bronze
+C00758;Isabela Araújo Souza;Curitiba;PR;20;5424.31;38;6;179.39;4;Bronze
+C00380;Marcos Melo Pereira;Fortaleza;CE;37;2591.32;41;16;392.7;41;Prata
+C00773;Leandro Rodrigues Moreira;Santos;SP;36;9792.17;119;22;436.65;8;Ouro
+C01284;Felipe Moreira Fernandes;Salvador;BA;35;2154.66;6;12;291.76;17;Bronze
+C00809;Felipe Oliveira Costa;Curitiba;PR;31;6301.11;54;14;233.64;28;Prata
+C00054;ALINE OLIVEIRA CARVALHO;BRASÍLIA;DF;40;2639.21;78;26;249.69;29;Prata
+C00974;Daniel Rodrigues Lima;São Paulo;SP;45;2627.52;81;20;553.15;29;Prata
+C01666;Lucas Teixeira Araújo;São Paulo;SP;50;7100.36;69;18;642.97;52;Ouro
+C00234;Patrícia Silva Oliveira;Sao Paulo;SP;44;2545.0;85;19;203.12;44;Prata
+C01040;Diego Gomes Araújo;São Paulo;SP;48;1509.1;78;9;257.58;10;Bronze
+C01353;Bianca Ribeiro Correia;Brasília;DF;18;2466.4;31;18;346.81;15;Prata
+C01760;Igor Rodrigues Gomes;São Paulo;SP;44;7357.81;77;7;389.73;95;Prata
+C01325;Aline Barbosa Araújo;Curitiba;PR;44;6115.24;105;25;498.19;71;Ouro
+C00036;Diego Rodrigues Silva;Salvador;BA;46;2767.55;79;13;334.23;50;Prata
+C00997;Rodrigo Lima Fernandes;São Paulo;SP;38;2845.7;6;5;231.6;42;Bronze
+C00771;Isabela Almeida Rocha;Belo Horizonte;MG;27;4217.88;104;15;451.23;40;Prata
+C01222;Carlos Nascimento Pereira;Santos;SP;32;2270.15;23;16;479.02;21;Bronze
+C00061;Beatriz Araújo Souza;São Paulo;SP;40;8051.0;107;16;471.91;41;Ouro
+C01787;Renan Martins Almeida;São Paulo;SP;69;12449.98;13;27;427.53;25;Ouro
+C00722;Rodrigo Gomes Araújo;RIO DE JANEIRO;RJ;36;4620.11;98;15;459.51;27;Prata
+C01479;Marcos Melo Teixeira;Rio de Janeiro;RJ;63;8422.0;22;11;407.15;40;Prata
+C00855;Daniel Gomes Fernandes;Belo Horizonte;MG;30;2428.61;41;15;491.77;30;Prata
+C01288;Beatriz Cardoso Cardoso;São Paulo;SP;57;2805.53;74;13;558.27;33;Prata
+C00437;Fernanda Barbosa Silva;Registro;SP;18;9577.17;112;18;679.63;5;Ouro
+C00959;Felipe Souza Rocha;Fortaleza;CE;53;7281.35;79;23;396.29;48;Ouro
+C00169;Camila Silva Almeida;Brasília;DF;52;6363.25;105;17;478.12;50;Ouro
+C00310;Débora Lima Pereira;Campinas;SP;38;7366.64;60;24;534.63;40;Ouro
+C01453;Camila Oliveira Gomes;Campinas;SP;30;6836.27;66;5;598.61;3;Prata
+C01026;Mariana Araújo Ribeiro;São Paulo;SP;18;2040.87;35;26;242.58;30;Prata
+C00867;Natália Rodrigues Costa;Curitiba;PR;25;4302.7;98;11;285.41;24;Prata
+C00505;Caio Cardoso Melo;Rio de Janeiro;RJ;39;4385.88;49;13;343.61;26;Prata
+C00471;Igor Pereira Barbosa;São Paulo;SP;22;3307.28;21;9;425.9;15;Bronze
+C00921;Bianca Barbosa Nascimento;Porto Alegre;RS;43;1870.26;97;15;338.44;95;Prata
+C01237;Sabrina Martins Araújo;São Paulo;SP;35;2446.7;78;20;320.65;56;Prata
+C01049;Camila Martins Carvalho;São Paulo;SP;35;4358.09;64;18;164.63;16;Prata
+C00962;Ana Pereira Rodrigues;Rio de Janeiro;RJ;21;7649.51;19;14;428.85;67;Prata
+C00256;Lucas Almeida Cardoso;São Paulo;SP;44;9939.76;19;9;686.38;7;Prata
+C00859;André Carvalho Melo;Santos;SP;51;1373.85;99;11;400.78;31;Prata
+C01319;Helena Costa Silva;Curitiba;PR;21;2866.32;28;20;342.91;0;Prata
+C01546;Letícia Pereira Melo;Florianópolis;SC;58;8789.9;56;5;299.59;169;Prata
+C01630;Vanessa Costa Pereira;São Paulo;SP;47;6476.85;72;26;308.89;63;Ouro
+C01754;João Correia Pereira;Rio de Janeiro;RJ;41;15154.39;56;10;487.13;27;Ouro
+C00120;Isabela Cardoso Almeida;Rio de Janeiro;RJ;49;6542.42;24;12;603.86;14;Prata
+C01194;Renan Moreira Oliveira;Belo Horizonte;MG;29;10931.53;83;13;;27;Ouro
+C00282;Leandro Gomes Rocha;Curitiba;PR;40;3472.3;90;19;153.21;19;Prata
+C00235;Eduarda Rocha Oliveira;Rio de Janeiro;RJ;37;4100.53;94;12;212.86;53;Prata
+C01478;André Oliveira Gomes;São Paulo;SP;33;3054.1;57;20;240.45;92;Prata
+C00778;Ana Costa Mendes;Florianópolis;SC;44;5433.69;54;26;196.07;3;Prata
+C00771;Isabela Almeida Rocha;Belo Horizonte;MG;27;4217.88;104;15;451.23;40;Prata
+C00510;Beatriz Fernandes Carvalho;Salvador;BA;37;1997.29;39;10;;58;Bronze
+C00713;Thiago Almeida Souza;Curitiba;PR;43;7706.58;10;19;417.17;10;Prata
+C00342;Isabela Moreira Fernandes;Salvador;BA;24;1590.82;41;16;420.17;12;Prata
+C00443;Rafael Melo Rodrigues;Belo Horizonte;MG;43;;50;18;395.23;23;Prata
+C01346;Natália Fernandes Ribeiro;Campinas;SP;44;11308.28;91;13;625.66;21;Ouro
+C01621;Igor Gomes Rocha;São Paulo;SP;51;4575.85;58;7;319.33;23;Prata
+C01800;Ana Costa Oliveira;Rio de Janeiro;RJ;64;8150.6;69;15;335.59;10;Prata
+C01488;Vinícius Gomes Teixeira;Curitiba;PR;43;2546.3;118;11;370.78;2;Prata
+C01792;Bianca Almeida Martins;Londrina;PR;46;2259.97;32;12;349.28;11;Bronze
+C00186;Camila Costa Silva;Belo Horizonte;MG;44;3683.59;24;8;417.74;25;Bronze
+C01735;Lucas Araújo Oliveira;São Paulo;SP;44;1613.56;36;16;416.12;1;Prata
+C00081;MARIANA LIMA MOREIRA;BELO HORIZONTE;MG;41;;8;15;271.35;169;Bronze
+C00354;Gabriel Silva Souza;Belo Horizonte;MG;27;1485.08;31;7;379.84;65;Bronze
+C00400;Eduarda Costa Oliveira;Curitiba;PR;34;2388.12;3;0;322.95;3;Bronze
+C01592;Letícia Cardoso Pereira;São Paulo;SP;36;4211.64;49;8;375.39;2;Bronze
+C01709;Patrícia Rodrigues Rodrigues;São Paulo;SP;47;4448.81;80;26;355.68;85;Ouro
+C00606;Renan Ribeiro Cardoso;Rio de Janeiro;RJ;48;6835.95;101;26;525.7;17;Ouro
+C00980;Rafael Almeida Moreira;Recife;PE;53;4410.53;62;11;380.69;0;Prata
+C01246;Beatriz Pereira Ribeiro;Goiânia;GO;30;4867.0;69;17;372.41;33;Prata
+C00132;VINÍCIUS CARVALHO GOMES;SÃO PAULO;SP;61;2703.31;3;6;413.24;24;Bronze
+C01755;Carlos Almeida Silva;Curitiba;PR;69;2536.39;15;10;396.6;19;Bronze
+C00838;Mônica Nascimento Teixeira;Salvador;BA;42;8539.49;21;4;288.87;5;Bronze
+C00164;Mateus Mendes Martins;Registro;SP;41;5821.76;83;13;365.31;61;Prata
+C00412;Camila Souza Almeida;Curitiba;PR;18;3065.78;89;30;284.97;17;Ouro
+C00357;Carlos Barbosa Barbosa;Campinas;SP;21;2751.42;9;19;282.6;22;Bronze
+C00924;Débora Santos Mendes;São Paulo;SP;60;5284.3;91;17;381.44;7;Prata
+C00887;Eduarda Costa Ribeiro;Santos;SP;61;9347.18;110;14;507.68;85;Ouro
+C00056;Mariana Ribeiro Martins;Salvador;BA;39;15833.73;24;11;694.62;33;Ouro
+C01268;Bruno Gomes Cardoso;Florianópolis;SC;55;5831.19;76;7;441.44;53;Prata
+C00818;Fernanda Barbosa Almeida;São Paulo;SP;23;5264.45;64;12;361.41;17;Prata
+C01264;André Melo Souza;Fortaleza;CE;37;1200;102;6;411.82;8;Prata
+C00325;Mateus Oliveira Rocha;Rio de Janeiro;RJ;42;3526.31;41;12;525.33;2;Prata
+C00634;Patrícia Almeida Nascimento;Salvador;BA;44;2789.06;100;22;104.09;1;Prata
+C01487;Isabela Araújo Teixeira;São Paulo;SP;30;10217.06;112;17;648.25;31;Ouro
+C00581;Thiago Mendes Ribeiro;Registro;SP;40;2210.75;39;16;442.81;1;Prata
+C00579;André Silva Ribeiro;Londrina;PR;49;4127.86;61;14;230.55;157;Prata
+C00928;Lucas Martins Rodrigues;Porto Alegre;RS;55;6678.19;7;8;490.11;31;Bronze
+C01659;Beatriz Mendes Pereira;Porto Alegre;RS;18;6949.14;81;15;278.88;19;Prata
+C00761;Patrícia Ribeiro Correia;Brasília;DF;35;11082.66;55;9;677.97;67;Prata
+C01599;Beatriz Melo Araújo;Santos;SP;48;4590.98;66;17;407.75;16;Prata
+C01638;Bruno Martins Lima;sao paulo;SP;38;4480.77;81;9;528.83;55;Prata
+C00839;Daniel Teixeira Araújo;Porto Alegre;RS;35;4171.82;104;20;344.92;2;Ouro
+C00854;Marcos Almeida Teixeira;Belo Horizonte;MG;38;6830.2;112;13;135.37;12;Prata
+C00671;Felipe Mendes Rocha;Salvador;BA;35;5084.18;100;18;375.72;97;Ouro
+C01795;Ana Fernandes Silva;Curitiba;PR;28;5306.12;103;22;448.12;2;Ouro
+C01192;Diego Almeida Rodrigues;Salvador;BA;18;10418.85;48;11;354.51;15;Prata
+C01012;Larissa Moreira Ribeiro;São Paulo;SP;43;5050.95;118;18;293.02;122;Ouro
+C01771;Carlos Pereira Nascimento;Porto Alegre;RS;38;4843.88;69;28;365.41;27;Ouro
+C01613;Vinícius Ribeiro Araújo;Belo Horizonte;MG;18;3624.15;105;21;267.09;55;Prata
+C01063;Rodrigo Ribeiro Fernandes;Salvador;BA;35;9473.15;5;18;487.79;1;Prata
+C01221;Bruno Oliveira Araújo;São Paulo;SP;59;2515.1;118;14;453.67;58;Prata
+C01747;Mônica Rocha Moreira;Belo Horizonte;MG;44;7162.71;21;11;573.33;74;Prata
+C01482;Mônica Rodrigues Correia;Florianópolis;SC;24;4558.62;28;19;501.81;6;Prata
+C01573;Marcos Oliveira Rodrigues;Salvador;BA;45;5185.87;82;17;259.49;38;Prata
+C01364;Rodrigo Melo Ribeiro;Florianópolis;SC;43;4589.63;46;13;535.67;4;Prata
+C00014;Sabrina Pereira Pereira;Rio de Janeiro;RJ;36;3277.2;26;16;357.05;15;Prata
+C00132;Vinícius Carvalho Gomes;São Paulo;SP;61;2703.31;3;6;413.24;24;Bronze
+C00341;Gabriel Mendes Araújo;São Paulo;SP;39;4880.92;69;21;510.37;10;Prata
+C01277;Vinícius Barbosa Carvalho;rio de janeiro;RJ;54;2518.36;44;0;316.81;7;Bronze
+C00737;Caio Mendes Souza;Fortaleza;CE;37;2703.56;70;20;499.21;14;Prata
+C01643;Bianca Carvalho Fernandes;São Paulo;SP;51;4137.48;90;1;328.34;9;Prata
+C00359;RODRIGO NASCIMENTO MARTINS;CURITIBA;PR;43;4083.14;31;8;201.03;24;Bronze
+C00087;Igor Fernandes Martins;Recife;PE;27;4217.46;91;15;383.21;5;Prata
+C00842;Patrícia Gomes Cardoso;Curitiba;PR;42;5932.12;37;14;421.16;12;Prata
+C01518;Letícia Araújo Mendes;Brasília;DF;70;1621.05;80;19;242.38;178;Prata
+C01429;Beatriz Martins Correia;São Paulo;SP;23;8273.25;106;14;539.57;1;Ouro
+C01528;Débora Rodrigues Ribeiro;São Paulo;SP;60;4196.58;19;8;458.57;45;Bronze
+C00714;Vinícius Rocha Almeida;Recife;PE;32;11489.03;80;15;271.4;10;Ouro
+C00207;Carlos Souza Mendes;Campinas;SP;54;3634.82;8;0;442.02;25;Bronze
+C00038;Mateus Pereira Teixeira;Recife;PE;48;5489.05;38;16;497.8;66;
+C01214;Mateus Ribeiro Barbosa;Belo Horizonte;MG;42;3807.36;89;6;290.25;31;Prata
+C01636;Vanessa Oliveira Teixeira;Rio de Janeiro;RJ;22;2016.77;119;2;344.8;10;Prata
+C00720;Débora Fernandes Teixeira;Belo Horizonte;MG;40;3004.02;70;25;;31;Prata
+C00146;Mateus Fernandes Silva;São Paulo;SP;39;2264.52;30;6;162.54;71;Bronze
+C00774;Helena Santos Pereira;Belo Horizonte;MG;43;6926.73;84;7;212.2;4;Prata
+C01332;Natália Costa Araújo;Porto Alegre;RS;43;2794.2;25;17;340.16;9;Bronze
+C00371;Gabriel Pereira Correia;São Paulo;SP;61;3250.28;86;23;313.43;5;Prata
+C00130;Diego Barbosa Gomes;Londrina;PR;18;3796.72;53;9;476.41;33;Prata
+C00145;Diego Fernandes Nascimento;Recife;PE;33;3513.0;101;12;281.05;11;Prata
+C01774;André Moreira Martins;Rio de Janeiro;RJ;34;2951.39;7;27;420.0;32;Prata
+C00390;Helena Lima Barbosa;São Paulo;SP;46;4524.47;14;4;148.61;53;Bronze
+C01073;André Mendes Martins;Goiânia;GO;44;2609.47;78;16;384.42;10;Prata
+C00792;Juliana Almeida Ribeiro;Santos;SP;55;4594.61;87;9;229.6;0;Prata
+C00224;Isabela Fernandes Rodrigues;Recife;PE;35;2547.51;27;13;352.53;96;Bronze
+C01315;Renata Moreira Ribeiro;Campinas;SP;42;1971.63;99;12;296.76;84;Prata
+C00296;Felipe Mendes Almeida;Curitiba;PR;59;2556.52;106;18;294.45;61;Prata
+C01394;Mônica Moreira Gomes;Brasília;DF;38;2947.75;75;18;434.55;3;Prata
+C01037;Gabriel Moreira Teixeira;Porto Alegre;RS;37;1998.12;39;6;291.76;48;Bronze
+C01555;André Nascimento Gomes;Belo Horizonte;MG;18;5281.31;20;14;223.05;13;Bronze
+C01076;LARISSA LIMA RIBEIRO;CURITIBA;PR;39;8039.25;30;15;359.33;14;Prata
+C00133;Gustavo Costa Gomes;São Paulo;SP;18;3058.39;106;23;208.88;16;Ouro
+C01341;Caio Costa Almeida;Rio de Janeiro;RJ;59;1766.87;111;16;260.54;22;Prata
+C00121;Igor Araújo Nascimento;Salvador;BA;32;5151.6;64;17;341.83;33;Prata
+C00604;Beatriz Costa Souza;Campinas;SP;29;3275.24;19;10;277.34;54;Bronze
+C00695;Rodrigo Rocha Oliveira;Santos;SP;43;2662.63;111;23;342.16;14;Ouro
+C00610;Caio Moreira Fernandes;Belo Horizonte;MG;55;2011.98;55;21;248.29;23;Prata
+C01170;Renata Souza Teixeira;Belo Horizonte;MG;33;7038.7;84;20;405.2;49;Ouro
+C00433;Mateus Melo Nascimento;Curitiba;PR;25;4067.68;30;8;341.21;7;Bronze
+C00718;Marcos Almeida Rocha;Santos;SP;32;2714.66;120;9;463.07;9;Prata
+C01013;Mariana Nascimento Correia; Curitiba;PR;24;5257.16;65;8;373.21;42;Prata
+C01407;Camila Pereira Moreira;São Paulo;SP;33;3770.47;50;18;477.22;129;Prata
+C01338;Gabriel Barbosa Cardoso;Florianópolis;SC;40;5440.72;71;12;403.64;34;Prata
+C01623;Carlos Cardoso Gomes;Belo Horizonte;MG;55;1773.86;21;17;262.56;2;Bronze
+C01259;Camila Pereira Pereira;São Paulo;SP;34;7309.3;50;21;269.14;22;Prata
+C01199;Patrícia Gomes Cardoso; Belo Horizonte;MG;31;2531.91;108;25;265.86;41;Ouro
+C00820;André Gomes Oliveira;Salvador;BA;43;4148.15;54;25;418.05;158;Prata
+C01473;Renan Santos Melo;São Paulo;SP;47;6979.79;16;3;381.94;7;Bronze
+C01727;RENATA MELO ARAÚJO;SÃO PAULO;SP;67;10003.08;41;2;615.71;4;Prata
+C01053;Marcos Almeida Gomes;São Paulo;SP;18;7517.6;23;15;485.31;106;Prata
+C00933;Juliana Silva Barbosa;Florianópolis;SC;41;11029.47;85;5;488.52;22;Prata
+C01520;Leandro Araújo Mendes;Rio de Janeiro;RJ;30;2198.96;32;5;279.11;45;Bronze
+C00913;Mônica Souza Barbosa; Porto Alegre;RS;39;10432.63;22;10;569.6;1;Prata
+C00285;Letícia Melo Barbosa;São Paulo;SP;21;1683.93;56;22;273.59;4;Prata
+C01461;Patrícia Martins Cardoso;São Paulo;SP;38;3126.26;50;14;279.82;20;Prata
+C00640;André Moreira Nascimento;Porto Alegre;RS;44;2247.48;43;23;343.3;24;Prata
+C00193;Bruno Rodrigues Santos;Londrina;PR;41;4701.27;52;10;278.39;11;Prata
+C00628;BRUNO CARVALHO SILVA;RIO DE JANEIRO;RJ;47;4991.74;119;22;341.96;39;Ouro
+C01668;Letícia Costa Lima;São Paulo;SP;52;6233.13;45;6;295.93;17;Bronze
+C00770;Beatriz Martins Araújo;Fortaleza;CE;46;9822.27;94;21;519.64;20;Ouro
+C00647;Eduarda Silva Silva;Santos;SP;39;3640.35;80;26;478.98;20;Ouro
+C00886;João Santos Nascimento;Registro;SP;27;1545.82;87;27;306.97;35;Prata
+C00418;Fernanda Mendes Martins;Santos;SP;30;3985.67;2;12;540.16;7;Bronze
+C00473;Rafael Melo Pereira;Belo Horizonte;MG;21;2943.68;36;18;;4;Prata
+C00311;Renata Lima Martins;Curitiba;PR;33;2687.29;86;20;371.02;7;Prata
+C01466;Caio Almeida Lima;Curitiba;PR;42;3360.47;64;16;208.75;14;Prata
+C00178;Caio Rodrigues Ribeiro;Campinas;SP;36;8438.06;79;22;614.9;3;Ouro
+C00975;Rafael Carvalho Araújo;Recife;PE;54;5866.82;13;11;249.07;1;Bronze
+C00445;Natália Carvalho Pereira;Rio de Janeiro;RJ;75;2696.35;84;19;446.43;64;Prata
+C01586;Juliana Pereira Souza;Curitiba;PR;35;1731.4;33;6;220.45;40;Bronze
+C00853;Letícia Teixeira Melo;São Paulo;SP;92;7166.76;17;23;570.63;1;Prata
+C00734;Aline Pereira Ribeiro;Fortaleza;CE;32;23640.73;99;21;975.03;38;Diamante
+C01349;Rodrigo Carvalho Cardoso;Rio de Janeiro;RJ;41;10071.39;69;18;589.55;60;Ouro
+C00338;Aline Ribeiro Correia;Rio de Janeiro;RJ;40;13240.51;35;7;801.37;3;Prata
+C01220;Carlos Almeida Gomes;Fortaleza;CE;33;7629.88;115;13;381.38;36;Ouro
+C00035;Juliana Santos Melo;São Paulo;SP;30;4801.67;94;7;231.58;145;Prata
+C01136;Mateus Silva Ribeiro;Curitiba;PR;60;1305.23;23;22;123.48;24;Bronze
+C00607;André Teixeira Moreira;Fortaleza;CE;72;22203.28;82;28;820.85;31;Diamante
+C01797;Letícia Souza Costa;Belo Horizonte;MG;37;5211.93;28;14;377.53;66;Prata
+C00633;Eduarda Rocha Carvalho;Salvador;BA;32;4189.59;46;13;;23;Prata
+C00503;Renata Correia Almeida;Curitiba;PR;45;3385.77;21;7;335.45;40;Bronze
+C00571;Igor Nascimento Barbosa;Salvador;BA;46;9122.6;54;14;267.76;125;Prata
+C01054;Letícia Martins Fernandes;Campinas;SP;22;;65;4;633.21;34;Prata
+C00776;Caio Moreira Almeida;SÃO PAULO;SP;48;11946.97;65;12;541.64;33;Ouro
+C00399;Bruno Pereira Martins;Curitiba;PR;30;10283.83;36;22;394.58;23;Ouro
+C01029;Renata Barbosa Moreira;Salvador;BA;31;3692.15;34;17;495.19;5;Prata
+C01609;Daniel Cardoso Fernandes;Rio de Janeiro;RJ;53;2937.06;105;2;384.12;153;Prata
+C01484;Gustavo Silva Moreira;Recife;PE;34;6133.85;70;17;298.4;51;Prata
+C01244;Juliana Fernandes Gomes;Goiânia;GO;38;19202.57;23;5;817.96;69;Ouro
+C01260;Patrícia Santos Santos;São Paulo;SP;35;7877.81;36;14;267.37;1;Prata
+C00241;Bianca Nascimento Mendes;Goiânia;GO;23;3738.47;49;13;255.2;41;Prata
+C00136;Aline Nascimento Nascimento;Salvador;BA;38;3047.82;108;20;138.45;7;Prata
+C01147;Eduarda Costa Nascimento;Salvador;BA;47;4076.11;94;16;243.42;13;Prata
+C01559;Aline Ribeiro Pereira;São Paulo;SP;47;1459.96;25;11;48.54;37;
+C00509;Diego Oliveira Nascimento;Recife;PE;24;5451.22;100;21;343.13;8;Ouro
+C01165;Ana Melo Ribeiro;São Paulo;SP;52;7364.45;109;22;519.33;1;Ouro
+C01587;Isabela Gomes Martins;Florianópolis;SC;54;3413.97;85;17;419.29;39;Prata
+C00196;Débora Martins Mendes;Fortaleza;CE;32;7933.05;85;15;559.16;2;Ouro
+C01048;Rafael Santos Oliveira;Recife;PE;22;1369.34;80;15;350.3;40;Prata
+C00904;Renan Rodrigues Araújo;Belo Horizonte;MG;39;2223.55;71;23;421.65;15;Prata
+C01020;Juliana Correia Lima;São Paulo;SP;;3567.83;111;21;455.57;113;Ouro
+C01115;Fernanda Moreira Melo;Florianópolis;SC;56;6122.31;2;12;238.26;2;Bronze
+C00569;Thiago Almeida Santos;São Paulo;SP;58;8672.5;60;18;628.14;5;Ouro
+C01404;DIEGO NASCIMENTO ARAÚJO;SALVADOR;BA;34;1636.45;20;4;431.65;23;Bronze
+C01251;Daniel Martins Almeida;Curitiba;PR;20;3409.25;81;8;5949.69;102;Prata
+C01224;Fernanda Cardoso Souza;São Paulo;SP;42;2901.16;73;17;398.75;11;Prata
+C00032;Débora Fernandes Santos;Santos;SP;43;3776.38;29;14;347.32;42;Bronze
+C00990;Natália Nascimento Mendes;São Paulo;SP;37;1625.19;55;22;441.75;53;Prata
+C00815;Beatriz Fernandes Fernandes;Rio de Janeiro;RJ;28;6786.47;8;15;455.79;26;Prata
+C01160;Bruno Oliveira Ribeiro;Belo Horizonte;MG;46;4499.24;60;23;54.86;3;Prata
+C00129;Fernanda Gomes Carvalho;São Paulo;SP;46;5053.88;39;11;376.97;18;Prata
+C00981;Débora Costa Carvalho;Santos;SP;31;3680.54;25;6;96.76;77;Bronze
+C00956;Sabrina Moreira Lima;Recife;PE;37;3532.44;73;12;338.54;27;Prata
+C00598;Patrícia Araújo Oliveira;Belo Horizonte;MG;30;3388.37;21;2;330.14;147;Bronze
+C00777;Leandro Pereira Barbosa;São Paulo;SP;18;7103.83;90;19;407.26;54;Ouro
+C00925;Helena Fernandes Gomes;Belo Horizonte;MG;54;5851.72;69;24;485.65;59;Ouro
+C00321;Diego Santos Rodrigues;São Paulo;SP;40;5601.27;33;16;413.25;3;Prata
+C01225;Diego Correia Oliveira;Campinas;SP;55;3122.58;66;23;509.07;1;Prata
+C00537;Letícia Rodrigues Melo;Londrina;PR;26;2507.59;15;10;116.91;3;Bronze
+C00593;Bianca Fernandes Costa;Curitiba;PR;70;1362.43;45;10;161.68;12;Bronze
+C01280;Renan Fernandes Almeida;Brasília;DF;48;2295.41;93;16;552.7;44;Prata
+C01031;Natália Carvalho Martins;Belo Horizonte;MG;48;1404.49;95;7;479.93;20;Prata
+C01496;Larissa Nascimento Santos;Santos;SP;48;4512.66;104;13;351.21;85;Prata
+C01514;Letícia Fernandes Silva;Rio de Janeiro;RJ;25;6809.29;26;10;416.37;48;Prata
+C01384;Ana Teixeira Teixeira;Rio de Janeiro;RJ;38;9958.76;110;18;335.8;16;Ouro
+C01293;Patrícia Teixeira Melo;Curitiba;PR;20;4086.43;23;6;413.34;24;Bronze
+C00841;Bruno Cardoso Souza;Rio de Janeiro;RJ;24;3071.27;16;13;294.13;24;Bronze
+C01200;Lucas Nascimento Melo;São Paulo;SP;18;2715.23;27;9;;47;Bronze
+C00783;Thiago Araújo Silva;São Paulo;SP;56;3954.26;93;8;314.73;17;Prata
+C01432;Camila Ribeiro Oliveira;belo horizonte ;MG;29;3925.0;20;11;244.05;33;Bronze
+C01544;Juliana Rocha Pereira;São Paulo;SP;26;9135.34;102;11;425.43;32;Ouro
+C00457;Letícia Santos Carvalho;Curitiba;PR;27;3298.6;53;27;349.9;106;Prata
+C00015;André Almeida Mendes;Registro;SP;50;13910.76;47;14;574.91;2;Ouro
+C00877;Leandro Melo Almeida;Curitiba;PR;33;3347.29;88;15;343.79;82;Prata
+C01099;Mariana Correia Melo;Brasília;DF;23;7005.15;80;19;435.85;64;Ouro
+C00702;Igor Almeida Barbosa;Fortaleza;CE;39;6363.94;106;18;285.63;12;Ouro
+C01052;Mônica Rodrigues Santos;Porto Alegre;RS;25;7178.06;89;23;299.63;120;Ouro
+C00489;Letícia Santos Correia;Porto Alegre;RS;35;2420.28;22;7;366.11;51;Bronze
+C01427;Débora Gomes Carvalho;SÃO PAULO;SP;58;5744.11;25;16;462.35;166;Prata
+C00987;Isabela Pereira Araújo;Rio de Janeiro;RJ;58;9275.6;39;15;495.94;3;Prata
+C00081;Mariana Lima Moreira;Belo Horizonte;MG;41;;8;15;271.35;169;Bronze
+C01731;Vanessa Mendes Fernandes;São Paulo;SP;57;2526.44;119;26;317.4;22;Ouro
+C00829;Sabrina Martins Costa;Santos;SP;47;6193.91;71;17;476.22;10;Prata
+C00682;Helena Correia Ribeiro;Porto Alegre;RS;28;2522.09;95;24;211.01;11;Prata
+C00010;Aline Araújo Ribeiro;sao paulo;SP;44;;117;21;182.3;74;Ouro
+C00993;Beatriz Melo Gomes;São Paulo;SP;51;3881.57;10;21;559.47;98;Prata
+C01086;Mariana Lima Ribeiro;Curitiba;PR;59;2414.26;50;19;498.84;83;Prata
+C00348;Gabriel Lima Ribeiro;Curitiba;PR;38;5342.29;2;10;273.39;1;Bronze
+C00461;Mariana Carvalho Martins;Recife;PE;23;2500.16;15;4;332.27;109;Bronze
+C00029;Thiago Gomes Silva;Goiânia;GO;42;2573.58;119;21;295.85;32;Ouro
+C00026;Vanessa Costa Barbosa;São Paulo;SP;64;5138.03;68;7;449.36;10;Prata
+C00753;Caio Almeida Costa;São Paulo;SP;32;5305.87;95;19;470.11;1;Ouro
+C00428;Eduarda Correia Santos;Campinas;SP;44;4332.44;61;24;559.02;6;Prata
+C00260;Leandro Cardoso Gomes;Curitiba;PR;58;2324.17;72;18;358.46;2;Prata
+C00211;Débora Silva Barbosa;Belo Horizonte;MG;42;1859.09;2;17;234.32;16;Bronze
+C01603;Rodrigo Souza Almeida;São Paulo;SP;18;13106.5;12;24;529.56;25;Ouro
+C01557;Mônica Araújo Pereira;Londrina;PR;46;4190.57;81;10;211.42;44;Prata
+C01006;Letícia Carvalho Souza;Londrina;PR;51;3342.25;103;22;416.92;78;Ouro
+C00944;Mônica Lima Oliveira;Rio de Janeiro;RJ;44;2938.93;111;22;267.0;58;Ouro
+C01304;Vanessa Carvalho Ribeiro;Santos;SP;33;4143.87;60;19;246.49;37;Prata
+C01452;Vanessa Melo Santos;Porto Alegre;RS;30;5467.19;81;19;552.91;37;Ouro
+C00333;Caio Souza Almeida;São Paulo;SP;;3934.56;39;25;165.46;11;Prata
+C01748;Vanessa Carvalho Souza;Registro;SP;30;5790.58;61;13;370.78;8;Prata
+C00772;Diego Martins Fernandes; Rio de Janeiro ;RJ;36;3078.9;15;4;406.0;70;Bronze
+C00368;Renan Rocha Cardoso;Rio de Janeiro;RJ;49;3809.35;12;11;306.48;73;Bronze
+C01553;Igor Barbosa Gomes;Curitiba;PR;50;1263.98;4;17;105.89;35;Bronze
+C00435;Eduarda Gomes Almeida;Rio de Janeiro;RJ;21;3931.93;63;24;233.5;3;Prata
+C00040;Gabriel Araújo Fernandes;São Paulo;SP;37;3536.82;60;14;425.17;34;Prata
+C01549;Camila Oliveira Cardoso;Recife;PE;48;1734.16;45;14;262.61;3;Bronze
+C00429;Juliana Gomes Rodrigues;Recife;PE;20;1930.25;25;18;257.53;61;Bronze
+C01041;Mônica Lima Melo;Porto Alegre;RS;18;6965.03;84;15;645.34;70;Ouro
+C00259;Fernanda Carvalho Oliveira;Londrina;PR;38;1200;100;16;324.48;24;Prata
+C01237;Sabrina Martins Araújo;São Paulo;SP;35;2446.7;78;20;320.65;56;Prata
+C00139;Helena Fernandes Oliveira;Brasília;DF;38;1696.42;5;8;249.9;51;Bronze
+C01590;Beatriz Almeida Barbosa;São Paulo;SP;39;4816.9;18;9;407.34;36;Bronze
+C01449;Mariana Silva Teixeira;Londrina;PR;32;3381.11;95;31;299.23;78;Ouro
+C00861;Natália Costa Teixeira;Rio de Janeiro;RJ;29;5534.12;16;15;351.91;47;Prata
+C00460;Vanessa Nascimento Barbosa;Porto Alegre;RS;19;2327.33;44;8;434.09;17;Bronze
+C01369;Patrícia Carvalho Teixeira;Rio de Janeiro;RJ;64;3627.75;106;25;348.02;14;Ouro
+C01745;Vinícius Carvalho Mendes;Registro;SP;38;3125.75;99;19;267.2;35;Prata
+C01634;Camila Teixeira Barbosa;Florianópolis;SC;39;3828.14;53;25;444.69;64;Prata
+C00501;Bruno Melo Rodrigues;Curitiba;PR;55;5052.41;33;10;596.19;7;Prata
+C00043;André Pereira Souza;Rio de Janeiro;RJ;52;7567.51;73;11;471.5;53;Prata
+C01125;Juliana Silva Araújo;Belo Horizonte;MG;32;6270.89;31;4;298.53;20;Bronze
+C01456;André Lima Carvalho;São Paulo;SP;46;7938.43;98;14;311.95;148;Ouro
+C00629;Juliana Melo Pereira;São Paulo;SP;41;3998.35;4;11;541.01;2;Bronze
+C00498;Larissa Gomes Almeida;São Paulo;SP;61;5804.02;96;18;440.68;11;Ouro
+C01743;Gustavo Nascimento Pereira;São Paulo;SP;46;2706.43;9;23;193.6;117;Bronze
+C01497;Isabela Teixeira Martins;Florianópolis;SC;49;1367.95;50;8;300.5;34;Bronze
+C01139;Renan Teixeira Araújo;Campinas;SP;42;4872.35;65;20;374.94;25;Prata
+C00113;Letícia Araújo Cardoso;Salvador;BA;26;5053.04;12;4;259.1;48;Bronze
+C00015;André Almeida Mendes;Registro;SP;50;13910.76;47;14;574.91;2;Ouro
+C01074;Gustavo Oliveira Nascimento;Curitiba;PR;50;3873.87;81;15;550.42;70;Prata
+C00157;Vanessa Souza Oliveira;Porto Alegre;RS;65;3209.74;118;10;312.17;6;Prata
+C00007;Renata Ribeiro Lima;Rio de Janeiro;RJ;24;1627.1;104;21;177.77;25;Prata
+C01694;Mônica Teixeira Rodrigues;São Paulo;SP;36;6371.05;52;13;527.35;14;Prata
+C00690;Eduarda Lima Lima;Fortaleza;CE;35;6338.99;27;17;438.43;23;Prata
+C01650;Gabriel Melo Martins;São Paulo;SP;58;4819.48;108;28;427.32;54;Ouro
+C01258;Fernanda Teixeira Pereira;Salvador;BA;40;5401.58;64;11;499.09;23;Prata
+C00970;CARLOS NASCIMENTO CARVALHO;PORTO ALEGRE;RS;21;2878.61;42;1;130.22;75;Bronze
+C00284;Gustavo Costa Costa;Rio de Janeiro;RJ;53;2053.73;109;26;152.01;16;Ouro
+C01732;Daniel Melo Almeida;Registro;SP;21;4155.2;87;14;208.76;61;Prata
+C00388;Marcos Correia Barbosa;São Paulo;SP;23;7355.31;97;23;455.4;38;Ouro
+C00819;Rafael Ribeiro Lima;Brasília;DF;64;5448.71;25;19;535.33;57;Prata
+C01140;Mônica Mendes Cardoso;Londrina;PR;36;10082.8;70;19;535.37;2;Ouro
+C00707;Igor Rocha Cardoso;Brasília;DF;53;4149.98;76;15;306.74;24;Prata
+C01437;Beatriz Correia Teixeira;São Paulo;SP;56;6568.65;113;25;354.62;152;Ouro
+C01552;Mônica Fernandes Gomes;Londrina;PR;59;3524.59;63;13;244.05;28;Prata
+C01724;Bruno Moreira Oliveira;São Paulo;SP;33;1868.93;113;8;287.7;69;Prata
+C01087;Sabrina Mendes Rodrigues;Rio de Janeiro;RJ;32;4393.45;91;15;383.38;34;Prata
+C01741;Patrícia Santos Almeida;São Paulo;SP;46;2899.54;43;25;166.43;23;Prata
+C00167;Natália Teixeira Correia;Recife;PE;49;4092.28;4;14;293.68;18;Bronze
+C00174;Beatriz Ribeiro Souza;Londrina;PR;51;8198.04;54;21;714.67;38;Ouro
+C00982;Rodrigo Barbosa Correia;Curitiba;PR;46;6674.62;65;8;398.76;19;Prata
+C01408;Sabrina Gomes Silva;Londrina;PR;24;6249.98;111;26;378.27;15;Ouro
+C00632;Gustavo Pereira Mendes;Belo Horizonte;MG;32;2338.53;104;21;338.83;47;Prata
+C00565;Patrícia Correia Souza;São Paulo;SP;49;4753.19;107;20;417.29;19;Ouro
+C01370;Thiago Oliveira Rodrigues;Curitiba;PR;32;4725.24;33;14;368.82;70;Prata
+C00442;Carlos Silva Moreira;Curitiba;PR;20;74182.83;39;19;472.61;72;Prata
+C01737;Larissa Gomes Silva;Curitiba;PR;51;6881.73;95;28;571.16;13;Ouro
+C00051;Gabriel Gomes Ribeiro;Rio de Janeiro;RJ;55;8662.05;116;27;562.76;51;Ouro
+C01184;Mariana Rocha Gomes;Florianópolis;SC;35;2753.25;44;17;351.63;66;Prata
+C00174;BEATRIZ RIBEIRO SOUZA;LONDRINA;PR;51;8198.04;54;21;714.67;38;Ouro
+C01066;Vanessa Fernandes Carvalho;Porto Alegre;RS;37;4792.31;22;11;403.26;43;Bronze
+C01397;Gabriel Santos Teixeira;São Paulo;SP;19;2038.18;97;15;194.21;179;Prata
+C01688;João Mendes Ribeiro;Porto Alegre;RS;35;5119.07;72;30;427.7;52;Ouro
+C00984;Patrícia Nascimento Moreira;Rio de Janeiro;RJ;41;1972.87;34;14;212.33;27;Bronze
+C01281;André Araújo Souza;Porto Alegre;RS;31;3811.94;20;13;365.19;1;Bronze
+C00821;Felipe Nascimento Melo;São Paulo;SP;82;3001.12;109;18;386.81;82;Prata
+C01197;Diego Rodrigues Correia;Porto Alegre;RS;34;1504.0;64;14;322.46;16;Prata
+C01576;Beatriz Correia Barbosa;Recife;PE;45;3569.08;13;22;467.42;6;Prata
+C01211;Leandro Teixeira Silva;São Paulo;SP;29;5326.96;54;1;300.15;60;Bronze
+C01531;Camila Rocha Fernandes;Florianópolis;SC;39;3050.64;58;12;341.03;12;Prata
+C00446;Mateus Souza Gomes;Registro;SP;32;1200;82;15;172.7;19;Prata
+C00355;Fernanda Souza Silva;Londrina;PR;34;6522.99;69;16;398.28;17;Prata
+C00419;Juliana Correia Almeida;Fortaleza;CE;39;7078.36;95;12;235.91;148;Prata
+C01077;Letícia Santos Pereira;Rio de Janeiro;RJ;41;6892.85;60;15;317.51;21;Prata
+C00957;Daniel Silva Barbosa;Londrina;PR;27;6185.19;14;3;258.36;26;Bronze
+C00992;Mariana Ribeiro Mendes;Goiânia;GO;18;3214.35;105;23;567.98;23;
+C01695;Fernanda Nascimento Lima;Goiânia;GO;75;6784.41;35;13;122.96;23;Prata
+C01004;Camila Costa Pereira;Brasília;DF;36;11728.42;25;10;572.84;9;Prata
+C00965;André Ribeiro Mendes;Curitiba;PR;36;4451.45;26;3;336.8;50;Bronze
+C01324;Natália Costa Mendes;Curitiba;PR;50;13362.53;29;13;453.41;18;Prata
+C00474;Diego Rodrigues Ribeiro;Recife;PE;20;3838.12;90;23;452.45;19;Ouro
+C00942;Aline Fernandes Almeida;curitiba ;PR;31;4872.86;111;28;221.53;8;Ouro
+C00567;Patrícia Melo Teixeira;Recife;PE;44;2631.93;103;26;526.94;71;Ouro
+C01789;Gustavo Teixeira Carvalho;Curitiba;PR;36;1499.61;81;14;326.01;97;Prata
+C01343;Bruno Rocha Pereira;Rio de Janeiro;RJ;38;6562.07;14;8;493.66;96;Bronze
+C01436;Vinícius Carvalho Carvalho;São Paulo;SP;39;2194.14;75;20;527.61;22;Prata
+C01357;Beatriz Santos Santos;Curitiba;PR;56;4721.24;59;12;326.25;199;Prata
+C01307;Débora Martins Cardoso;Recife;PE;51;1801.48;40;25;659.56;22;Prata
+C00307;Bianca Silva Carvalho;Rio de Janeiro;RJ;18;2889.41;23;4;373.93;150;Bronze
+C00274;Bianca Moreira Silva;São Paulo;SP;54;2821.28;114;8;398.67;7;Prata
+C01536;Rafael Martins Carvalho;Rio de Janeiro;RJ;18;13039.71;109;12;728.51;34;Ouro
+C01235;Aline Rocha Oliveira;São Paulo;SP;29;4029.74;36;11;291.33;2;Bronze
+C00141;Ana Souza Araújo;Santos;SP;46;3272.3;74;21;288.49;4;Prata
+C01716;Bruno Pereira Costa;São Paulo;SP;52;8140.2;76;21;534.43;27;
+C00254;Letícia Correia Costa;Londrina;PR;24;6591.19;22;0;387.21;16;Bronze
+C00573;Diego Rocha Souza;FLORIANÓPOLIS;SC;25;6275.86;37;3;337.6;5;Bronze
+C00885;Daniel Nascimento Almeida;São Paulo;SP;35;2640.5;34;26;370.24;5;Prata
+C01148;Mateus Teixeira Nascimento;Campinas;SP;51;;69;16;430.42;46;Prata
+C00790;Renan Rocha Ribeiro;Belo Horizonte;MG;34;3194.89;24;11;304.67;3;Bronze
+C00963;Bruno Cardoso Santos;Salvador;BA;51;3902.82;56;9;441.43;2;Prata
+C01050;Eduarda Pereira Fernandes; Belo Horizonte;MG;30;;58;13;496.53;166;Prata
+C01019;Felipe Correia Almeida;São Paulo;SP;40;1539.39;60;7;324.05;26;Bronze
+C00052;Eduarda Pereira Araújo;Londrina;PR;;6876.92;82;20;572.83;7;Ouro
+C00759;Vinícius Lima Costa;Registro;SP;57;2063.2;3;16;279.93;76;Bronze
+C01189;Fernanda Mendes Melo;São Paulo;SP;57;6436.66;52;15;170.99;72;Prata
+C00555;Carlos Pereira Mendes;Belo Horizonte;MG;18;5812.45;54;23;532.17;7;Prata
+C01450;Marcos Correia Costa;Rio de Janeiro;RJ;30;3348.24;99;31;284.45;16;Ouro
+C01512;Natália Mendes Moreira;Salvador;BA;65;2626.22;71;14;395.0;106;Prata
+C00642;Aline Pereira Lima;Brasília;DF;61;9191.42;18;15;226.45;9;Prata
+C00754;Leandro Almeida Gomes;Rio de Janeiro;RJ;28;10692.75;96;11;388.46;92;Ouro
+C00850;Larissa Santos Melo;Belo Horizonte;MG;44;1538.96;83;20;3929.62;13;Prata
+C01612;João Araújo Costa;Belo Horizonte;MG;50;3256.73;48;18;422.92;9;Prata
+C00122;Sabrina Fernandes Oliveira;Registro;SP;18;3391.24;36;9;398.09;19;Bronze
+C01700;Bruno Cardoso Teixeira;São Paulo;SP;61;3756.8;24;5;179.36;0;Bronze
+C00396;Mariana Cardoso Melo;Belo Horizonte;MG;64;12552.29;99;15;694.37;59;Ouro
+C00568;Renan Santos Araújo;Rio de Janeiro;RJ;33;9440.15;57;23;517.43;22;Ouro
+C00811;Rodrigo Martins Melo;Goiânia;GO;28;5387.94;35;17;276.14;75;Prata
+C01718;Vanessa Santos Gomes;Rio de Janeiro;RJ;23;5709.23;70;11;273.35;114;Prata
+C01568;Leandro Gomes Oliveira;Goiânia;GO;32;10716.13;33;14;527.22;77;Prata
+C01329;Renata Rodrigues Gomes;Florianópolis;SC;43;3797.29;117;26;520.59;50;Ouro
+C01764;Gustavo Araújo Correia;Brasília;DF;43;4048.65;45;11;373.98;81;Prata
+C00751;Carlos Rocha Mendes;Curitiba;PR;60;2496.52;71;3;432.64;105;Bronze
+C01147;EDUARDA COSTA NASCIMENTO;SALVADOR;BA;47;4076.11;94;16;243.42;13;Prata
+C00119;Mateus Fernandes Araújo;Porto Alegre;RS;37;2504.7;119;28;387.29;16;Ouro
+C00756;Rodrigo Nascimento Teixeira;PORTO ALEGRE;RS;63;7142.78;97;16;308.77;119;Ouro
+C00280;João Almeida Nascimento;Belo Horizonte;MG;39;2615.31;34;12;207.05;16;Bronze
+C00589;Fernanda Araújo Fernandes;Brasília;DF;31;4138.44;46;4;286.67;52;Bronze
+C00564;Ana Nascimento Pereira;Registro;SP;50;6706.79;114;17;400.05;14;Ouro
+C01276;Natália Gomes Nascimento;Florianópolis;SC;45;1762.55;38;0;386.2;8;Bronze
+C00271;Vinícius Pereira Martins;Campinas;SP;44;;97;17;227.68;28;Prata
+C00894;Mateus Santos Cardoso;São Paulo;SP;35;5074.68;73;19;475.64;53;Prata
+C01472;Sabrina Correia Silva;Fortaleza;CE;24;6476.83;119;15;397.7;111;Ouro
+C01395;Camila Carvalho Rocha;São Paulo;SP;34;6766.83;43;17;324.72;25;Prata
+C01765;Larissa Souza Ribeiro;Santos;SP;48;4437.57;52;17;401.28;90;Prata
+C01085;Aline Correia Oliveira;São Paulo;SP;32;7747.79;50;19;536.24;65;Prata
+C00370;Felipe Nascimento Araújo;São Paulo;SP;34;2468.2;70;5;315.59;261;Bronze
+C00373;Letícia Cardoso Fernandes;São Paulo;SP;37;7013.48;77;26;437.68;6;Ouro
+C01460;Isabela Fernandes Rodrigues;Rio de Janeiro;RJ;27;1200;117;15;380.84;150;Prata
+C00353;Natália Almeida Araújo;Florianópolis;SC;57;4284.86;50;9;378.61;12;Prata
+C00646;Juliana Silva Mendes;Rio de Janeiro;RJ;57;;71;21;270.58;139;Prata
+C01252;Igor Rocha Martins;PORTO ALEGRE;RS;38;2191.55;57;19;361.96;7;Prata
+C00009;André Moreira Correia;Curitiba;PR;29;5432.72;105;16;339.2;0;Prata
+C00952;Beatriz Correia Silva;belo horizonte ;MG;52;16742.36;111;8;576.4;71;Ouro
+C00423;Renan Carvalho Rodrigues;Brasília;DF;48;6320.26;16;8;394.71;8;Bronze
+C00724;Renan Almeida Fernandes;Recife;PE;45;2438.68;33;10;363.06;84;Bronze
+C00516;Beatriz Gomes Cardoso;Rio de Janeiro;RJ;18;4462.07;75;14;539.93;14;Prata
+C00613;Diego Cardoso Fernandes;Rio de Janeiro;RJ;46;4326.66;32;17;201.05;10;Prata
+C00333;CAIO SOUZA ALMEIDA;SÃO PAULO;SP;;3934.56;39;25;165.46;11;Prata
+C00075;Ana Santos Rodrigues;São Paulo;SP;24;2395.43;12;20;474.67;0;Prata
+C01761;Daniel Moreira Martins;Rio de Janeiro;RJ;18;5244.76;86;14;375.03;42;Prata
+C00680;Eduarda Cardoso Gomes;Campinas;SP;22;7614.13;96;22;582.68;28;Ouro
+C01107;Isabela Mendes Ribeiro;Belo Horizonte;MG;65;8435.12;80;7;502.01;22;Prata
+C01374;Beatriz Silva Araújo;Belo Horizonte;MG;65;4569.51;115;11;535.68;47;Prata
+C00157;Vanessa Souza Oliveira;Porto Alegre;RS;65;3209.74;118;10;312.17;6;Prata
+C00499;Gustavo Rodrigues Araújo;Santos;SP;38;1200;85;16;451.39;51;Prata
+C01095;Gabriel Cardoso Teixeira;Salvador;BA;45;1285.46;87;9;402.48;143;Prata
+C01495;Beatriz Fernandes Lima;Belo Horizonte;MG;29;2930.26;100;19;413.74;148;Prata
+C01138;Diego Almeida Costa; Porto Alegre;RS;36;3367.04;81;20;464.15;0;Prata
+C00377;André Silva Souza;Salvador;BA;59;2539.81;27;19;299.88;12;Prata
+C00425;Carlos Teixeira Araújo;Curitiba;PR;20;8603.08;93;12;432.49;78;Ouro
+C00534;Rodrigo Pereira Fernandes;Campinas;SP;26;3688.7;38;5;475.24;59;Bronze
+C00737;Caio Mendes Souza;Fortaleza;CE;37;2703.56;70;20;499.21;14;Prata
+C00732;Felipe Cardoso Silva;Campinas;SP;59;3699.57;61;18;486.6;65;Prata
+C01143;André Fernandes Gomes;São Paulo;SP;44;10422.35;32;13;551.39;5;Prata
+C01481;Vinícius Ribeiro Correia;Curitiba;PR;18;2975.71;109;19;409.94;44;Prata
+C01182;Diego Pereira Moreira;Porto Alegre;RS;58;4387.44;110;14;484.21;10;Prata
+C01468;Vanessa Fernandes Souza;Belo Horizonte;MG;39;3152.41;1;24;573.02;44;Prata
+C00351;Renan Cardoso Carvalho;Recife;PE;48;3684.59;103;17;314.56;4;Prata
+C01615;Vanessa Correia Moreira;Campinas;SP;48;3929.41;25;10;223.09;58;Bronze
+C01382;Larissa Teixeira Souza;Santos;SP;34;9361.27;120;17;622.81;26;Ouro
+C00078;Diego Ribeiro Martins;Rio de Janeiro;RJ;36;5899.56;104;24;205.8;7;Ouro
+C00644;Renata Fernandes Teixeira;Londrina;PR;49;3304.42;7;12;310.77;8;Bronze
+C01444;André Melo Correia;Porto Alegre;RS;29;4054.57;70;27;441.67;16;Ouro
+C00591;Juliana Nascimento Mendes;São Paulo;SP;18;3728.51;43;6;176.89;93;Bronze
+C00366;João Rodrigues Gomes;Goiânia;GO;27;4086.29;19;6;341.24;35;Bronze
+C00989;Vanessa Nascimento Lima;Campinas;SP;30;2863.88;102;12;250.27;31;Prata
+C00160;Igor Lima Rocha;Curitiba;PR;24;4680.55;51;12;373.04;87;Prata
+C00219;João Barbosa Araújo;Recife;PE;63;7886.19;33;1;497.89;27;Bronze
+C01240;Thiago Nascimento Carvalho;Santos;SP;30;7845.98;18;9;630.94;15;Prata
+C00107;Larissa Gomes Souza;Belo Horizonte;MG;47;6240.0;99;22;224.35;66;Ouro
+C00865;Felipe Moreira Correia;Londrina;PR;30;1400.31;34;9;45;58;Bronze
+C00430;Lucas Gomes Almeida;Fortaleza;CE;36;7227.96;4;12;450.24;55;Prata
+C01458;Mônica Almeida Mendes;Registro;SP;43;1911.23;104;18;581.31;31;Prata
+C00684;Mariana Fernandes Oliveira;Curitiba;PR;18;4236.6;45;10;473.17;2;Prata
+C01542;João Fernandes Costa;Registro;SP;32;1969.67;70;6;527.49;57;Prata
+C00257;Renata Moreira Carvalho;São Paulo;SP;62;3987.95;9;16;528.26;32;Prata
+C00775;Thiago Martins Cardoso;Curitiba;PR;55;8781.66;66;8;437.28;59;Prata
+C01300;João Gomes Gomes;Salvador;BA;35;1303.38;56;16;466.35;18;Prata
+C01772;Lucas Cardoso Araújo;Santos;SP;18;2587.25;21;8;411.06;95;Bronze
+C00864;Leandro Barbosa Almeida;Santos;SP;57;1254.61;31;9;229.88;47;Bronze
+C00220;Mariana Almeida Araújo;Florianópolis;SC;21;3957.19;12;6;397.02;20;Bronze
+C01684;Vanessa Melo Silva;São Paulo;SP;42;5635.05;106;30;570.87;5;Ouro
+C01529;Bianca Barbosa Silva;São Paulo;SP;44;9425.99;104;9;625.66;69;Ouro
+C00585;Ana Araújo Teixeira;Rio de Janeiro;RJ;33;5932.44;16;10;449.78;29;Bronze
+C00554;Ana Costa Almeida;Recife;PE;31;4517.69;85;12;213.2;30;Prata
+C01111;Beatriz Nascimento Costa;Belo Horizonte;MG;18;10381.6;69;9;568.19;20;Prata
+C00539;Larissa Souza Carvalho;Rio de Janeiro;RJ;44;3700.07;52;25;250.99;37;Prata
+C01340;Débora Souza Pereira;Londrina;PR;72;8585.92;1;5;425.35;9;Bronze
+C00545;Helena Santos Santos;Florianópolis;SC;35;6463.84;21;20;371.78;5;Prata
+C00427;Rafael Souza Oliveira;Londrina;PR;52;5331.39;24;9;296.55;34;Bronze
+C01223;Lucas Cardoso Costa;Porto Alegre;RS;23;2295.99;44;6;475.5;6;Bronze
+C00236;Gabriel Ribeiro Melo;São Paulo;SP;31;;19;7;243.29;3;Bronze
+C01169;VINÍCIUS FERNANDES RODRIGUES;RIO DE JANEIRO;RJ;23;5075.55;108;18;557.93;75;Ouro
+C00729;Natália Almeida Lima;Santos;SP;61;1481.79;69;19;235.37;10;Prata
+C00416;João Melo Silva;Rio de Janeiro;RJ;44;1852.27;60;15;218.76;19;Prata
+C00192;Daniel Rocha Melo;Belo Horizonte;MG;32;;107;13;376.29;27;Prata
+C00936;Vanessa Santos Santos;Belo Horizonte;MG;29;3259.04;117;16;347.74;31;Prata
+C01323;Mariana Moreira Almeida;Belo Horizonte;MG;40;3030.81;62;26;492.8;3;Prata
+C00420;Mateus Fernandes Carvalho;São Paulo;SP;32;10760.64;96;34;611.96;22;Diamante
+C01387;Renan Lima Oliveira;Porto Alegre;RS;40;2989.97;84;11;412.42;4;Prata
+C01298;Vinícius Barbosa Barbosa;Salvador;BA;25;2605.64;68;15;242.23;18;Prata
+C01499;Juliana Teixeira Lima;Salvador;BA;44;;7;16;350.98;13;Bronze
+C01763;Natália Pereira Oliveira;Porto Alegre;RS;25;3701.19;71;15;347.72;68;Prata
+C00426;Renata Costa Melo;Campinas;SP;55;2264.44;104;16;263.01;79;Prata
+C01042;Gustavo Correia Ribeiro;Porto Alegre;RS;54;1553.24;64;16;400.9;31;Prata
+C01462;Diego Gomes Mendes;Curitiba;PR;31;3995.13;113;16;379.36;29;Prata
+C01028;Ana Silva Correia;Registro;SP;44;4007.83;18;9;386.15;22;Bronze
+C00815;Beatriz Fernandes Fernandes;Rio de Janeiro;RJ;28;6786.47;8;15;455.79;26;Prata
+C01084;Renan Moreira Melo;Santos;SP;29;4323.74;90;17;433.49;37;Prata
+C01564;Sabrina Silva Mendes;Rio de Janeiro;RJ;30;2312.65;44;27;216.39;51;Prata
+C00044;Larissa Barbosa Santos;Curitiba;PR;32;5552.09;55;13;378.5;5;Prata
+C01401;Sabrina Melo Mendes;Curitiba;PR;51;8497.83;7;10;391.27;174;Prata
+C00080;Ana Moreira Ribeiro;São Paulo;SP;44;3627.62;65;12;333.82;203;Prata
+C01509;Mateus Gomes Souza;São Paulo;SP;51;7941.31;57;24;367.03;10;Ouro
+C00542;Letícia Pereira Teixeira;Salvador;BA;50;6468.06;67;14;281.14;72;Prata
+C01267;Rodrigo Oliveira Almeida;Curitiba;PR;36;24000;9;12;890.15;92;Ouro
+C01128;Débora Melo Rocha;Fortaleza;CE;53;1632.54;95;18;278.77;14;Prata
+C00960;Gustavo Silva Pereira;Rio de Janeiro;RJ;45;6807.75;68;19;394.31;14;Prata
+C00487;Rafael Pereira Moreira;Salvador;BA;18;5839.01;33;9;401.46;2;Prata
+C00021;Camila Martins Pereira;Goiânia;GO;23;2886.71;29;15;548.04;6;Prata
+C00700;Vanessa Correia Mendes;Salvador;BA;36;5106.68;63;6;370.89;62;Prata
+C00961;Caio Pereira Pereira;Rio de Janeiro;RJ;40;14030.81;117;31;390.58;46;Diamante
+C00817;Renan Carvalho Souza;Santos;SP;52;5229.28;90;11;482.6;15;Prata
+C01783;Helena Fernandes Correia;Salvador;BA;18;2154.49;48;16;370.41;2;Prata
+C01588;Caio Melo Almeida;São Paulo;SP;52;1811.53;75;22;412.39;77;Prata
+C01002;Diego Souza Barbosa;Campinas;SP;47;8691.6;18;26;540.84;60;Ouro
+C01691;Igor Mendes Gomes;São Paulo;SP;60;4087.21;74;18;588.24;92;Prata
+C01132;Larissa Rocha Araújo;Porto Alegre;RS;47;7930.66;120;21;568.6;2;Ouro
+C01046;Leandro Barbosa Gomes;Belo Horizonte;MG;45;5478.1;49;17;351.57;86;Prata
+C00977;Caio Fernandes Barbosa;São Paulo;SP;48;2873.44;3;12;388.2;0;Bronze
+C00464;Isabela Rodrigues Pereira;São Paulo;SP;20;16791.64;76;19;546.89;7;Ouro
+C00840;Vanessa Melo Oliveira;Brasília;DF;35;2594.86;45;15;244.2;1;Prata
+C00849;Igor Ribeiro Melo;Campinas;SP;37;2389.55;26;15;160.65;36;Bronze
+C00535;Juliana Rodrigues Araújo;Campinas;SP;49;3467.39;27;10;197.67;9;Bronze
+C01386;Thiago Oliveira Nascimento;Recife;PE;34;3097.17;74;22;98.65;176;Prata
+C00214;Vanessa Mendes Barbosa;Salvador;BA;30;2286.41;24;18;200.45;93;Bronze
+C01491;Lucas Lima Araújo;Registro;SP;38;3700.37;68;12;433.98;34;Prata
+C01595;Lucas Barbosa Barbosa;São Paulo;SP;33;7243.98;72;16;403.88;25;Prata
+C00518;Vanessa Melo Barbosa;Brasília;DF;38;5608.8;34;8;179.0;44;Bronze
+C00135;Letícia Araújo Souza;São Paulo;SP;25;2572.19;23;17;323.45;24;Bronze
+C00077;Letícia Cardoso Rocha;São Paulo;SP;58;6164.76;48;8;278.62;79;Prata
+C00104;Gustavo Santos Melo;Florianópolis;SC;35;3426.78;44;7;400.36;106;Bronze
+C00636;Gabriel Moreira Nascimento;São Paulo;SP;53;5774.56;18;3;441.41;53;Bronze
+C01655;Helena Silva Pereira;Campinas;SP;45;6637.92;109;26;383.15;70;Ouro
+C01023;Vanessa Martins Correia;Fortaleza;CE;53;3838.12;82;22;415.15;0;Prata
+C00898;Mariana Nascimento Rodrigues;Campinas;SP;64;4178.86;53;17;45;11;Prata
+C01703;Beatriz Carvalho Melo;São Paulo;SP;48;3219.27;91;20;450.99;31;Prata
+C00050;Daniel Fernandes Gomes;Rio de Janeiro;RJ;42;5574.11;102;18;498.95;37;Ouro
+C01105;Sabrina Pereira Araújo;Rio de Janeiro;RJ;49;6864.67;93;17;404.1;8;Ouro
+C00901;João Fernandes Lima;Londrina;PR;18;4105.38;100;22;153.19;48;Prata
+C01334;Mônica Carvalho Araújo;Curitiba;PR;34;3999.21;81;12;268.31;54;Prata
+C00743;Débora Almeida Moreira;São Paulo;SP;22;13502.39;78;21;511.36;1;Ouro
+C01283;Gabriel Barbosa Moreira;Campinas;SP;28;4021.54;42;17;559.86;20;Prata
+C01064;FERNANDA PEREIRA BARBOSA;RIO DE JANEIRO;RJ;21;4842.51;20;8;459.63;25;Bronze
+C00436;Renata Rocha Rodrigues;Salvador;BA;46;3060.95;89;28;211.2;32;Ouro
+C00159;Daniel Correia Rocha;Recife;PE;18;2736.28;28;21;337.15;16;Prata
+C00689;Helena Ribeiro Gomes;Salvador;BA;52;;109;13;366.5;5;Prata
+C00229;Lucas Teixeira Oliveira;Campinas;SP;36;1493.64;36;19;474.85;19;Prata
+C01610;Marcos Fernandes Melo; Curitiba;PR;58;4291.79;60;14;326.77;51;Prata
+C00900;Renan Rocha Almeida;São Paulo;SP;21;2405.69;20;10;225.45;9;Bronze
+C00903;Rafael Correia Correia;Goiânia;GO;50;6504.89;112;13;396.13;2;Ouro
+C00866;Felipe Rocha Fernandes;São Paulo;SP;31;6806.85;102;28;338.33;79;Ouro
+C00203;Bianca Araújo Nascimento;Campinas;SP;24;6471.41;13;23;497.32;45;Prata
+C00405;Beatriz Cardoso Rocha;Fortaleza;CE;48;7547.79;91;11;491.54;2;Prata
+C00314;Helena Teixeira Teixeira;Fortaleza;CE;29;6313.5;34;13;290.74;15;Prata
+C01130;Mônica Santos Souza;Registro;SP;47;9795.08;18;0;615.45;14;Bronze
+C01033;Aline Carvalho Lima;Rio de Janeiro;RJ;18;1976.49;29;9;293.03;91;Bronze
+C00801;Marcos Pereira Mendes;São Paulo;SP;43;4110.04;4;23;601.44;275;Prata
+C01715;João Martins Gomes;Salvador;BA;47;4010.39;60;10;520.96;43;Prata
+C00041;Helena Souza Nascimento;Recife;PE;24;5925.54;8;14;532.41;15;Prata
+C00536;Felipe Pereira Santos;Rio de Janeiro;RJ;42;4532.94;21;14;504.69;22;Prata
+C00066;Felipe Carvalho Fernandes;São Paulo;SP;46;10925.08;67;22;714.5;3;Ouro
+C01071;Renan Mendes Cardoso;rio de janeiro;RJ;48;2712.49;91;18;227.6;19;Prata
+C01027;Renata Correia Cardoso;Belo Horizonte;MG;57;3361.79;13;12;455.72;42;Bronze
+C01770;Juliana Barbosa Nascimento;Fortaleza;CE;32;3393.36;73;10;408.61;58;Prata
+C01729;Mateus Carvalho Souza;Belo Horizonte;MG;57;2485.41;99;18;259.81;41;Prata
+C01210;Eduarda Ribeiro Fernandes;Rio de Janeiro;RJ;21;8715.61;117;9;670.29;22;Ouro
+C01412;Mônica Moreira Correia;São Paulo;SP;50;1965.33;86;21;405.26;132;Prata
+C00045;Juliana Costa Almeida;São Paulo;SP;20;11817.2;84;0;340.21;17;Prata
+C01739;Juliana Carvalho Souza;Fortaleza;CE;43;7402.95;44;21;582.03;47;Prata
+C00872;Fernanda Ribeiro Oliveira;Curitiba;PR;32;4720.59;65;5;420.55;14;Prata
+C00742;Sabrina Lima Souza;Campinas;SP;43;3565.98;85;26;394.2;88;Ouro
+C00976;Thiago Rocha Almeida;Belo Horizonte;MG;31;5036.98;115;11;370.45;0;Prata
+C01758;Bruno Moreira Rodrigues;Rio de Janeiro;RJ;61;3817.31;117;23;517.8;98;Ouro
+C00444;Larissa Carvalho Silva;Santos;SP;64;3082.27;87;9;367.99;10;Prata
+C00749;Patrícia Correia Correia;Belo Horizonte;MG;43;8448.52;80;22;543.72;182;Ouro
+C01725;João Santos Lima;Registro;SP;29;1250.75;66;25;427.5;8;Prata
+C01301;Igor Araújo Souza;Florianópolis;SC;25;7797.09;103;18;361.17;21;Ouro
+C00576;HELENA RODRIGUES NASCIMENTO;RECIFE;PE;38;3442.2;86;14;289.21;14;Prata
+C00511;Felipe Mendes Santos;Florianópolis;SC;35;6216.41;83;23;458.73;27;Ouro
+C01135;Aline Gomes Pereira;Recife;PE;36;9302.3;47;9;527.92;30;Prata
+C01669;Camila Silva Fernandes;Santos;SP;30;3661.78;14;17;111.73;19;Bronze
+C01380;João Moreira Araújo;Fortaleza;CE;42;2478.09;34;17;428.41;34;Prata
+C00244;Juliana Ribeiro Souza;Brasília;DF;48;8490.27;58;24;411.65;19;Ouro
+C01406;Mateus Costa Costa;Londrina;PR;57;4882.66;32;15;350.91;33;Prata
+C00002;Aline Souza Lima;Registro;SP;31;2923.64;119;15;45;36;Prata
+C01693;Daniel Teixeira Oliveira;Campinas;SP;53;2657.06;59;16;452.71;81;Prata
+C00106;Ana Almeida Martins; Curitiba;PR;22;4262.41;34;13;203.44;2;Bronze
+C01740;Bruno Mendes Lima;Campinas;SP;34;2013.49;30;16;397.41;148;Bronze
+C00230;Mônica Nascimento Pereira;sao paulo;SP;40;4603.08;112;20;424.43;4;Ouro
+C00676;Felipe Souza Costa;São Paulo;SP;58;5386.2;74;4;627.98;5;Prata
+C01359;Isabela Nascimento Costa;Registro;SP;18;5449.91;115;21;389.15;9;Ouro
+C00950;Débora Ribeiro Carvalho;Porto Alegre;RS;26;1427.85;109;16;370.54;8;Prata
+C01243;Vinícius Almeida Barbosa;São Paulo;SP;37;3104.63;74;23;510.85;43;Prata
+C00383;Rafael Rodrigues Pereira;Curitiba;PR;20;5199.55;14;4;414.98;149;Bronze
+C01572;Helena Gomes Pereira;Recife;PE;32;5244.47;120;25;450.47;46;Ouro
+C00572;Fernanda Almeida Gomes; Florianopolis ;SC;44;3418.13;51;2;433.9;8;Bronze
+C00618;Gabriel Gomes Rodrigues;Salvador;BA;35;3555.73;66;26;227.64;47;Prata
+C00137;Letícia Silva Teixeira;Goiânia;GO;40;5345.69;85;19;289.23;39;Prata
+C00450;Bianca Nascimento Teixeira;Porto Alegre;RS;43;9573.62;56;16;569.43;60;Ouro
+C01305;Larissa Silva Fernandes;Campinas;SP;29;5960.29;90;25;162.63;10;Ouro
+C01397;GABRIEL SANTOS TEIXEIRA;SÃO PAULO;SP;19;2038.18;97;15;194.21;179;Prata
+C00452;Diego Martins Pereira;Rio de Janeiro;RJ;21;5949.8;37;13;649.77;24;Prata
+C00871;Juliana Teixeira Lima;Registro;SP;54;7425.06;76;4;365.55;84;Prata
+C01574;Débora Carvalho Nascimento;Fortaleza;CE;59;3331.25;44;27;268.25;6;Prata
+C01640;Gabriel Pereira Rocha;Belo Horizonte;MG;24;2300.27;37;21;252.48;56;Prata
+C01686;Ana Almeida Costa;Curitiba;PR;73;4184.44;41;14;202.89;9;Prata
+C00073;Daniel Nascimento Almeida;Curitiba;PR;39;2312.42;82;3;270.13;8;Bronze
+C01094;Gabriel Melo Cardoso;Belo Horizonte;MG;41;3869.15;15;8;479.43;5;Bronze
+C00699;Sabrina Almeida Fernandes; Porto Alegre;RS;29;2884.96;78;8;491.04;40;Prata
+C00703;Renata Fernandes Costa; Rio de Janeiro ;RJ;31;2758.2;73;9;289.6;33;Prata
+C01697;Felipe Santos Almeida;Curitiba;PR;47;7083.29;18;3;406.27;7;Bronze
+C01680;Gabriel Rodrigues Gomes;Rio de Janeiro;RJ;47;3921.68;54;17;680.14;14;Prata
+C00320;Renan Cardoso Nascimento;Campinas;SP;23;2833.76;111;23;174.44;5;Ouro
+C01093;Letícia Correia Correia;Campinas;SP;26;14938.51;74;9;660.09;54;Ouro
+C00266;Débora Carvalho Nascimento;São Paulo;SP;24;4081.46;76;18;203.92;9;Prata
+C01790;Natália Martins Gomes;São Paulo;SP;25;5415.75;75;18;288.19;31;Prata
+C01144;João Santos Almeida;Rio de Janeiro;RJ;20;2183.83;33;15;327.58;19;Bronze
+C01150;Thiago Correia Mendes;Curitiba;PR;59;3283.11;68;19;256.7;12;Prata
+C00554;ANA COSTA ALMEIDA;RECIFE;PE;31;4517.69;85;12;213.2;30;Prata
+C00163;Mateus Souza Correia;Porto Alegre;RS;50;3262.33;101;16;383.6;76;Prata
+C00262;André Lima Pereira;Rio de Janeiro;RJ;20;3687.25;24;17;364.66;3;Prata
+C01311;Renata Araújo Teixeira;Belo Horizonte;MG;51;2399.88;115;17;351.47;3;Prata
+C01274;Fernanda Pereira Pereira;São Paulo;SP;23;6126.17;51;21;437.91;12;Prata
+C01785;Beatriz Gomes Moreira;Salvador;BA;42;1568.28;7;11;254.65;12;Bronze
+C01442;Natália Correia Almeida;florianopolis;SC;21;3585.16;16;0;393.46;88;Bronze
+C00808;Renata Ribeiro Almeida;CURITIBA;PR;28;2615.44;48;18;279.62;27;Prata
+C00170;Juliana Oliveira Cardoso;Campinas;SP;18;4950.59;86;13;461.03;55;Prata
+C00765;Ana Carvalho Mendes;Campinas;SP;26;5267.9;38;6;411.99;19;Bronze
+C01262;Vinícius Souza Almeida;São Paulo;SP;44;3366.53;94;16;261.09;38;Prata
+C01728;Aline Rocha Gomes;Santos;SP;48;2520.53;45;17;468.6;18;Prata
+C01186;Fernanda Almeida Melo;Salvador;BA;49;4723.41;70;9;559.7;16;Prata
+C00397;Igor Carvalho Lima;Salvador;BA;18;6194.14;12;8;402.29;42;Bronze
+C01120;João Pereira Melo;Curitiba;PR;38;1466.64;12;14;412.99;33;Bronze
+C01025;Caio Carvalho Correia;Londrina;PR;45;4145.46;6;8;374.33;15;Bronze
+C01646;Eduarda Lima Lima;Rio de Janeiro;RJ;;1200;81;26;199.34;61;Prata
+C01350;Sabrina Mendes Almeida;Salvador;BA;45;4204.74;101;12;359.59;39;Prata
+C00481;Vinícius Nascimento Gomes;Porto Alegre;RS;38;3383.69;72;17;119.17;3;Prata
+C01195;Fernanda Martins Fernandes;Campinas;SP;36;8633.76;77;7;488.85;11;Prata
+C00717;Patrícia Moreira Souza;Brasília;DF;24;6889.94;15;11;416.3;84;Prata
+C01596;Daniel Ribeiro Correia;Rio de Janeiro;RJ;49;2658.12;38;28;330.36;14;Prata
+C00643;Mateus Rodrigues Correia;Porto Alegre;RS;59;4919.19;112;17;364.49;61;Ouro
+C00544;Patrícia Cardoso Santos;Florianópolis;SC;38;3008.87;12;16;424.56;3;Bronze
+C00209;Diego Correia Teixeira;Salvador;BA;33;2233.23;53;13;409.07;13;Prata
+C01526;Letícia Moreira Teixeira;Porto Alegre;RS;55;5014.32;39;5;349.11;4;Bronze
+C00191;Gabriel Rocha Mendes;Registro;SP;59;4305.97;89;8;401.18;138;Prata
+C00580;Thiago Barbosa Barbosa;São Paulo;SP;24;9226.43;93;15;512.93;48;Ouro
+C00134;Gustavo Lima Rodrigues;Florianópolis;SC;42;5330.05;120;19;384.18;60;Ouro
+C01051;Carlos Santos Martins;Fortaleza;CE;37;5247.12;51;10;456.7;2;Prata
+C01218;Sabrina Nascimento Mendes;Florianópolis;SC;59;1286.3;120;11;400.31;59;Prata
+C00245;Helena Melo Correia;Londrina;PR;48;14968.22;28;20;741.06;75;Ouro
+C00177;Natália Lima Correia;Curitiba;PR;44;4711.73;39;13;247.21;2;Prata
+C00951;Sabrina Oliveira Santos;São Paulo;SP;54;2143.82;108;21;398.02;95;Prata
+C01675;Isabela Costa Ribeiro;belo horizonte ;MG;20;7536.86;90;15;453.86;0;Ouro
+C01686;Ana Almeida Costa;Curitiba;PR;73;4184.44;41;14;202.89;9;Prata
+C01428;Sabrina Mendes Fernandes;Salvador;BA;30;4806.33;70;19;668.36;49;Prata
+C01034;Isabela Pereira Mendes;Santos;SP;34;5460.11;15;12;550.4;44;Prata
+C01411;Bruno Martins Cardoso;Rio de Janeiro;RJ;28;5949.74;67;11;446.82;0;Prata
+C01593;Eduarda Martins Cardoso;Campinas;SP;23;2602.46;73;7;146.95;10;Bronze
+C00161;Beatriz Araújo Santos;São Paulo;SP;66;2562.57;22;9;177.68;17;Bronze
+C01475;Mateus Teixeira Almeida;Rio de Janeiro;RJ;35;7712.8;91;15;640.46;49;Ouro
+C00334;André Martins Gomes;Brasília;DF;29;2808.83;35;7;250.37;52;Bronze
+C01433;Ana Fernandes Costa;Rio de Janeiro;RJ;31;3633.19;96;13;220.09;0;Prata
+C00662;André Ribeiro Almeida;São Paulo;SP;48;6358.81;37;10;473.08;15;Prata
+C01289;Vinícius Barbosa Nascimento;Registro;SP;25;13835.63;108;10;394.54;63;
+C00364;Ana Correia Martins;Porto Alegre;RS;18;4286.08;67;13;333.47;11;Prata
+C00826;Gustavo Costa Santos;Fortaleza;CE;31;7198.32;93;14;413.47;6;Prata
+C00309;Gabriel Correia Teixeira;Santos;SP;18;1855.85;9;17;230.62;16;Bronze
+C00519;Renan Moreira Almeida;Curitiba;PR;31;6311.33;11;23;435.11;114;Prata
+C00398;Carlos Oliveira Almeida;São Paulo;SP;38;2163.34;61;17;363.6;54;Prata
+C00488;Beatriz Silva Carvalho;Brasília;DF;68;3296.68;42;17;315.52;28;Prata
+C00189;Patrícia Pereira Rodrigues;São Paulo;SP;31;6275.39;47;8;605.76;10;Prata
+C00631;Larissa Almeida Correia;PORTO ALEGRE;RS;18;5460.94;36;7;277.66;9;Bronze
+C01116;Eduarda Nascimento Araújo;Porto Alegre;RS;35;;77;6;238.64;4;
+C00834;Thiago Mendes Santos;São Paulo;SP;39;3388.01;4;2;274.76;13;Bronze
+C01631;Letícia Fernandes Cardoso;São Paulo;SP;52;2238.05;33;16;374.97;20;Prata
+C00953;Gustavo Melo Mendes;Rio de Janeiro;RJ;43;4908.26;20;13;263.27;102;Bronze
+C01505;Rafael Carvalho Barbosa;BELO HORIZONTE;MG;42;5095.76;28;16;476.46;166;Prata
+C00240;Lucas Cardoso Fernandes;Fortaleza;CE;66;2360.41;50;9;369.94;9;Bronze
+C01548;Débora Melo Martins; Curitiba;PR;23;5447.56;37;11;90.66;14;Bronze
+C01579;Thiago Mendes Teixeira;Florianópolis;SC;56;2075.51;15;17;334.31;77;Bronze
+C00171;Rafael Ribeiro Mendes;Belo Horizonte;MG;29;4837.66;120;19;456.38;14;Ouro
+C00289;Gustavo Rodrigues Mendes;Florianópolis;SC;34;4777.4;95;26;449.93;39;Ouro
+C00184;João Cardoso Carvalho;Santos;SP;34;3992.54;111;28;370.1;78;Ouro
+C01390;Beatriz Santos Teixeira;Fortaleza;CE;22;1922.65;3;12;131.51;32;Bronze
+C01620;Bianca Teixeira Pereira;Recife;PE;43;4485.2;62;11;272.14;66;Prata
+C01296;Eduarda Almeida Rodrigues;Fortaleza;CE;46;3600.14;68;17;233.3;14;Prata
+C00092;Gustavo Ribeiro Araújo;Santos;SP;21;1500.91;92;8;352.56;8;Prata
+C00663;Juliana Pereira Melo;São Paulo;SP;52;2679.76;25;14;295.59;14;Bronze
+C00683;Camila Pereira Barbosa;São Paulo;SP;65;1731.08;32;10;233.29;33;Bronze
+C01188;Felipe Gomes Almeida;São Paulo;SP;42;2200.14;89;9;304.39;4;Prata
+C00527;Sabrina Carvalho Martins;Belo Horizonte;MG;23;4436.44;40;12;547.29;32;Prata
+C00882;Beatriz Mendes Oliveira;Recife;PE;67;2306.45;58;12;319.16;33;Prata
+C01337;Mariana Cardoso Lima;Fortaleza;CE;55;6435.67;116;25;168.31;7;Ouro
+C01759;Igor Rocha Mendes;Rio de Janeiro;RJ;38;7196.01;16;11;486.94;49;Prata
+C00609;Rodrigo Melo Cardoso;Registro;SP;29;3137.56;3;21;471.37;8;Prata
+C00023;Camila Mendes Teixeira;Fortaleza;CE;;3559.28;116;24;364.29;69;Ouro
+C01470;Rodrigo Rodrigues Moreira;São Paulo;SP;29;4872.56;56;30;349.1;9;Ouro
+C00506;Patrícia Teixeira Nascimento;Campinas;SP;38;4836.29;44;5;381.57;15;Bronze
+C00791;Rodrigo Lima Nascimento;Londrina;PR;26;9512.77;87;22;435.31;18;Ouro
+C00824;Natália Pereira Teixeira;São Paulo;SP;56;5656.64;66;18;432.23;43;Prata
+C01106;Gustavo Mendes Nascimento;Florianópolis;SC;47;4757.56;115;14;357.88;57;Prata
+C00541;Eduarda Cardoso Souza;Salvador;BA;36;2076.15;69;18;285.2;33;Prata
+C01344;Mateus Teixeira Almeida;Fortaleza;CE;59;10211.52;106;6;729.81;115;Ouro
+C01230;Daniel Costa Silva;Porto Alegre;RS;47;3887.44;91;23;252.66;21;Prata
+C01556;Aline Almeida Oliveira;Registro;SP;40;3762.85;50;21;333.25;0;Prata
+C01378;Eduarda Melo Correia;Porto Alegre;RS;48;3129.54;112;9;416.12;12;Prata
+C00968;Larissa Silva Martins;São Paulo;SP;54;10185.71;115;26;580.81;13;Ouro
+C00025;Letícia Melo Souza;Campinas;SP;26;3864.51;88;16;401.67;7;Prata
+C01508;Patrícia Lima Mendes;Salvador;BA;37;39248.23;109;12;645.44;44;Ouro
+C01043;Caio Correia Araújo;Registro;SP;;6075.27;30;11;386.92;47;Prata
+C00988;Renan Araújo Araújo;Salvador;BA;48;2773.98;21;15;457.91;37;Bronze
+C01788;Mateus Santos Moreira;Campinas;SP;30;3972.41;62;16;67.51;88;Prata
+C00813;Renata Nascimento Teixeira;Fortaleza;CE;46;4304.99;96;20;478.39;53;Ouro
+C01155;Daniel Gomes Silva;Campinas;SP;22;5992.96;92;18;574.89;7;Ouro
+C01347;Aline Lima Correia;Santos;SP;37;2399.72;8;23;308.25;128;Prata
+C01318;Letícia Cardoso Araújo;Registro;SP;39;5130.15;46;11;563.73;120;Prata
+C01567;Bruno Gomes Almeida;Registro;SP;35;2751.96;26;12;288.28;59;Bronze
+C00449;Letícia Rocha Moreira;São Paulo;SP;49;2305.42;98;33;315.87;12;Ouro
+C00793;Beatriz Lima Correia;Curitiba;PR;49;2496.51;67;16;338.54;85;Prata
+C00656;Igor Pereira Teixeira;São Paulo;SP;45;2560.29;30;18;514.37;17;Prata
+C00625;Letícia Costa Melo;Campinas;SP;20;8747.71;29;6;452.47;36;Prata
+C01582;Leandro Rodrigues Pereira;São Paulo;SP;55;3342.24;75;12;468.42;0;Prata
+C01431;Aline Gomes Souza;Porto Alegre;RS;35;4200.05;83;14;340.82;176;Prata
+C01373;Gustavo Martins Nascimento;Brasília;DF;52;10491.02;76;15;439.51;102;Ouro
+C00784;Débora Souza Barbosa;Recife;PE;44;2543.72;120;20;347.51;62;Ouro
+C00206;Natália Souza Cardoso;Belo Horizonte;MG;32;16154.67;116;10;772.59;91;Ouro
+C01434;Sabrina Cardoso Correia;São Paulo;SP;53;4067.75;4;12;471.68;2;Bronze
+C00696;Vinícius Rodrigues Souza;Recife;PE;49;5127.13;70;27;306.02;9;Ouro
+C00513;Leandro Barbosa Barbosa;Campinas;SP;28;3828.59;54;9;421.97;24;Prata
+C01504;Ana Rodrigues Lima;Fortaleza;CE;70;2958.95;9;2;235.55;32;Bronze
+C00361;Camila Cardoso Rocha;Recife;PE;46;1971.92;57;10;280.74;2;Bronze
+C00726;Marcos Fernandes Mendes;São Paulo;SP;36;4314.39;97;9;138.06;98;Prata
+C00091;Larissa Teixeira Teixeira;Campinas;SP;43;10870.19;27;7;357.64;29;Prata
+C01032;Larissa Mendes Correia;Porto Alegre;RS;40;3214.11;79;17;277.02;21;Prata
+C01608;Diego Nascimento Correia;Brasília;DF;25;4062.46;120;8;296.37;24;Prata
+C01232;Gustavo Ribeiro Teixeira;Salvador;BA;49;4593.28;77;15;365.3;12;Prata
+C01027;RENATA CORREIA CARDOSO;BELO HORIZONTE;MG;57;3361.79;13;12;455.72;42;Bronze
+C00082;Rafael Silva Rocha;Porto Alegre;RS;66;5543.26;29;7;448.16;8;Bronze
+C01216;Beatriz Silva Pereira;Brasília;DF;54;4938.49;8;12;317.85;105;Bronze
+C00198;Isabela Silva Araújo;São Paulo;SP;49;2938.0;14;14;282.87;1;Bronze
+C00561;Eduarda Rocha Pereira;São Paulo;SP;43;4355.72;40;7;434.53;8;Bronze
+C00424;Mateus Ribeiro Barbosa;São Paulo;SP;41;2904.89;4;8;366.76;20;Bronze
+C00470;André Costa Carvalho;Porto Alegre;RS;29;4935.69;49;12;476.05;69;Prata
+C00269;Vanessa Souza Martins;Curitiba;PR;46;6686.01;2;15;510.79;8;Prata
+C00417;Isabela Ribeiro Costa;Rio de Janeiro;RJ;60;5825.31;85;20;486.41;26;Ouro
+C00086;Letícia Silva Silva;Rio de Janeiro;RJ;64;4661.46;114;18;356.3;10;Ouro
+C00158;Lucas Gomes Gomes;Belo Horizonte;MG;33;4817.9;17;7;293.67;49;Bronze
+C00497;Camila Rocha Pereira;Porto Alegre;RS;92;3178.98;68;9;234.68;18;Prata
+C01059;Mônica Costa Melo;Recife;PE;18;2755.7;11;11;45;8;Bronze
+C00111;Ana Rodrigues Ribeiro;Rio de Janeiro;RJ;30;5280.75;63;11;531.03;112;Prata
+C00270;Eduarda Silva Souza;Salvador;BA;43;2842.48;104;16;304.78;4;Prata
+C01629;Letícia Pereira Fernandes;BELO HORIZONTE;MG;33;5096.11;52;8;349.0;1;Prata
+C00027;Helena Martins Pereira;Curitiba;PR;57;3677.75;33;26;231.39;40;Prata
+C00825;Felipe Nascimento Martins;Salvador;BA;20;7306.49;36;15;275.38;40;Prata
+C00600;Camila Melo Melo;Rio de Janeiro;RJ;44;8310.55;84;11;412.28;48;Prata
+C01778;Fernanda Mendes Barbosa;Goiânia;GO;25;1774.66;13;5;232.36;96;Bronze
+C01448;Sabrina Rodrigues Correia;Santos;SP;46;4770.81;6;18;183.23;8;Bronze
+C01699;Letícia Ribeiro Oliveira;Salvador;BA;18;2149.14;24;11;351.3;10;Bronze
+C00330;Juliana Oliveira Mendes;Curitiba;PR;54;2414.24;77;18;203.59;14;Prata
+C00858;João Lima Santos;Recife;PE;61;7282.91;38;7;527.16;51;Prata
+C00401;Fernanda Pereira Gomes;Registro;SP;33;2540.08;28;5;244.63;88;Bronze
+C00436;RENATA ROCHA RODRIGUES;SALVADOR;BA;46;3060.95;89;28;211.2;32;Ouro
+C01413;Helena Rodrigues Melo;São Paulo;SP;28;2769.92;45;16;508.18;36;Prata
+C01110;Natália Costa Correia;Rio de Janeiro;RJ;18;1683.41;70;28;468.85;22;Prata
+C00973;Débora Melo Rocha;Brasília;DF;33;3748.37;96;15;319.45;15;Prata
+C00788;Vinícius Santos Martins;Rio de Janeiro;RJ;36;6730.91;37;0;208.69;0;Bronze
+C01109;Mateus Ribeiro Santos;Curitiba;PR;40;2116.22;87;17;252.59;15;Prata
+C00708;Fernanda Nascimento Rocha;Curitiba;PR;54;4918.98;13;19;192.49;52;Prata
+C00920;Eduarda Gomes Oliveira;Salvador;BA;18;2723.18;8;10;452.65;153;Bronze
+C01566;Bruno Fernandes Pereira;Belo Horizonte;MG;23;6127.11;22;16;345.31;79;Prata
+C00538;Leandro Gomes Santos;Recife;PE;30;8878.29;60;14;472.5;4;Prata
+C01598;Camila Barbosa Cardoso;Recife;PE;26;;117;24;290.04;12;Ouro
+C01738;Bianca Ribeiro Rodrigues;Rio de Janeiro;RJ;35;11039.06;73;11;521.27;19;Ouro
+C01273;Mariana Teixeira Martins;Registro;SP;57;2199.76;114;20;434.61;29;Ouro
+C01097;Larissa Martins Mendes;Recife;PE;40;1859.73;68;17;333.23;27;Prata
+C01561;Diego Gomes Ribeiro;Recife;PE;45;5516.38;12;10;278.69;24;Bronze
+C01569;Mônica Teixeira Gomes;Rio de Janeiro;RJ;48;1966.17;111;27;166.07;16;Ouro
+C00283;Camila Silva Ribeiro;Registro;SP;43;3602.02;91;20;446.69;22;Prata
+C00059;Ana Martins Silva;Santos;SP;25;2875.94;50;12;311.96;11;Prata
+C00750;Mateus Souza Martins;Curitiba;PR;43;11056.74;48;18;475.25;49;Ouro
+C00220;Mariana Almeida Araújo;Florianópolis;SC;21;3957.19;12;6;397.02;20;Bronze
+C01757;Carlos Nascimento Silva;Salvador;BA;38;6090.06;26;10;263.49;173;Bronze
+C00638;Renata Pereira Araújo;São Paulo;SP;31;2630.82;92;14;516.31;104;Prata
+C00967;Vanessa Melo Martins;São Paulo;SP;55;10312.42;4;4;502.89;33;Bronze
+C00089;Bruno Carvalho Santos;Porto Alegre;RS;43;5269.03;58;15;539.09;84;Prata
+C01653;André Mendes Carvalho;Rio de Janeiro;RJ;35;6843.84;52;8;433.15;37;Prata
+C01496;Larissa Nascimento Santos;Santos;SP;48;4512.66;104;13;351.21;85;Prata
+C01175;Helena Teixeira Rodrigues;CURITIBA;PR;40;3813.99;19;13;523.49;43;Bronze
+C00365;Renata Melo Silva;Florianópolis;SC;42;10714.36;84;12;546.27;5;Ouro
+C01742;Mateus Barbosa Mendes;Recife;PE;27;17535.75;76;17;732.45;19;Ouro
+C00492;Renan Teixeira Rocha;São Paulo;SP;18;2030.04;43;28;344.37;1;Prata
+C00022;Aline Teixeira Oliveira;Registro;SP;31;15678.46;107;24;710.41;15;Diamante
+C01443;Mateus Costa Pereira;RIO DE JANEIRO;RJ;18;4152.89;70;19;468.1;5;Prata
+C00517;MÔNICA MELO MELO;SANTOS;SP;63;7626.87;98;13;289.76;19;Prata
+C01733;Mariana Gomes Santos;São Paulo;SP;45;2853.78;21;23;370.4;47;Prata
+C00350;Vinícius Araújo Mendes;Porto Alegre;RS;56;6482.49;2;11;348.72;0;Bronze
+C01079;Rodrigo Correia Moreira;Florianópolis;SC;21;2949.93;48;20;214.46;65;Prata
+C01435;Renan Almeida Silva;Campinas;SP;47;4707.12;28;16;479.17;114;Prata
+C00152;Renan Teixeira Gomes;São Paulo;SP;28;5632.42;75;15;454.03;56;Prata
+C00525;Camila Carvalho Melo;Salvador;BA;41;4654.12;89;9;322.74;123;Prata
+C00216;Eduarda Moreira Fernandes;Curitiba;PR;26;3945.1;109;22;489.01;0;Ouro
+C00741;Camila Pereira Carvalho;Curitiba;PR;34;5054.44;23;10;436.28;217;Bronze
+C01673;Mateus Rocha Fernandes; Rio de Janeiro ;RJ;41;5010.55;73;7;399.02;34;Prata
+C01313;Isabela Almeida Melo;Rio de Janeiro;RJ;22;6058.2;106;8;468.09;70;Prata
+C00630;Camila Lima Almeida;Fortaleza;CE;93;1909.75;61;11;224.24;29;Bronze
+C01534;Fernanda Gomes Mendes;Fortaleza;CE;31;3844.71;27;13;606.62;45;Prata
+C01692;Ana Carvalho Fernandes;florianopolis;SC;25;5920.62;84;14;416.75;6;Prata
+C01024;Mariana Araújo Costa;Fortaleza;CE;63;5197.16;89;20;390.96;20;Ouro
+C01607;Gabriel Martins Silva;Curitiba;PR;49;5525.84;11;15;248.05;32;Bronze
+C01438;Igor Barbosa Teixeira;Santos;SP;48;6348.78;54;6;511.81;5;Prata
+C00780;Leandro Correia Lima;Belo Horizonte;MG;65;4275.79;16;23;321.93;23;Prata
+C00453;Bruno Carvalho Mendes;Curitiba;PR;54;3040.49;48;14;457.05;10;Prata
+C00228;Renan Araújo Mendes;porto alegre ;RS;31;2616.73;17;28;369.35;35;Prata
+C00415;Natália Rodrigues Almeida;São Paulo;SP;35;2330.77;113;17;307.73;30;Prata
+C00639;Fernanda Lima Lima;São Paulo;SP;58;4465.28;118;19;338.64;101;Ouro
+C00477;Felipe Barbosa Nascimento;Porto Alegre;RS;24;4301.29;2;2;445.34;16;Bronze
+C01282;Renan Teixeira Nascimento;Belo Horizonte;MG;45;2152.82;71;17;413.51;34;Prata
+C00019;Ana Lima Gomes;São Paulo;SP;50;2414.9;39;17;268.01;30;Prata
+C01201;André Lima Barbosa;Porto Alegre;RS;45;4378.74;103;15;523.27;11;Prata
+C00322;Rodrigo Carvalho Teixeira;Porto Alegre;RS;28;4023.27;70;23;482.71;6;Prata
+C00117;Bianca Teixeira Nascimento;Salvador;BA;31;13850.1;99;10;643.87;108;Ouro
+C00345;Ana Oliveira Teixeira;Salvador;BA;46;6060.56;90;2;400.46;14;Prata
+C00833;Daniel Barbosa Araújo;Curitiba;PR;56;2800.65;59;17;504.25;22;Prata
+C00485;Marcos Silva Moreira;São Paulo;SP;43;3702.23;22;17;382.47;3;Prata
+C00768;Letícia Souza Correia;Porto Alegre;RS;73;3891.52;65;11;403.23;20;Prata
+C00723;Débora Almeida Melo;Campinas;SP;32;4988.37;46;9;249.64;5;Bronze
+C01781;Renan Barbosa Barbosa;Rio de Janeiro;RJ;18;3949.76;1;8;;17;Bronze
+C00508;Daniel Araújo Souza;Belo Horizonte;MG;41;5158.98;28;9;539.82;39;Prata
+C00047;Diego Lima Santos;Fortaleza;CE;18;2933.01;88;19;389.55;11;Prata
+C01249;Natália Lima Cardoso;Belo Horizonte;MG;49;2072.57;89;22;399.22;41;Prata
