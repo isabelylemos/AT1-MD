@@ -1,9 +1,3 @@
-"""
-ISW-039 - Exercício 4: Consumo de API REST e técnicas de amostragem
-Gera: exercicio04_api_amostragem.sql
-
-Como executar:  python exercicio04_api_amostragem.py
-"""
 import json
 import sqlite3
 from pathlib import Path

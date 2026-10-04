@@ -1,9 +1,3 @@
-"""
-ISW-039 - Exercício 3: Web Scraping do catálogo de produtos (arquivo HTML local)
-Gera: exercicio03_produtos_raspados.sql
-
-Como executar:  python exercicio03_scraping.py
-"""
 import re
 import sqlite3
 from datetime import date
